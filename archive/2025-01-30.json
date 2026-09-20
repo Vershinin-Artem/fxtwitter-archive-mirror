@@ -183,7 +183,10 @@
         },
         "provider": "twitter",
         "reposted_by": null
-      }
+      },
+      "tracked_account": "HsakaTrades",
+      "is_repost": false,
+      "post_type": "original"
     },
     {
       "tweet_id": "1884992612592947482",
@@ -451,7 +454,10 @@
         },
         "provider": "twitter",
         "reposted_by": null
-      }
+      },
+      "tracked_account": "HsakaTrades",
+      "is_repost": false,
+      "post_type": "original"
     },
     {
       "tweet_id": "1885077365774049722",
@@ -764,6 +770,18 @@
           "avatar_url": "https://pbs.twimg.com/profile_images/1690929913270792192/6n-PzBnB_200x200.jpg",
           "url": "https://x.com/HsakaTrades"
         }
+      },
+      "tracked_account": "HsakaTrades",
+      "is_repost": true,
+      "post_type": "repost",
+      "original_author": {
+        "screen_name": "kain",
+        "name": "kain"
+      },
+      "reposted_by": {
+        "screen_name": "HsakaTrades",
+        "name": "Hsaka",
+        "url": "https://x.com/HsakaTrades"
       }
     },
     {
@@ -1072,7 +1090,10 @@
         },
         "provider": "twitter",
         "reposted_by": null
-      }
+      },
+      "tracked_account": "HsakaTrades",
+      "is_repost": false,
+      "post_type": "original"
     }
   ]
 }

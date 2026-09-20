@@ -1,23 +1,68 @@
 {
-  "updated_at": "2026-09-20T15:00:40.199Z",
-  "total_tweets": 139,
+  "updated_at": "2026-09-20T16:30:43.348Z",
+  "total_tweets": 142,
   "first_date": "2025-01-29",
   "last_date": "2026-09-20",
+  "tracked_accounts": [
+    "Pentosh1",
+    "DonAlt",
+    "SalsaTekila",
+    "HsakaTrades",
+    "TedPillows",
+    "inmortalcrypto",
+    "DaanCrypto"
+  ],
   "accounts": {
-    "DaanCrypto": 19,
-    "DonAlt": 20,
-    "HsakaTrades": 18,
-    "inmortalcrypto": 18,
-    "kain": 1,
     "Pentosh1": 21,
+    "DonAlt": 20,
     "SalsaTekila": 21,
-    "TedPillows": 20,
-    "WatcherGuru": 1
+    "HsakaTrades": 20,
+    "TedPillows": 21,
+    "inmortalcrypto": 19,
+    "DaanCrypto": 20
   },
+  "account_stats": {
+    "Pentosh1": {
+      "total": 21,
+      "original_posts": 21,
+      "reposts": 0
+    },
+    "DonAlt": {
+      "total": 20,
+      "original_posts": 20,
+      "reposts": 0
+    },
+    "SalsaTekila": {
+      "total": 21,
+      "original_posts": 21,
+      "reposts": 0
+    },
+    "HsakaTrades": {
+      "total": 20,
+      "original_posts": 18,
+      "reposts": 2
+    },
+    "TedPillows": {
+      "total": 21,
+      "original_posts": 21,
+      "reposts": 0
+    },
+    "inmortalcrypto": {
+      "total": 19,
+      "original_posts": 19,
+      "reposts": 0
+    },
+    "DaanCrypto": {
+      "total": 20,
+      "original_posts": 20,
+      "reposts": 0
+    }
+  },
+  "unattributed_tweets": 0,
   "dates": [
     {
       "date": "2026-09-20",
-      "count": 16,
+      "count": 19,
       "file": "archive/2026-09-20.json"
     },
     {
