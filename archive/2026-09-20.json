@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "count": 21,
+  "count": 22,
   "tweets": [
     {
       "tweet_id": "2101468828181921974",
@@ -3094,6 +3094,168 @@
         "reposted_by": null
       },
       "tracked_account": "inmortalcrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2101768388599042527",
+      "id": "2101768388599042527",
+      "author": {
+        "screen_name": "DaanCrypto",
+        "name": "Daan Crypto Trades"
+      },
+      "created_at": "2026-09-20T20:20:07.000Z",
+      "created_timestamp": 1789935607000,
+      "text": "$BTC Beautiful weekly candle.\n\nWick down to support, sweeping local liquidity into a engulfing of the previous week.\n\nThis needs to keep pushing here into the next week and break that $83K level to flip the weekly market structure to bullish.",
+      "url": "https://x.com/DaanCrypto/status/2101768388599042527",
+      "lang": "en",
+      "likes": 26,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 7,
+      "views": 5213,
+      "quote": null,
+      "media": {
+        "photos": [
+          {
+            "id": "2101768224442339328",
+            "url": "https://pbs.twimg.com/media/HSr7EIIW0AA_aGo.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2390,
+            "height": 1780,
+            "duration": null,
+            "altText": null,
+            "variants": [],
+            "position": 0
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-09-20T20:30:39.736Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DaanCrypto/status/2101768388599042527",
+        "id": "2101768388599042527",
+        "text": "$BTC Beautiful weekly candle.\n\nWick down to support, sweeping local liquidity into a engulfing of the previous week.\n\nThis needs to keep pushing here into the next week and break that $83K level to flip the weekly market structure to bullish.",
+        "raw_text": {
+          "text": "$BTC Beautiful weekly candle.\n\nWick down to support, sweeping local liquidity into a engulfing of the previous week.\n\nThis needs to keep pushing here into the next week and break that $83K level to flip the weekly market structure to bullish. https://t.co/M1CMyI4MCV",
+          "display_text_range": [
+            0,
+            242
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                243,
+                266
+              ],
+              "id": "2101768224442339328",
+              "display": "pic.x.com/M1CMyI4MCV",
+              "original": "https://t.co/M1CMyI4MCV",
+              "replacement": "https://x.com/DaanCrypto/status/2101768388599042527/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DaanCrypto",
+          "url": "https://x.com/DaanCrypto",
+          "id": "918138253617790976",
+          "followers": 414890,
+          "following": 551,
+          "likes": 121100,
+          "media_count": 13865,
+          "statuses": 51349,
+          "name": "Daan Crypto Trades",
+          "description": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.me/DaanCryptoTG | YT: https://www.youtube.com/@daancrypto |",
+          "raw_description": {
+            "text": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.co/j7IcSHcJXs | YT: https://t.co/D1PbYpJroi |",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  76,
+                  99
+                ],
+                "original": "https://t.co/j7IcSHcJXs",
+                "replacement": "https://t.me/DaanCryptoTG",
+                "display": "t.me/DaanCryptoTG"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  106,
+                  129
+                ],
+                "original": "https://t.co/D1PbYpJroi",
+                "replacement": "https://www.youtube.com/@daancrypto",
+                "display": "youtube.com/@daancrypto"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/918138253617790976/1767862068",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1593241078035279874/7ousc-BT_200x200.jpg",
+          "joined": "Wed Oct 11 15:36:32 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.eu/b/daancrypto",
+            "display_url": "partner.bybit.eu/b/daancrypto"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 7,
+        "reposts": 0,
+        "likes": 26,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Sep 20 20:20:07 +0000 2026",
+        "created_timestamp": 1789935607,
+        "possibly_sensitive": false,
+        "views": 5213,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2101768224442339328",
+              "url": "https://pbs.twimg.com/media/HSr7EIIW0AA_aGo.jpg?name=orig",
+              "width": 2390,
+              "height": 1780
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2101768224442339328",
+              "url": "https://pbs.twimg.com/media/HSr7EIIW0AA_aGo.jpg?name=orig",
+              "width": 2390,
+              "height": 1780
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DaanCrypto",
       "is_repost": false,
       "post_type": "original"
     }
