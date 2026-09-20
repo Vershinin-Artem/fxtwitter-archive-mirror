@@ -1,0 +1,132 @@
+{
+  "date": "2025-10-29",
+  "tweets": [
+    {
+      "tweet_id": "1983607985248305272",
+      "id": "1983607985248305272",
+      "author": {
+        "screen_name": "HsakaTrades",
+        "name": "Hsaka"
+      },
+      "created_at": "2025-10-29T18:52:51.000Z",
+      "created_timestamp": 1761763971000,
+      "text": "slurped a little",
+      "url": "https://x.com/HsakaTrades/status/1983607985248305272",
+      "lang": "en",
+      "likes": 4394,
+      "reposts": 296,
+      "quotes": 138,
+      "replies": 627,
+      "views": 500590,
+      "quote": null,
+      "media": {
+        "photos": [
+          {
+            "id": "1983607527024574464",
+            "url": "https://pbs.twimg.com/media/G4cwiUYXQAAi6mU.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1024,
+            "height": 1536,
+            "duration": null,
+            "altText": null,
+            "variants": [],
+            "position": 0
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-09-20T13:31:01.999Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/HsakaTrades/status/1983607985248305272",
+        "id": "1983607985248305272",
+        "text": "slurped a little",
+        "raw_text": {
+          "text": "slurped a little https://t.co/he3hAP4P4w",
+          "display_text_range": [
+            0,
+            16
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                17,
+                40
+              ],
+              "id": "1983607527024574464",
+              "display": "pic.x.com/he3hAP4P4w",
+              "original": "https://t.co/he3hAP4P4w",
+              "replacement": "https://x.com/HsakaTrades/status/1983607985248305272/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "HsakaTrades",
+          "url": "https://x.com/HsakaTrades",
+          "id": "944686196331966464",
+          "followers": 598251,
+          "following": 3219,
+          "likes": 66150,
+          "media_count": 9067,
+          "statuses": 23005,
+          "name": "Hsaka",
+          "description": "• I trade, I drink your milkshake •",
+          "raw_description": {
+            "text": "• I trade, I drink your milkshake •",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/944686196331966464/1712600775",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1690929913270792192/6n-PzBnB_200x200.jpg",
+          "joined": "Sat Dec 23 21:48:35 +0000 2017",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 627,
+        "reposts": 296,
+        "likes": 4394,
+        "bookmarks": 127,
+        "quotes": 138,
+        "embed_card": "summary_large_image",
+        "created_at": "Wed Oct 29 18:52:51 +0000 2025",
+        "created_timestamp": 1761763971,
+        "possibly_sensitive": false,
+        "views": 500590,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "1983607527024574464",
+              "url": "https://pbs.twimg.com/media/G4cwiUYXQAAi6mU.jpg?name=orig",
+              "width": 1024,
+              "height": 1536
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "1983607527024574464",
+              "url": "https://pbs.twimg.com/media/G4cwiUYXQAAi6mU.jpg?name=orig",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      }
+    }
+  ]
+}
