@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-20T20:30:39.736Z",
-  "total_tweets": 145,
+  "updated_at": "2026-09-21T03:00:36.213Z",
+  "total_tweets": 155,
   "first_date": "2025-01-29",
-  "last_date": "2026-09-20",
+  "last_date": "2026-09-21",
   "tracked_accounts": [
     "Pentosh1",
     "DonAlt",
@@ -13,9 +13,9 @@
     "DaanCrypto"
   ],
   "accounts": {
-    "Pentosh1": 21,
-    "DonAlt": 20,
-    "SalsaTekila": 21,
+    "Pentosh1": 22,
+    "DonAlt": 21,
+    "SalsaTekila": 29,
     "HsakaTrades": 20,
     "TedPillows": 21,
     "inmortalcrypto": 20,
@@ -23,18 +23,18 @@
   },
   "account_stats": {
     "Pentosh1": {
-      "total": 21,
-      "original_posts": 21,
+      "total": 22,
+      "original_posts": 22,
       "reposts": 0
     },
     "DonAlt": {
-      "total": 20,
-      "original_posts": 20,
+      "total": 21,
+      "original_posts": 21,
       "reposts": 0
     },
     "SalsaTekila": {
-      "total": 21,
-      "original_posts": 21,
+      "total": 29,
+      "original_posts": 29,
       "reposts": 0
     },
     "HsakaTrades": {
@@ -60,6 +60,11 @@
   },
   "unattributed_tweets": 0,
   "dates": [
+    {
+      "date": "2026-09-21",
+      "count": 10,
+      "file": "archive/2026-09-21.json"
+    },
     {
       "date": "2026-09-20",
       "count": 22,
