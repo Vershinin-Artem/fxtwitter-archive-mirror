@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "count": 38,
+  "count": 39,
   "tweets": [
     {
       "tweet_id": "2104739663844175881",
@@ -6855,6 +6855,97 @@
             }
           ]
         },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "Pentosh1",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2105045697607192877",
+      "id": "2105045697607192877",
+      "author": {
+        "screen_name": "Pentosh1",
+        "name": "🐧"
+      },
+      "created_at": "2026-09-29T21:22:58.000Z",
+      "created_timestamp": 1790716978000,
+      "text": "It’s just a joke frens",
+      "url": "https://x.com/Pentosh1/status/2105045697607192877",
+      "lang": "en",
+      "likes": 9,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 2,
+      "views": 1580,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-09-29T21:30:12.721Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Pentosh1/status/2105045697607192877",
+        "id": "2105045697607192877",
+        "text": "It’s just a joke frens",
+        "raw_text": {
+          "text": "It’s just a joke frens",
+          "display_text_range": [
+            0,
+            22
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "Pentosh1",
+          "url": "https://x.com/Pentosh1",
+          "id": "1138993163706753029",
+          "followers": 947600,
+          "following": 888,
+          "likes": 126162,
+          "media_count": 423,
+          "statuses": 3120,
+          "name": "🐧",
+          "description": "full time larp",
+          "raw_description": {
+            "text": "full time larp",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1138993163706753029/1676034608",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2095507700398587904/TOfOsTF3_200x200.jpg",
+          "joined": "Thu Jun 13 02:15:06 +0000 2019",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 2,
+        "reposts": 0,
+        "likes": 9,
+        "bookmarks": 1,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Tue Sep 29 21:22:58 +0000 2026",
+        "created_timestamp": 1790716978,
+        "views": 1580,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "Pentosh1",
+          "status": "2105039615451381788",
+          "url": "https://x.com/Pentosh1/status/2105039615451381788",
+          "profile_url": "https://x.com/Pentosh1"
+        },
+        "media": {},
         "provider": "twitter",
         "reposted_by": null
       },
