@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "count": 42,
+  "count": 44,
   "tweets": [
     {
       "tweet_id": "2105454092881736180",
@@ -7272,6 +7272,230 @@
         "reposted_by": null
       },
       "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2105775929054093555",
+      "id": "2105775929054093555",
+      "author": {
+        "screen_name": "Pentosh1",
+        "name": "🐧"
+      },
+      "created_at": "2026-10-01T21:44:39.000Z",
+      "created_timestamp": 1790891079000,
+      "text": "Look at these daily candles on $ETH \n\nshall we meet here again. lets say, same time tomorrow?",
+      "url": "https://x.com/Pentosh1/status/2105775929054093555",
+      "lang": "en",
+      "likes": 151,
+      "reposts": 5,
+      "quotes": 3,
+      "replies": 23,
+      "views": 14816,
+      "quote": null,
+      "media": {
+        "photos": [
+          {
+            "id": "2105775727211610112",
+            "url": "https://pbs.twimg.com/media/HTk33fUWgAAurQO.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2802,
+            "height": 1380,
+            "duration": null,
+            "altText": null,
+            "variants": [],
+            "position": 0
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-01T22:00:06.919Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Pentosh1/status/2105775929054093555",
+        "id": "2105775929054093555",
+        "text": "Look at these daily candles on $ETH \n\nshall we meet here again. lets say, same time tomorrow?",
+        "raw_text": {
+          "text": "Look at these daily candles on $ETH \n\nshall we meet here again. lets say, same time tomorrow? https://t.co/ogaXB01M6o",
+          "display_text_range": [
+            0,
+            93
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                31,
+                35
+              ],
+              "original": "ETH"
+            },
+            {
+              "type": "media",
+              "indices": [
+                94,
+                117
+              ],
+              "id": "2105775727211610112",
+              "display": "pic.x.com/ogaXB01M6o",
+              "original": "https://t.co/ogaXB01M6o",
+              "replacement": "https://x.com/Pentosh1/status/2105775929054093555/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "Pentosh1",
+          "url": "https://x.com/Pentosh1",
+          "id": "1138993163706753029",
+          "followers": 947738,
+          "following": 888,
+          "likes": 126216,
+          "media_count": 425,
+          "statuses": 3128,
+          "name": "🐧",
+          "description": "full time larp",
+          "raw_description": {
+            "text": "full time larp",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1138993163706753029/1676034608",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2095507700398587904/TOfOsTF3_200x200.jpg",
+          "joined": "Thu Jun 13 02:15:06 +0000 2019",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 23,
+        "reposts": 5,
+        "likes": 151,
+        "bookmarks": 2,
+        "quotes": 3,
+        "embed_card": "summary_large_image",
+        "created_at": "Thu Oct 01 21:44:39 +0000 2026",
+        "created_timestamp": 1790891079,
+        "possibly_sensitive": false,
+        "views": 14816,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2105775727211610112",
+              "url": "https://pbs.twimg.com/media/HTk33fUWgAAurQO.jpg?name=orig",
+              "width": 2802,
+              "height": 1380
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2105775727211610112",
+              "url": "https://pbs.twimg.com/media/HTk33fUWgAAurQO.jpg?name=orig",
+              "width": 2802,
+              "height": 1380
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "Pentosh1",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2105792438241808630",
+      "id": "2105792438241808630",
+      "author": {
+        "screen_name": "Pentosh1",
+        "name": "🐧"
+      },
+      "created_at": "2026-10-01T22:50:15.000Z",
+      "created_timestamp": 1790895015000,
+      "text": "been waiting 6 years for the pokemon dip, dont mind waiting another 6. one day ill get one",
+      "url": "https://x.com/Pentosh1/status/2105792438241808630",
+      "lang": "en",
+      "likes": 36,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 11,
+      "views": 10901,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-01T23:00:06.896Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Pentosh1/status/2105792438241808630",
+        "id": "2105792438241808630",
+        "text": "been waiting 6 years for the pokemon dip, dont mind waiting another 6. one day ill get one",
+        "raw_text": {
+          "text": "been waiting 6 years for the pokemon dip, dont mind waiting another 6. one day ill get one",
+          "display_text_range": [
+            0,
+            90
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "Pentosh1",
+          "url": "https://x.com/Pentosh1",
+          "id": "1138993163706753029",
+          "followers": 947742,
+          "following": 888,
+          "likes": 126217,
+          "media_count": 425,
+          "statuses": 3129,
+          "name": "🐧",
+          "description": "full time larp",
+          "raw_description": {
+            "text": "full time larp",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1138993163706753029/1676034608",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2095507700398587904/TOfOsTF3_200x200.jpg",
+          "joined": "Thu Jun 13 02:15:06 +0000 2019",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 11,
+        "reposts": 0,
+        "likes": 36,
+        "bookmarks": 5,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Thu Oct 01 22:50:15 +0000 2026",
+        "created_timestamp": 1790895015,
+        "views": 10901,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "Pentosh1",
       "is_repost": false,
       "post_type": "original"
     }
