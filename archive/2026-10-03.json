@@ -1,7 +1,649 @@
 {
   "date": "2026-10-03",
-  "count": 17,
+  "count": 23,
   "tweets": [
+    {
+      "tweet_id": "2106244397407023523",
+      "id": "2106244397407023523",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-10-03T04:46:11.000Z",
+      "created_timestamp": 1791002771000,
+      "text": "After nearing local highs, $BTC has started to look dangerous on the short-term.\n\nHere is an update on what I think happens next:",
+      "url": "https://x.com/CryptoKid/status/2106244397407023523",
+      "lang": "en",
+      "likes": 52,
+      "reposts": 5,
+      "quotes": 1,
+      "replies": 9,
+      "views": 5786,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "id": "2106243550757408768",
+            "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1920x1080/mgfauJ27fTNrdD71.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106243550757408768/img/l6FzRnTo7uwY00fD.jpg",
+            "duration": 388.26,
+            "width": 1920,
+            "height": 1080,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/pl/QeMllxZ-MI2jUCm3.m3u8?tag=29&v=455",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/480x270/VCNS1cM5mseWE7zP.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/640x360/WWLweYIB4Uxo5NVf.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1280x720/njT_4S20CwlK_4bR.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1920x1080/mgfauJ27fTNrdD71.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null
+          }
+        ],
+        "videos": [
+          {
+            "id": "2106243550757408768",
+            "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1920x1080/mgfauJ27fTNrdD71.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106243550757408768/img/l6FzRnTo7uwY00fD.jpg",
+            "duration": 388.26,
+            "width": 1920,
+            "height": 1080,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/pl/QeMllxZ-MI2jUCm3.m3u8?tag=29&v=455",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/480x270/VCNS1cM5mseWE7zP.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/640x360/WWLweYIB4Uxo5NVf.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1280x720/njT_4S20CwlK_4bR.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1920x1080/mgfauJ27fTNrdD71.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null
+          }
+        ],
+        "photos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2106244397407023523",
+        "id": "2106244397407023523",
+        "text": "After nearing local highs, $BTC has started to look dangerous on the short-term.\n\nHere is an update on what I think happens next:",
+        "raw_text": {
+          "text": "After nearing local highs, $BTC has started to look dangerous on the short-term.\n\nHere is an update on what I think happens next: https://t.co/NAwby9IBFN",
+          "display_text_range": [
+            0,
+            129
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                27,
+                31
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                130,
+                153
+              ],
+              "id": "2106243550757408768",
+              "display": "pic.x.com/NAwby9IBFN",
+              "original": "https://t.co/NAwby9IBFN",
+              "replacement": "https://x.com/CryptoKid/status/2106244397407023523/video/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47258,
+          "following": 1374,
+          "likes": 7677,
+          "media_count": 1618,
+          "statuses": 8628,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 9,
+        "reposts": 5,
+        "likes": 52,
+        "bookmarks": 4,
+        "quotes": 1,
+        "embed_card": "player",
+        "created_at": "Sat Oct 03 04:46:11 +0000 2026",
+        "created_timestamp": 1791002771,
+        "possibly_sensitive": false,
+        "views": 5786,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "id": "2106243550757408768",
+              "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1920x1080/mgfauJ27fTNrdD71.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106243550757408768/img/l6FzRnTo7uwY00fD.jpg",
+              "duration": 388.26,
+              "width": 1920,
+              "height": 1080,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/pl/QeMllxZ-MI2jUCm3.m3u8?tag=29&v=455",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/480x270/VCNS1cM5mseWE7zP.mp4?tag=29",
+                  "bitrate": 256000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/640x360/WWLweYIB4Uxo5NVf.mp4?tag=29",
+                  "bitrate": 832000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1280x720/njT_4S20CwlK_4bR.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1920x1080/mgfauJ27fTNrdD71.mp4?tag=29",
+                  "bitrate": 10368000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ],
+          "videos": [
+            {
+              "id": "2106243550757408768",
+              "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1920x1080/mgfauJ27fTNrdD71.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106243550757408768/img/l6FzRnTo7uwY00fD.jpg",
+              "duration": 388.26,
+              "width": 1920,
+              "height": 1080,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/pl/QeMllxZ-MI2jUCm3.m3u8?tag=29&v=455",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/480x270/VCNS1cM5mseWE7zP.mp4?tag=29",
+                  "bitrate": 256000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/640x360/WWLweYIB4Uxo5NVf.mp4?tag=29",
+                  "bitrate": 832000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1280x720/njT_4S20CwlK_4bR.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106243550757408768/vid/avc1/1920x1080/mgfauJ27fTNrdD71.mp4?tag=29",
+                  "bitrate": 10368000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2106278310363959684",
+      "id": "2106278310363959684",
+      "author": {
+        "screen_name": "0xLeendude",
+        "name": "Leen"
+      },
+      "created_at": "2026-10-03T07:00:56.000Z",
+      "created_timestamp": 1791010856000,
+      "text": "Gg @DeFi_Paanda 👀\nBanger indeed. $MINEPAD \n\n2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+      "url": "https://x.com/0xLeendude/status/2106278310363959684",
+      "lang": "et",
+      "likes": 9,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 1,
+      "views": 931,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/0xLeendude/status/2104947595147898883",
+        "id": "2104947595147898883",
+        "text": "$MINEPAD looks like a banger project \n\n2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+        "raw_text": {
+          "text": "$MINEPAD looks like a banger project \n\n2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+          "display_text_range": [
+            0,
+            83
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                8
+              ],
+              "original": "MINEPAD"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "0xLeendude",
+          "url": "https://x.com/0xLeendude",
+          "id": "321550191",
+          "followers": 6481,
+          "following": 978,
+          "likes": 12821,
+          "media_count": 4899,
+          "statuses": 13063,
+          "name": "Leen",
+          "description": "100X Gem hunter | Crypto Enthusiast | AI Developer | My tweets are my thoughts only https://fomo.family/r/0xLeendude",
+          "raw_description": {
+            "text": "100X Gem hunter | Crypto Enthusiast | AI Developer | My tweets are my thoughts only https://t.co/LNXsKE5VV0",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  84,
+                  107
+                ],
+                "original": "https://t.co/LNXsKE5VV0",
+                "replacement": "https://fomo.family/r/0xLeendude",
+                "display": "fomo.family/r/0xLeendude"
+              }
+            ]
+          },
+          "location": "Crypto Space",
+          "banner_url": "https://pbs.twimg.com/profile_banners/321550191/1739540131",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2085473214684086273/ON_HObf8_200x200.jpg",
+          "joined": "Tue Jun 21 19:09:58 +0000 2011",
+          "protected": false,
+          "website": {
+            "url": "https://linktr.ee/leendude",
+            "display_url": "linktr.ee/leendude"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 2,
+        "likes": 6,
+        "bookmarks": 1,
+        "quotes": 1,
+        "embed_card": "tweet",
+        "created_at": "Tue Sep 29 14:53:09 +0000 2026",
+        "created_timestamp": 1790693589,
+        "views": 1833,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "tombstone",
+          "provider": "twitter",
+          "reason": "unavailable",
+          "message": "This post is unavailable",
+          "id": "2104939573528912362",
+          "url": "https://x.com/i/status/2104939573528912362"
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2106278303636021248",
+            "url": "https://pbs.twimg.com/media/HTsA9SZWYAAtVIK.jpg?name=orig",
+            "width": 1179,
+            "height": 1685
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2106278303636021248",
+            "url": "https://pbs.twimg.com/media/HTsA9SZWYAAtVIK.jpg?name=orig",
+            "width": 1179,
+            "height": 1685
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/0xLeendude/status/2106278310363959684",
+        "id": "2106278310363959684",
+        "text": "Gg @DeFi_Paanda 👀\nBanger indeed. $MINEPAD \n\n2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+        "raw_text": {
+          "text": "Gg @DeFi_Paanda 👀\nBanger indeed. $MINEPAD \n\n2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine https://t.co/VTz4dYnkwX",
+          "display_text_range": [
+            0,
+            88
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                3,
+                15
+              ],
+              "original": "DeFi_Paanda",
+              "id": "1632180126099075077"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                33,
+                41
+              ],
+              "original": "MINEPAD"
+            },
+            {
+              "type": "media",
+              "indices": [
+                89,
+                112
+              ],
+              "id": "2106278303636021248",
+              "display": "pic.x.com/VTz4dYnkwX",
+              "original": "https://t.co/VTz4dYnkwX",
+              "replacement": "https://x.com/0xLeendude/status/2106278310363959684/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "0xLeendude",
+          "url": "https://x.com/0xLeendude",
+          "id": "321550191",
+          "followers": 6481,
+          "following": 978,
+          "likes": 12821,
+          "media_count": 4899,
+          "statuses": 13063,
+          "name": "Leen",
+          "description": "100X Gem hunter | Crypto Enthusiast | AI Developer | My tweets are my thoughts only https://fomo.family/r/0xLeendude",
+          "raw_description": {
+            "text": "100X Gem hunter | Crypto Enthusiast | AI Developer | My tweets are my thoughts only https://t.co/LNXsKE5VV0",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  84,
+                  107
+                ],
+                "original": "https://t.co/LNXsKE5VV0",
+                "replacement": "https://fomo.family/r/0xLeendude",
+                "display": "fomo.family/r/0xLeendude"
+              }
+            ]
+          },
+          "location": "Crypto Space",
+          "banner_url": "https://pbs.twimg.com/profile_banners/321550191/1739540131",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2085473214684086273/ON_HObf8_200x200.jpg",
+          "joined": "Tue Jun 21 19:09:58 +0000 2011",
+          "protected": false,
+          "website": {
+            "url": "https://linktr.ee/leendude",
+            "display_url": "linktr.ee/leendude"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 3,
+        "likes": 9,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Oct 03 07:00:56 +0000 2026",
+        "created_timestamp": 1791010856,
+        "possibly_sensitive": false,
+        "views": 931,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "et",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2106278303636021248",
+              "url": "https://pbs.twimg.com/media/HTsA9SZWYAAtVIK.jpg?name=orig",
+              "width": 1179,
+              "height": 1685
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2106278303636021248",
+              "url": "https://pbs.twimg.com/media/HTsA9SZWYAAtVIK.jpg?name=orig",
+              "width": 1179,
+              "height": 1685
+            }
+          ]
+        },
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/0xLeendude/status/2104947595147898883",
+          "id": "2104947595147898883",
+          "text": "$MINEPAD looks like a banger project \n\n2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+          "raw_text": {
+            "text": "$MINEPAD looks like a banger project \n\n2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+            "display_text_range": [
+              0,
+              83
+            ],
+            "facets": [
+              {
+                "type": "symbol",
+                "indices": [
+                  0,
+                  8
+                ],
+                "original": "MINEPAD"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "0xLeendude",
+            "url": "https://x.com/0xLeendude",
+            "id": "321550191",
+            "followers": 6481,
+            "following": 978,
+            "likes": 12821,
+            "media_count": 4899,
+            "statuses": 13063,
+            "name": "Leen",
+            "description": "100X Gem hunter | Crypto Enthusiast | AI Developer | My tweets are my thoughts only https://fomo.family/r/0xLeendude",
+            "raw_description": {
+              "text": "100X Gem hunter | Crypto Enthusiast | AI Developer | My tweets are my thoughts only https://t.co/LNXsKE5VV0",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    84,
+                    107
+                  ],
+                  "original": "https://t.co/LNXsKE5VV0",
+                  "replacement": "https://fomo.family/r/0xLeendude",
+                  "display": "fomo.family/r/0xLeendude"
+                }
+              ]
+            },
+            "location": "Crypto Space",
+            "banner_url": "https://pbs.twimg.com/profile_banners/321550191/1739540131",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2085473214684086273/ON_HObf8_200x200.jpg",
+            "joined": "Tue Jun 21 19:09:58 +0000 2011",
+            "protected": false,
+            "website": {
+              "url": "https://linktr.ee/leendude",
+              "display_url": "linktr.ee/leendude"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 1,
+          "reposts": 2,
+          "likes": 6,
+          "bookmarks": 1,
+          "quotes": 1,
+          "embed_card": "tweet",
+          "created_at": "Tue Sep 29 14:53:09 +0000 2026",
+          "created_timestamp": 1790693589,
+          "views": 1833,
+          "is_note_tweet": false,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "quote": {
+            "type": "tombstone",
+            "provider": "twitter",
+            "reason": "unavailable",
+            "message": "This post is unavailable",
+            "id": "2104939573528912362",
+            "url": "https://x.com/i/status/2104939573528912362"
+          },
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1632180126099075077",
+          "name": "DeFi PANDA 🐼",
+          "screen_name": "DeFi_Paanda",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "url": "https://x.com/DeFi_Paanda"
+        }
+      },
+      "tracked_account": "DeFi_Paanda",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "0xLeendude"
+    },
     {
       "tweet_id": "2106278325706797328",
       "id": "2106278325706797328",
@@ -1631,6 +2273,227 @@
       "post_type": "original"
     },
     {
+      "tweet_id": "2106347488370155899",
+      "id": "2106347488370155899",
+      "author": {
+        "screen_name": "Alejandro_XBT",
+        "name": "Alejandro₿TC"
+      },
+      "created_at": "2026-10-03T11:35:49.000Z",
+      "created_timestamp": 1791027349000,
+      "text": "Socialism is a disease.",
+      "url": "https://x.com/Alejandro_XBT/status/2106347488370155899",
+      "lang": "en",
+      "likes": 57,
+      "reposts": 2,
+      "quotes": 0,
+      "replies": 11,
+      "views": 6307,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Alejandro_XBT/status/2106347488370155899",
+        "id": "2106347488370155899",
+        "text": "Socialism is a disease.",
+        "raw_text": {
+          "text": "Socialism is a disease.",
+          "display_text_range": [
+            0,
+            23
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "Alejandro_XBT",
+          "url": "https://x.com/Alejandro_XBT",
+          "id": "4001513242",
+          "followers": 117335,
+          "following": 802,
+          "likes": 49278,
+          "media_count": 7315,
+          "statuses": 29136,
+          "name": "Alejandro₿TC",
+          "description": "Crypto since 2017 | Helping Investors Navigate Markets | All Posts NFA + DYOR",
+          "raw_description": {
+            "text": "Crypto since 2017 | Helping Investors Navigate Markets | All Posts NFA + DYOR",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/4001513242/1710804146",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2031689596036071424/NBcARcg5_200x200.jpg",
+          "joined": "Tue Oct 20 10:56:32 +0000 2015",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 11,
+        "reposts": 2,
+        "likes": 57,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Oct 03 11:35:49 +0000 2026",
+        "created_timestamp": 1791027349,
+        "views": 6307,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "Alejandro_XBT",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2106354977513853264",
+      "id": "2106354977513853264",
+      "author": {
+        "screen_name": "Alejandro_XBT",
+        "name": "Alejandro₿TC"
+      },
+      "created_at": "2026-10-03T12:05:35.000Z",
+      "created_timestamp": 1791029135000,
+      "text": "I’m betting on a stronger dollar and that could put pressure on risk assets.\n\nA stronger DXY means tighter financial conditions, less liquidity and more pressure on risk assets especially equities and crypto.\n\nTechnically, every major DXY cycle since 2009 has started from the RSI zone marked below.\n\nIf history rhymes, we may already be at the start of the next bullish DXY impulse.",
+      "url": "https://x.com/Alejandro_XBT/status/2106354977513853264",
+      "lang": "en",
+      "likes": 58,
+      "reposts": 2,
+      "quotes": 1,
+      "replies": 7,
+      "views": 6953,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2106354921201131520",
+            "url": "https://pbs.twimg.com/media/HTtGpBEW4AAr02M.png?name=orig",
+            "width": 1986,
+            "height": 1237
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2106354921201131520",
+            "url": "https://pbs.twimg.com/media/HTtGpBEW4AAr02M.png?name=orig",
+            "width": 1986,
+            "height": 1237
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Alejandro_XBT/status/2106354977513853264",
+        "id": "2106354977513853264",
+        "text": "I’m betting on a stronger dollar and that could put pressure on risk assets.\n\nA stronger DXY means tighter financial conditions, less liquidity and more pressure on risk assets especially equities and crypto.\n\nTechnically, every major DXY cycle since 2009 has started from the RSI zone marked below.\n\nIf history rhymes, we may already be at the start of the next bullish DXY impulse.",
+        "raw_text": {
+          "text": "I’m betting on a stronger dollar and that could put pressure on risk assets.\n\nA stronger DXY means tighter financial conditions, less liquidity and more pressure on risk assets especially equities and crypto.\n\nTechnically, every major DXY cycle since 2009 has started from the RSI zone marked below.\n\nIf history rhymes, we may already be at the start of the next bullish DXY impulse.",
+          "display_text_range": [
+            0,
+            383
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                281,
+                304
+              ],
+              "id": "2106354921201131520",
+              "display": "pic.x.com/wZGTgPR00H",
+              "original": "https://t.co/wZGTgPR00H",
+              "replacement": "https://x.com/Alejandro_XBT/status/2106354977513853264/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "Alejandro_XBT",
+          "url": "https://x.com/Alejandro_XBT",
+          "id": "4001513242",
+          "followers": 117335,
+          "following": 802,
+          "likes": 49278,
+          "media_count": 7315,
+          "statuses": 29136,
+          "name": "Alejandro₿TC",
+          "description": "Crypto since 2017 | Helping Investors Navigate Markets | All Posts NFA + DYOR",
+          "raw_description": {
+            "text": "Crypto since 2017 | Helping Investors Navigate Markets | All Posts NFA + DYOR",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/4001513242/1710804146",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2031689596036071424/NBcARcg5_200x200.jpg",
+          "joined": "Tue Oct 20 10:56:32 +0000 2015",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 7,
+        "reposts": 2,
+        "likes": 58,
+        "bookmarks": 4,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Oct 03 12:05:35 +0000 2026",
+        "created_timestamp": 1791029135,
+        "possibly_sensitive": false,
+        "views": 6953,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2106354921201131520",
+              "url": "https://pbs.twimg.com/media/HTtGpBEW4AAr02M.png?name=orig",
+              "width": 1986,
+              "height": 1237
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2106354921201131520",
+              "url": "https://pbs.twimg.com/media/HTtGpBEW4AAr02M.png?name=orig",
+              "width": 1986,
+              "height": 1237
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "Alejandro_XBT",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
       "tweet_id": "2106359357453832427",
       "id": "2106359357453832427",
       "author": {
@@ -2758,6 +3621,151 @@
       "post_type": "original"
     },
     {
+      "tweet_id": "2106459272947405091",
+      "id": "2106459272947405091",
+      "author": {
+        "screen_name": "crypto_birb",
+        "name": "₿IRB"
+      },
+      "created_at": "2026-10-03T19:00:01.000Z",
+      "created_timestamp": 1791054001000,
+      "text": "Weekly looks it could teleport us to $100k in no time.",
+      "url": "https://x.com/crypto_birb/status/2106459272947405091",
+      "lang": "en",
+      "likes": 298,
+      "reposts": 21,
+      "quotes": 0,
+      "replies": 28,
+      "views": 17566,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2106330560964460544",
+            "url": "https://pbs.twimg.com/media/HTswfEHWAAAYFbA.png?name=orig",
+            "width": 900,
+            "height": 673
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2106330560964460544",
+            "url": "https://pbs.twimg.com/media/HTswfEHWAAAYFbA.png?name=orig",
+            "width": 900,
+            "height": 673
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/crypto_birb/status/2106459272947405091",
+        "id": "2106459272947405091",
+        "text": "Weekly looks it could teleport us to $100k in no time.",
+        "raw_text": {
+          "text": "Weekly looks it could teleport us to $100k in no time. https://t.co/XJL7ymZwSY",
+          "display_text_range": [
+            0,
+            54
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                55,
+                78
+              ],
+              "id": "2106330560964460544",
+              "display": "pic.x.com/XJL7ymZwSY",
+              "original": "https://t.co/XJL7ymZwSY",
+              "replacement": "https://x.com/crypto_birb/status/2106459272947405091/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "crypto_birb",
+          "url": "https://x.com/crypto_birb",
+          "id": "897446848004227072",
+          "followers": 711650,
+          "following": 1098,
+          "likes": 159983,
+          "media_count": 23880,
+          "statuses": 123708,
+          "name": "₿IRB",
+          "description": "Millionaire Speedrun",
+          "raw_description": {
+            "text": "Millionaire Speedrun",
+            "facets": []
+          },
+          "location": "💰 ⇨ ",
+          "banner_url": "https://pbs.twimg.com/profile_banners/897446848004227072/1770487220",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2020195935804919808/Nrz7VIKu_200x200.jpg",
+          "joined": "Tue Aug 15 13:16:17 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "http://bitbase.com/activity/futures-trading-competition/Millionaire-Speedrun?ref=SPEEDRUN",
+            "display_url": "bitbase.com/activity/futur…"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 28,
+        "reposts": 21,
+        "likes": 298,
+        "bookmarks": 14,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Oct 03 19:00:01 +0000 2026",
+        "created_timestamp": 1791054001,
+        "possibly_sensitive": false,
+        "views": 17566,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2106330560964460544",
+              "url": "https://pbs.twimg.com/media/HTswfEHWAAAYFbA.png?name=orig",
+              "width": 900,
+              "height": 673
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2106330560964460544",
+              "url": "https://pbs.twimg.com/media/HTswfEHWAAAYFbA.png?name=orig",
+              "width": 900,
+              "height": 673
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "crypto_birb"
+    },
+    {
       "tweet_id": "2106474619087585372",
       "id": "2106474619087585372",
       "author": {
@@ -3161,6 +4169,313 @@
       "tracked_account": "DaanCrypto",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2106498598674526380",
+      "id": "2106498598674526380",
+      "author": {
+        "screen_name": "Private_Park_",
+        "name": "Private Park"
+      },
+      "created_at": "2026-10-03T21:36:17.000Z",
+      "created_timestamp": 1791063377000,
+      "text": "The gate is open.\n\nPrivate Park is live on Robinhood Chain. The first ticket is on-chain and $PrivaP is live on pons.\n\nThe 2% trade tax goes 100% to holders. We earn from private AI usage, and half of that fee burns $PrivaP.\n\nhttps://privatepark.org",
+      "url": "https://x.com/Private_Park_/status/2106498598674526380",
+      "lang": "en",
+      "likes": 5,
+      "reposts": 2,
+      "quotes": 0,
+      "replies": 2,
+      "views": 312,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "id": "2106498507255455744",
+            "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1920x1080/VhCF9EBDn_odOKyg.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106498507255455744/img/nSJ2XQnOnlKl3m6I.jpg",
+            "duration": 37.4,
+            "width": 1920,
+            "height": 1080,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/pl/rC-VgpH96avZy4gC.m3u8?tag=29",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/480x270/MKzDBCWalcW3qYFv.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/640x360/Pjbfqmbk88ABgVqo.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1280x720/NI6Y-3jmFtiz2SK5.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1920x1080/VhCF9EBDn_odOKyg.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null
+          }
+        ],
+        "videos": [
+          {
+            "id": "2106498507255455744",
+            "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1920x1080/VhCF9EBDn_odOKyg.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106498507255455744/img/nSJ2XQnOnlKl3m6I.jpg",
+            "duration": 37.4,
+            "width": 1920,
+            "height": 1080,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/pl/rC-VgpH96avZy4gC.m3u8?tag=29",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/480x270/MKzDBCWalcW3qYFv.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/640x360/Pjbfqmbk88ABgVqo.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1280x720/NI6Y-3jmFtiz2SK5.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1920x1080/VhCF9EBDn_odOKyg.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null
+          }
+        ],
+        "photos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Private_Park_/status/2106498598674526380",
+        "id": "2106498598674526380",
+        "text": "The gate is open.\n\nPrivate Park is live on Robinhood Chain. The first ticket is on-chain and $PrivaP is live on pons.\n\nThe 2% trade tax goes 100% to holders. We earn from private AI usage, and half of that fee burns $PrivaP.\n\nhttps://privatepark.org",
+        "raw_text": {
+          "text": "The gate is open.\n\nPrivate Park is live on Robinhood Chain. The first ticket is on-chain and $PrivaP is live on pons.\n\nThe 2% trade tax goes 100% to holders. We earn from private AI usage, and half of that fee burns $PrivaP.\n\nhttps://t.co/AtDimE8jny https://t.co/WPl0CsIz2K",
+          "display_text_range": [
+            0,
+            249
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                93,
+                100
+              ],
+              "original": "PrivaP"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                216,
+                223
+              ],
+              "original": "PrivaP"
+            },
+            {
+              "type": "url",
+              "indices": [
+                226,
+                249
+              ],
+              "original": "https://t.co/AtDimE8jny",
+              "replacement": "https://privatepark.org",
+              "display": "privatepark.org"
+            },
+            {
+              "type": "media",
+              "indices": [
+                250,
+                273
+              ],
+              "id": "2106498507255455744",
+              "display": "pic.x.com/WPl0CsIz2K",
+              "original": "https://t.co/WPl0CsIz2K",
+              "replacement": "https://x.com/Private_Park_/status/2106498598674526380/video/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "Private_Park_",
+          "url": "https://x.com/Private_Park_",
+          "id": "2106375119778074625",
+          "followers": 53,
+          "following": 4,
+          "likes": 7,
+          "media_count": 8,
+          "statuses": 14,
+          "name": "Private Park",
+          "description": "Privacy for AI.\nLeave no name\nat the gate.",
+          "raw_description": {
+            "text": "Privacy for AI.\nLeave no name\nat the gate.",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/2106375119778074625/1791052846",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2106454425212485632/Q-YORC7Z_200x200.jpg",
+          "joined": "Sat Oct 03 13:27:29 +0000 2026",
+          "protected": false,
+          "website": {
+            "url": "https://privatepark.org/",
+            "display_url": "privatepark.org"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 2,
+        "reposts": 2,
+        "likes": 5,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "player",
+        "created_at": "Sat Oct 03 21:36:17 +0000 2026",
+        "created_timestamp": 1791063377,
+        "possibly_sensitive": false,
+        "views": 312,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "id": "2106498507255455744",
+              "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1920x1080/VhCF9EBDn_odOKyg.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106498507255455744/img/nSJ2XQnOnlKl3m6I.jpg",
+              "duration": 37.4,
+              "width": 1920,
+              "height": 1080,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/pl/rC-VgpH96avZy4gC.m3u8?tag=29",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/480x270/MKzDBCWalcW3qYFv.mp4?tag=29",
+                  "bitrate": 256000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/640x360/Pjbfqmbk88ABgVqo.mp4?tag=29",
+                  "bitrate": 832000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1280x720/NI6Y-3jmFtiz2SK5.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1920x1080/VhCF9EBDn_odOKyg.mp4?tag=29",
+                  "bitrate": 10368000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ],
+          "videos": [
+            {
+              "id": "2106498507255455744",
+              "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1920x1080/VhCF9EBDn_odOKyg.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2106498507255455744/img/nSJ2XQnOnlKl3m6I.jpg",
+              "duration": 37.4,
+              "width": 1920,
+              "height": 1080,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/pl/rC-VgpH96avZy4gC.m3u8?tag=29",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/480x270/MKzDBCWalcW3qYFv.mp4?tag=29",
+                  "bitrate": 256000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/640x360/Pjbfqmbk88ABgVqo.mp4?tag=29",
+                  "bitrate": 832000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1280x720/NI6Y-3jmFtiz2SK5.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2106498507255455744/vid/avc1/1920x1080/VhCF9EBDn_odOKyg.mp4?tag=29",
+                  "bitrate": 10368000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1632180126099075077",
+          "name": "DeFi PANDA 🐼",
+          "screen_name": "DeFi_Paanda",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "url": "https://x.com/DeFi_Paanda"
+        }
+      },
+      "tracked_account": "DeFi_Paanda",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "Private_Park_"
     }
   ]
 }

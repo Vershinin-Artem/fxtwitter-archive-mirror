@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "count": 40,
+  "count": 45,
   "tweets": [
     {
       "tweet_id": "2105843457982173677",
@@ -785,6 +785,105 @@
         "reposted_by": null
       },
       "tracked_account": "DonAlt",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2105885478125740221",
+      "id": "2105885478125740221",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-10-02T04:59:58.000Z",
+      "created_timestamp": 1790917198000,
+      "text": "BITCOIN IS BACK TO $86,000!!!",
+      "url": "https://x.com/CryptoKid/status/2105885478125740221",
+      "lang": "en",
+      "likes": 155,
+      "reposts": 1,
+      "quotes": 0,
+      "replies": 11,
+      "views": 5190,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2105885478125740221",
+        "id": "2105885478125740221",
+        "text": "BITCOIN IS BACK TO $86,000!!!",
+        "raw_text": {
+          "text": "BITCOIN IS BACK TO $86,000!!!",
+          "display_text_range": [
+            0,
+            29
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47258,
+          "following": 1374,
+          "likes": 7677,
+          "media_count": 1618,
+          "statuses": 8628,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 11,
+        "reposts": 1,
+        "likes": 155,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Fri Oct 02 04:59:58 +0000 2026",
+        "created_timestamp": 1790917198,
+        "views": 5190,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
       "is_repost": false,
       "post_type": "original"
     },
@@ -1930,6 +2029,329 @@
       "post_type": "original"
     },
     {
+      "tweet_id": "2105938143904248004",
+      "id": "2105938143904248004",
+      "author": {
+        "screen_name": "benbybit",
+        "name": "Ben Zhou"
+      },
+      "created_at": "2026-10-02T08:29:14.000Z",
+      "created_timestamp": 1790929754000,
+      "text": "Thanks for the interview at our Istanbul office. Türkiye’s crypto regulatory regime is developing rapidly.",
+      "url": "https://x.com/benbybit/status/2105938143904248004",
+      "lang": "en",
+      "likes": 54,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 14,
+      "views": 11469,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/fintechtime/status/2105928720813031494",
+        "id": "2105928720813031494",
+        "text": "We Want to Turn Bybit into a Super App in Türkiye!\n\nOur exclusive interview with Bybit CEO Ben Zhou for Fintechtime’s October issue is now live. 🚀\n\nTürkiye is among Bybit’s top 5 markets in the global crypto industry.\n\nhttps://fintechtime.com/2026/10/bybiti-turkiyede-bir-super-uygulamaya-donusturmek-istiyoruz/",
+        "raw_text": {
+          "text": "We Want to Turn Bybit into a Super App in Türkiye!\n\nOur exclusive interview with Bybit CEO Ben Zhou for Fintechtime’s October issue is now live. 🚀\n\nTürkiye is among Bybit’s top 5 markets in the global crypto industry.\n\nhttps://t.co/UPWmf6857r https://t.co/48g75mQqPw",
+          "display_text_range": [
+            0,
+            242
+          ],
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                219,
+                242
+              ],
+              "original": "https://t.co/UPWmf6857r",
+              "replacement": "https://fintechtime.com/2026/10/bybiti-turkiyede-bir-super-uygulamaya-donusturmek-istiyoruz/",
+              "display": "fintechtime.com/2026/10/bybiti…"
+            },
+            {
+              "type": "media",
+              "indices": [
+                243,
+                266
+              ],
+              "id": "2105928564793118720",
+              "display": "pic.x.com/48g75mQqPw",
+              "original": "https://t.co/48g75mQqPw",
+              "replacement": "https://x.com/fintechtime/status/2105928720813031494/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "fintechtime",
+          "url": "https://x.com/fintechtime",
+          "id": "3898684049",
+          "followers": 10746,
+          "following": 656,
+          "likes": 593,
+          "media_count": 6209,
+          "statuses": 23005,
+          "name": "FinTechTime 🚀",
+          "description": "Türkiye’nin fintek alanındaki otorite yayını. Fintek, bankacılık, ödeme sistemleri ve dijital finans. \nHaber/bülten: funda.gulec@fintechtime.com \n#FinTechTime",
+          "raw_description": {
+            "text": "Türkiye’nin fintek alanındaki otorite yayını. Fintek, bankacılık, ödeme sistemleri ve dijital finans. \nHaber/bülten: funda.gulec@fintechtime.com \n#FinTechTime",
+            "facets": [
+              {
+                "type": "hashtag",
+                "indices": [
+                  146,
+                  158
+                ],
+                "original": "FinTechTime"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3898684049/1790802383",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1016756292701089795/tvt8XdQJ_200x200.jpg",
+          "joined": "Thu Oct 08 10:36:10 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "http://www.fintechtime.com",
+            "display_url": "fintechtime.com"
+          },
+          "verification": {
+            "verified": false,
+            "verified_at": null,
+            "type": null
+          },
+          "type": "profile"
+        },
+        "replies": 0,
+        "reposts": 1,
+        "likes": 1,
+        "bookmarks": 0,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Oct 02 07:51:47 +0000 2026",
+        "created_timestamp": 1790927507,
+        "possibly_sensitive": false,
+        "views": 8943,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2105928564793118720",
+              "url": "https://pbs.twimg.com/media/HTnC3zrXkAAeJ-4.jpg?name=orig",
+              "width": 2048,
+              "height": 1152,
+              "altText": "Türkiye’s crypto asset sector is on the threshold of a new era. Ahead of the authorization process, the debate is no longer only about which platforms will continue operating, but also about how competition will take shape after licensing, how banks will position themselves in the sector, and how crypto platforms will evolve.\n\nTo view this new era from a global perspective, we sat down with Bybit CEO Ben Zhou. Zhou, who places Türkiye among the world’s top five crypto markets, believes that after licensing, local players will focus more on product capabilities while global platforms will place greater emphasis on localization. With Zhou, who expects cooperation rather than competition to define the relationship between banks and crypto platforms, we discussed the new era spanning Bybit’s ambitions in Türkiye, stablecoins, artificial intelligence and security."
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2105928564793118720",
+              "url": "https://pbs.twimg.com/media/HTnC3zrXkAAeJ-4.jpg?name=orig",
+              "width": 2048,
+              "height": 1152,
+              "altText": "Türkiye’s crypto asset sector is on the threshold of a new era. Ahead of the authorization process, the debate is no longer only about which platforms will continue operating, but also about how competition will take shape after licensing, how banks will position themselves in the sector, and how crypto platforms will evolve.\n\nTo view this new era from a global perspective, we sat down with Bybit CEO Ben Zhou. Zhou, who places Türkiye among the world’s top five crypto markets, believes that after licensing, local players will focus more on product capabilities while global platforms will place greater emphasis on localization. With Zhou, who expects cooperation rather than competition to define the relationship between banks and crypto platforms, we discussed the new era spanning Bybit’s ambitions in Türkiye, stablecoins, artificial intelligence and security."
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/benbybit/status/2105938143904248004",
+        "id": "2105938143904248004",
+        "text": "Thanks for the interview at our Istanbul office. Türkiye’s crypto regulatory regime is developing rapidly.",
+        "raw_text": {
+          "text": "Thanks for the interview at our Istanbul office. Türkiye’s crypto regulatory regime is developing rapidly.",
+          "display_text_range": [
+            0,
+            106
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "benbybit",
+          "url": "https://x.com/benbybit",
+          "id": "1100932506193260544",
+          "followers": 273653,
+          "following": 556,
+          "likes": 1976,
+          "media_count": 223,
+          "statuses": 2012,
+          "name": "Ben Zhou",
+          "description": "co-founder and CEO of BYBIT",
+          "raw_description": {
+            "text": "co-founder and CEO of BYBIT",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1100932506193260544/1790253786",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2084862438319779840/msxOix35_200x200.jpg",
+          "joined": "Thu Feb 28 01:35:38 +0000 2019",
+          "protected": false,
+          "website": {
+            "url": "http://www.bybit.com",
+            "display_url": "bybit.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 14,
+        "reposts": 3,
+        "likes": 54,
+        "bookmarks": 1,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Oct 02 08:29:14 +0000 2026",
+        "created_timestamp": 1790929754,
+        "views": 11469,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/fintechtime/status/2105928720813031494",
+          "id": "2105928720813031494",
+          "text": "We Want to Turn Bybit into a Super App in Türkiye!\n\nOur exclusive interview with Bybit CEO Ben Zhou for Fintechtime’s October issue is now live. 🚀\n\nTürkiye is among Bybit’s top 5 markets in the global crypto industry.\n\nhttps://fintechtime.com/2026/10/bybiti-turkiyede-bir-super-uygulamaya-donusturmek-istiyoruz/",
+          "raw_text": {
+            "text": "We Want to Turn Bybit into a Super App in Türkiye!\n\nOur exclusive interview with Bybit CEO Ben Zhou for Fintechtime’s October issue is now live. 🚀\n\nTürkiye is among Bybit’s top 5 markets in the global crypto industry.\n\nhttps://t.co/UPWmf6857r https://t.co/48g75mQqPw",
+            "display_text_range": [
+              0,
+              242
+            ],
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  219,
+                  242
+                ],
+                "original": "https://t.co/UPWmf6857r",
+                "replacement": "https://fintechtime.com/2026/10/bybiti-turkiyede-bir-super-uygulamaya-donusturmek-istiyoruz/",
+                "display": "fintechtime.com/2026/10/bybiti…"
+              },
+              {
+                "type": "media",
+                "indices": [
+                  243,
+                  266
+                ],
+                "id": "2105928564793118720",
+                "display": "pic.x.com/48g75mQqPw",
+                "original": "https://t.co/48g75mQqPw",
+                "replacement": "https://x.com/fintechtime/status/2105928720813031494/photo/1"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "fintechtime",
+            "url": "https://x.com/fintechtime",
+            "id": "3898684049",
+            "followers": 10746,
+            "following": 656,
+            "likes": 593,
+            "media_count": 6209,
+            "statuses": 23005,
+            "name": "FinTechTime 🚀",
+            "description": "Türkiye’nin fintek alanındaki otorite yayını. Fintek, bankacılık, ödeme sistemleri ve dijital finans. \nHaber/bülten: funda.gulec@fintechtime.com \n#FinTechTime",
+            "raw_description": {
+              "text": "Türkiye’nin fintek alanındaki otorite yayını. Fintek, bankacılık, ödeme sistemleri ve dijital finans. \nHaber/bülten: funda.gulec@fintechtime.com \n#FinTechTime",
+              "facets": [
+                {
+                  "type": "hashtag",
+                  "indices": [
+                    146,
+                    158
+                  ],
+                  "original": "FinTechTime"
+                }
+              ]
+            },
+            "location": "",
+            "banner_url": "https://pbs.twimg.com/profile_banners/3898684049/1790802383",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1016756292701089795/tvt8XdQJ_200x200.jpg",
+            "joined": "Thu Oct 08 10:36:10 +0000 2015",
+            "protected": false,
+            "website": {
+              "url": "http://www.fintechtime.com",
+              "display_url": "fintechtime.com"
+            },
+            "verification": {
+              "verified": false,
+              "verified_at": null,
+              "type": null
+            },
+            "type": "profile"
+          },
+          "replies": 0,
+          "reposts": 1,
+          "likes": 1,
+          "bookmarks": 0,
+          "quotes": 1,
+          "embed_card": "summary_large_image",
+          "created_at": "Fri Oct 02 07:51:47 +0000 2026",
+          "created_timestamp": 1790927507,
+          "possibly_sensitive": false,
+          "views": 8943,
+          "is_note_tweet": false,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {
+            "all": [
+              {
+                "type": "photo",
+                "id": "2105928564793118720",
+                "url": "https://pbs.twimg.com/media/HTnC3zrXkAAeJ-4.jpg?name=orig",
+                "width": 2048,
+                "height": 1152,
+                "altText": "Türkiye’s crypto asset sector is on the threshold of a new era. Ahead of the authorization process, the debate is no longer only about which platforms will continue operating, but also about how competition will take shape after licensing, how banks will position themselves in the sector, and how crypto platforms will evolve.\n\nTo view this new era from a global perspective, we sat down with Bybit CEO Ben Zhou. Zhou, who places Türkiye among the world’s top five crypto markets, believes that after licensing, local players will focus more on product capabilities while global platforms will place greater emphasis on localization. With Zhou, who expects cooperation rather than competition to define the relationship between banks and crypto platforms, we discussed the new era spanning Bybit’s ambitions in Türkiye, stablecoins, artificial intelligence and security."
+              }
+            ],
+            "photos": [
+              {
+                "type": "photo",
+                "id": "2105928564793118720",
+                "url": "https://pbs.twimg.com/media/HTnC3zrXkAAeJ-4.jpg?name=orig",
+                "width": 2048,
+                "height": 1152,
+                "altText": "Türkiye’s crypto asset sector is on the threshold of a new era. Ahead of the authorization process, the debate is no longer only about which platforms will continue operating, but also about how competition will take shape after licensing, how banks will position themselves in the sector, and how crypto platforms will evolve.\n\nTo view this new era from a global perspective, we sat down with Bybit CEO Ben Zhou. Zhou, who places Türkiye among the world’s top five crypto markets, believes that after licensing, local players will focus more on product capabilities while global platforms will place greater emphasis on localization. With Zhou, who expects cooperation rather than competition to define the relationship between banks and crypto platforms, we discussed the new era spanning Bybit’s ambitions in Türkiye, stablecoins, artificial intelligence and security."
+              }
+            ]
+          },
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "benbybit"
+    },
+    {
       "tweet_id": "2105938402323619880",
       "id": "2105938402323619880",
       "author": {
@@ -2040,6 +2462,171 @@
         "reposted_by": null
       },
       "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2105941200817828139",
+      "id": "2105941200817828139",
+      "author": {
+        "screen_name": "DrProfitCrypto",
+        "name": "Doctor Profit 🇨🇭"
+      },
+      "created_at": "2026-10-02T08:41:23.000Z",
+      "created_timestamp": 1790930483000,
+      "text": "$BTC:\n\nBitcoin is back at my short entry of 86,2k and this is the region where I’m starting to build a massive short position for the next weeks. Short orders will be placed between $86,500 and $89,500. The EXACT short entries and size will be shared in premium only!",
+      "url": "https://x.com/DrProfitCrypto/status/2105941200817828139",
+      "lang": "en",
+      "likes": 3211,
+      "reposts": 141,
+      "quotes": 17,
+      "replies": 250,
+      "views": 260855,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2105941191649083392",
+            "url": "https://pbs.twimg.com/media/HTnOWyYbQAAJT-e.jpg?name=orig",
+            "width": 1320,
+            "height": 549
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2105941191649083392",
+            "url": "https://pbs.twimg.com/media/HTnOWyYbQAAJT-e.jpg?name=orig",
+            "width": 1320,
+            "height": 549
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DrProfitCrypto/status/2105941200817828139",
+        "id": "2105941200817828139",
+        "text": "$BTC:\n\nBitcoin is back at my short entry of 86,2k and this is the region where I’m starting to build a massive short position for the next weeks. Short orders will be placed between $86,500 and $89,500. The EXACT short entries and size will be shared in premium only!",
+        "raw_text": {
+          "text": "$BTC:\n\nBitcoin is back at my short entry of 86,2k and this is the region where I’m starting to build a massive short position for the next weeks. Short orders will be placed between $86,500 and $89,500. The EXACT short entries and size will be shared in premium only! https://t.co/fAtSUuIwq6",
+          "display_text_range": [
+            0,
+            267
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                268,
+                291
+              ],
+              "id": "2105941191649083392",
+              "display": "pic.x.com/fAtSUuIwq6",
+              "original": "https://t.co/fAtSUuIwq6",
+              "replacement": "https://x.com/DrProfitCrypto/status/2105941200817828139/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DrProfitCrypto",
+          "url": "https://x.com/DrProfitCrypto",
+          "id": "1275260909896769538",
+          "followers": 518728,
+          "following": 809,
+          "likes": 9114,
+          "media_count": 3218,
+          "statuses": 11545,
+          "name": "Doctor Profit 🇨🇭",
+          "description": "Elite trader, I trade psychology, $BTC and Stocks| Educational content only. NO FINANCIAL ADVICE Join Premium: https://whop.com/drprofit-trading/",
+          "raw_description": {
+            "text": "Elite trader, I trade psychology, $BTC and Stocks| Educational content only. NO FINANCIAL ADVICE Join Premium: https://t.co/TvHxOtKhHj",
+            "facets": [
+              {
+                "type": "symbol",
+                "indices": [
+                  34,
+                  38
+                ],
+                "original": "BTC"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  111,
+                  134
+                ],
+                "original": "https://t.co/TvHxOtKhHj",
+                "replacement": "https://whop.com/drprofit-trading/",
+                "display": "whop.com/drprofit-tradi…"
+              }
+            ]
+          },
+          "location": "JOIN PREMIUM 🔝👆",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1275260909896769538/1728171341",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_200x200.jpg",
+          "joined": "Tue Jun 23 02:54:39 +0000 2020",
+          "protected": false,
+          "website": {
+            "url": "https://whop.com/drprofit-trading/drprofit-trading/",
+            "display_url": "whop.com/drprofit-tradi…"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 250,
+        "reposts": 141,
+        "likes": 3211,
+        "bookmarks": 235,
+        "quotes": 17,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Oct 02 08:41:23 +0000 2026",
+        "created_timestamp": 1790930483,
+        "possibly_sensitive": false,
+        "views": 260855,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2105941191649083392",
+              "url": "https://pbs.twimg.com/media/HTnOWyYbQAAJT-e.jpg?name=orig",
+              "width": 1320,
+              "height": 549
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2105941191649083392",
+              "url": "https://pbs.twimg.com/media/HTnOWyYbQAAJT-e.jpg?name=orig",
+              "width": 1320,
+              "height": 549
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DrProfitCrypto",
       "is_repost": false,
       "post_type": "original"
     },
@@ -2636,6 +3223,230 @@
         "reposted_by": null
       },
       "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2105953006365905358",
+      "id": "2105953006365905358",
+      "author": {
+        "screen_name": "DeFi_Paanda",
+        "name": "DeFi PANDA 🐼"
+      },
+      "created_at": "2026-10-02T09:28:18.000Z",
+      "created_timestamp": 1790933298000,
+      "text": "$SAPLING ZEC launchpad printed Alpha candle today.\n\n$MINEPAD still fuckin early as a first mover mining launchpad, ORE already showed the demand as a mining protocol, crossing 200 million+ market cap. That same mining narrative is now being applied at the launchpad level.\n\n@minepadsol 2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+      "url": "https://x.com/DeFi_Paanda/status/2105953006365905358",
+      "lang": "en",
+      "likes": 19,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 2,
+      "views": 2303,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2105952985826447360",
+            "url": "https://pbs.twimg.com/media/HTnZFTHb0AAzSmE.jpg?name=orig",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "type": "photo",
+            "id": "2105952997817884672",
+            "url": "https://pbs.twimg.com/media/HTnZF_yaoAAEfvW.jpg?name=orig",
+            "width": 1080,
+            "height": 1037
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2105952985826447360",
+            "url": "https://pbs.twimg.com/media/HTnZFTHb0AAzSmE.jpg?name=orig",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "type": "photo",
+            "id": "2105952997817884672",
+            "url": "https://pbs.twimg.com/media/HTnZF_yaoAAEfvW.jpg?name=orig",
+            "width": 1080,
+            "height": 1037
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2105953006365905358/HTnZFTHb0AAzSmE/HTnZF_yaoAAEfvW",
+            "webp": "https://mosaic.fxtwitter.com/webp/2105953006365905358/HTnZFTHb0AAzSmE/HTnZF_yaoAAEfvW"
+          }
+        },
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DeFi_Paanda/status/2105953006365905358",
+        "id": "2105953006365905358",
+        "text": "$SAPLING ZEC launchpad printed Alpha candle today.\n\n$MINEPAD still fuckin early as a first mover mining launchpad, ORE already showed the demand as a mining protocol, crossing 200 million+ market cap. That same mining narrative is now being applied at the launchpad level.\n\n@minepadsol 2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+        "raw_text": {
+          "text": "$SAPLING ZEC launchpad printed Alpha candle today.\n\n$MINEPAD still fuckin early as a first mover mining launchpad, ORE already showed the demand as a mining protocol, crossing 200 million+ market cap. That same mining narrative is now being applied at the launchpad level.\n\n@minepadsol 2EUKLvNQ63YCmjSDyJ14Tzj7ASeHGXgseYWrKAa2mine",
+          "display_text_range": [
+            0,
+            330
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                8
+              ],
+              "original": "SAPLING"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                52,
+                60
+              ],
+              "original": "MINEPAD"
+            },
+            {
+              "type": "media",
+              "indices": [
+                273,
+                296
+              ],
+              "id": "2105952985826447360",
+              "display": "pic.x.com/S57O19Xuy0",
+              "original": "https://t.co/S57O19Xuy0",
+              "replacement": "https://x.com/DeFi_Paanda/status/2105953006365905358/photo/1"
+            },
+            {
+              "type": "media",
+              "indices": [
+                273,
+                296
+              ],
+              "id": "2105952997817884672",
+              "display": "pic.x.com/S57O19Xuy0",
+              "original": "https://t.co/S57O19Xuy0",
+              "replacement": "https://x.com/DeFi_Paanda/status/2105953006365905358/photo/1"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                274,
+                285
+              ],
+              "original": "minepadsol",
+              "id": "2103565650169839617"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DeFi_Paanda",
+          "url": "https://x.com/DeFi_Paanda",
+          "id": "1632180126099075077",
+          "followers": 29244,
+          "following": 476,
+          "likes": 44932,
+          "media_count": 3705,
+          "statuses": 20428,
+          "name": "DeFi PANDA 🐼",
+          "description": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.me/PandaPrint1",
+          "raw_description": {
+            "text": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.co/Jdv11vdaJ6",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  83,
+                  106
+                ],
+                "original": "https://t.co/Jdv11vdaJ6",
+                "replacement": "https://t.me/PandaPrint1",
+                "display": "t.me/PandaPrint1"
+              }
+            ]
+          },
+          "location": "Living in PANDA VERSE ~ ",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1632180126099075077/1679340485",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "joined": "Sun Mar 05 00:44:13 +0000 2023",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 2,
+        "reposts": 3,
+        "likes": 19,
+        "bookmarks": 1,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Oct 02 09:28:18 +0000 2026",
+        "created_timestamp": 1790933298,
+        "possibly_sensitive": false,
+        "views": 2303,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2105952985826447360",
+              "url": "https://pbs.twimg.com/media/HTnZFTHb0AAzSmE.jpg?name=orig",
+              "width": 1920,
+              "height": 1080
+            },
+            {
+              "type": "photo",
+              "id": "2105952997817884672",
+              "url": "https://pbs.twimg.com/media/HTnZF_yaoAAEfvW.jpg?name=orig",
+              "width": 1080,
+              "height": 1037
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2105952985826447360",
+              "url": "https://pbs.twimg.com/media/HTnZFTHb0AAzSmE.jpg?name=orig",
+              "width": 1920,
+              "height": 1080
+            },
+            {
+              "type": "photo",
+              "id": "2105952997817884672",
+              "url": "https://pbs.twimg.com/media/HTnZF_yaoAAEfvW.jpg?name=orig",
+              "width": 1080,
+              "height": 1037
+            }
+          ],
+          "mosaic": {
+            "type": "mosaic_photo",
+            "formats": {
+              "jpeg": "https://mosaic.fxtwitter.com/jpeg/2105953006365905358/HTnZFTHb0AAzSmE/HTnZF_yaoAAEfvW",
+              "webp": "https://mosaic.fxtwitter.com/webp/2105953006365905358/HTnZFTHb0AAzSmE/HTnZF_yaoAAEfvW"
+            }
+          }
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DeFi_Paanda",
       "is_repost": false,
       "post_type": "original"
     },
@@ -4653,6 +5464,102 @@
       "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2106070319018688779",
+      "id": "2106070319018688779",
+      "author": {
+        "screen_name": "benjamincowen",
+        "name": "Benjamin Cowen"
+      },
+      "created_at": "2026-10-02T17:14:27.000Z",
+      "created_timestamp": 1790961267000,
+      "text": "Unemployment Rate came in slightly higher than expectations, and can mostly be attributed to an increase in the labor force participation rate.\n\nBig miss on nonfarm payrolls, but yields are going higher anyways, showcasing that the market is still more worried about inflation",
+      "url": "https://x.com/benjamincowen/status/2106070319018688779",
+      "lang": "en",
+      "likes": 1261,
+      "reposts": 50,
+      "quotes": 2,
+      "replies": 62,
+      "views": 105341,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T11:54:06.137Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/benjamincowen/status/2106070319018688779",
+        "id": "2106070319018688779",
+        "text": "Unemployment Rate came in slightly higher than expectations, and can mostly be attributed to an increase in the labor force participation rate.\n\nBig miss on nonfarm payrolls, but yields are going higher anyways, showcasing that the market is still more worried about inflation",
+        "raw_text": {
+          "text": "Unemployment Rate came in slightly higher than expectations, and can mostly be attributed to an increase in the labor force participation rate.\n\nBig miss on nonfarm payrolls, but yields are going higher anyways, showcasing that the market is still more worried about inflation",
+          "display_text_range": [
+            0,
+            276
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "benjamincowen",
+          "url": "https://x.com/benjamincowen",
+          "id": "943506806931734528",
+          "followers": 1267422,
+          "following": 1253,
+          "likes": 20602,
+          "media_count": 7837,
+          "statuses": 29934,
+          "name": "Benjamin Cowen",
+          "description": "Founder & CEO, ITC | Macro, commodities & digital assets | Liquidity, labor & risk cycles | PhD Engineering | Former NASA, Sandia National Labs",
+          "raw_description": {
+            "text": "Founder & CEO, ITC | Macro, commodities & digital assets | Liquidity, labor & risk cycles | PhD Engineering | Former NASA, Sandia National Labs",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1661406326709256193/fcLfe0jv_200x200.jpg",
+          "joined": "Wed Dec 20 15:42:07 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://www.benjamincowen.com/",
+            "display_url": "benjamincowen.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 62,
+        "reposts": 50,
+        "likes": 1261,
+        "bookmarks": 28,
+        "quotes": 2,
+        "embed_card": "tweet",
+        "created_at": "Fri Oct 02 17:14:27 +0000 2026",
+        "created_timestamp": 1790961267,
+        "views": 105341,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "benjamincowen"
     },
     {
       "tweet_id": "2106074466694410639",

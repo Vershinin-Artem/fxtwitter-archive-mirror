@@ -1,6 +1,8 @@
 {
-  "updated_at": "2026-10-04T07:30:16.771Z",
-  "total_tweets": 617,
+  "updated_at": "2026-10-04T11:54:06.137Z",
+  "latest_tweet_collected_at": "2026-10-04T11:54:06.137Z",
+  "latest_tweet_created_at": "2026-10-04T11:48:41.000Z",
+  "total_tweets": 644,
   "first_date": "2025-01-29",
   "last_date": "2026-10-04",
   "tracked_accounts": [
@@ -10,16 +12,28 @@
     "HsakaTrades",
     "TedPillows",
     "inmortalcrypto",
-    "DaanCrypto"
+    "DaanCrypto",
+    "Sheldino_D",
+    "CryptoKid",
+    "cryptolimbo",
+    "DeFi_Paanda",
+    "DrProfitCrypto",
+    "Alejandro_XBT"
   ],
   "accounts": {
     "Pentosh1": 38,
     "DonAlt": 41,
-    "SalsaTekila": 115,
+    "SalsaTekila": 117,
     "HsakaTrades": 20,
-    "TedPillows": 260,
+    "TedPillows": 265,
     "inmortalcrypto": 51,
-    "DaanCrypto": 92
+    "DaanCrypto": 93,
+    "Sheldino_D": 0,
+    "CryptoKid": 10,
+    "cryptolimbo": 0,
+    "DeFi_Paanda": 5,
+    "DrProfitCrypto": 2,
+    "Alejandro_XBT": 2
   },
   "account_stats": {
     "Pentosh1": {
@@ -33,8 +47,8 @@
       "reposts": 0
     },
     "SalsaTekila": {
-      "total": 115,
-      "original_posts": 109,
+      "total": 117,
+      "original_posts": 111,
       "reposts": 6
     },
     "HsakaTrades": {
@@ -43,8 +57,8 @@
       "reposts": 2
     },
     "TedPillows": {
-      "total": 260,
-      "original_posts": 260,
+      "total": 265,
+      "original_posts": 265,
       "reposts": 0
     },
     "inmortalcrypto": {
@@ -53,8 +67,38 @@
       "reposts": 0
     },
     "DaanCrypto": {
-      "total": 92,
-      "original_posts": 92,
+      "total": 93,
+      "original_posts": 93,
+      "reposts": 0
+    },
+    "Sheldino_D": {
+      "total": 0,
+      "original_posts": 0,
+      "reposts": 0
+    },
+    "CryptoKid": {
+      "total": 10,
+      "original_posts": 7,
+      "reposts": 3
+    },
+    "cryptolimbo": {
+      "total": 0,
+      "original_posts": 0,
+      "reposts": 0
+    },
+    "DeFi_Paanda": {
+      "total": 5,
+      "original_posts": 3,
+      "reposts": 2
+    },
+    "DrProfitCrypto": {
+      "total": 2,
+      "original_posts": 2,
+      "reposts": 0
+    },
+    "Alejandro_XBT": {
+      "total": 2,
+      "original_posts": 2,
       "reposts": 0
     }
   },
@@ -62,22 +106,22 @@
   "dates": [
     {
       "date": "2026-10-04",
-      "count": 1,
+      "count": 12,
       "file": "archive/2026-10-04.json"
     },
     {
       "date": "2026-10-03",
-      "count": 17,
+      "count": 23,
       "file": "archive/2026-10-03.json"
     },
     {
       "date": "2026-10-02",
-      "count": 40,
+      "count": 45,
       "file": "archive/2026-10-02.json"
     },
     {
       "date": "2026-10-01",
-      "count": 44,
+      "count": 49,
       "file": "archive/2026-10-01.json"
     },
     {
