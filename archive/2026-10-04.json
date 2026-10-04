@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "count": 12,
+  "count": 14,
   "tweets": [
     {
       "tweet_id": "2106574583461769524",
@@ -2155,6 +2155,290 @@
         "reposted_by": null
       },
       "tracked_account": "DaanCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2106725380136878239",
+      "id": "2106725380136878239",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-10-04T12:37:26.000Z",
+      "created_timestamp": 1791117446000,
+      "text": "I'm in the trenches",
+      "url": "https://x.com/SalsaTekila/status/2106725380136878239",
+      "lang": "en",
+      "likes": 23,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 5,
+      "views": 4740,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2106725360268455936",
+            "url": "https://pbs.twimg.com/media/HTyXjaIbsAAg2qF.png?name=orig",
+            "width": 468,
+            "height": 92
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2106725360268455936",
+            "url": "https://pbs.twimg.com/media/HTyXjaIbsAAg2qF.png?name=orig",
+            "width": 468,
+            "height": 92
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T14:19:32.478Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2106725380136878239",
+        "id": "2106725380136878239",
+        "text": "I'm in the trenches",
+        "raw_text": {
+          "text": "I'm in the trenches https://t.co/MsbMitRE8u",
+          "display_text_range": [
+            0,
+            19
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                20,
+                43
+              ],
+              "id": "2106725360268455936",
+              "display": "pic.x.com/MsbMitRE8u",
+              "original": "https://t.co/MsbMitRE8u",
+              "replacement": "https://x.com/SalsaTekila/status/2106725380136878239/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227725,
+          "following": 584,
+          "likes": 110122,
+          "media_count": 276,
+          "statuses": 1932,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 5,
+        "reposts": 0,
+        "likes": 23,
+        "bookmarks": 6,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Oct 04 12:37:26 +0000 2026",
+        "created_timestamp": 1791117446,
+        "possibly_sensitive": false,
+        "views": 4740,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2106725360268455936",
+              "url": "https://pbs.twimg.com/media/HTyXjaIbsAAg2qF.png?name=orig",
+              "width": 468,
+              "height": 92
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2106725360268455936",
+              "url": "https://pbs.twimg.com/media/HTyXjaIbsAAg2qF.png?name=orig",
+              "width": 468,
+              "height": 92
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2106735990190797147",
+      "id": "2106735990190797147",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-10-04T13:19:35.000Z",
+      "created_timestamp": 1791119975000,
+      "text": "$BTC price and RSI are both holding their uptrend.\n\nThe rally will continue until Bitcoin breaks below it.",
+      "url": "https://x.com/TedPillows/status/2106735990190797147",
+      "lang": "en",
+      "likes": 405,
+      "reposts": 29,
+      "quotes": 0,
+      "replies": 67,
+      "views": 18652,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2106735688938889216",
+            "url": "https://pbs.twimg.com/media/HTyg8nbXIAAWQR_.png?name=orig",
+            "width": 881,
+            "height": 815
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2106735688938889216",
+            "url": "https://pbs.twimg.com/media/HTyg8nbXIAAWQR_.png?name=orig",
+            "width": 881,
+            "height": 815
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-04T14:19:32.478Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2106735990190797147",
+        "id": "2106735990190797147",
+        "text": "$BTC price and RSI are both holding their uptrend.\n\nThe rally will continue until Bitcoin breaks below it.",
+        "raw_text": {
+          "text": "$BTC price and RSI are both holding their uptrend.\n\nThe rally will continue until Bitcoin breaks below it. https://t.co/jRfoO7Xvy3",
+          "display_text_range": [
+            0,
+            106
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                107,
+                130
+              ],
+              "id": "2106735688938889216",
+              "display": "pic.x.com/jRfoO7Xvy3",
+              "original": "https://t.co/jRfoO7Xvy3",
+              "replacement": "https://x.com/TedPillows/status/2106735990190797147/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 321721,
+          "following": 17126,
+          "likes": 369837,
+          "media_count": 11114,
+          "statuses": 242652,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 67,
+        "reposts": 29,
+        "likes": 405,
+        "bookmarks": 12,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Oct 04 13:19:35 +0000 2026",
+        "created_timestamp": 1791119975,
+        "possibly_sensitive": false,
+        "views": 18652,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2106735688938889216",
+              "url": "https://pbs.twimg.com/media/HTyg8nbXIAAWQR_.png?name=orig",
+              "width": 881,
+              "height": 815
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2106735688938889216",
+              "url": "https://pbs.twimg.com/media/HTyg8nbXIAAWQR_.png?name=orig",
+              "width": 881,
+              "height": 815
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
     }
