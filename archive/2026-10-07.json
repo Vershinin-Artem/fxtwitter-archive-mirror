@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "count": 48,
+  "count": 49,
   "tweets": [
     {
       "tweet_id": "2107646976422707477",
@@ -5819,6 +5819,144 @@
       "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2107855901713702922",
+      "id": "2107855901713702922",
+      "author": {
+        "screen_name": "carlmoon",
+        "name": "Carl Moon 🌙"
+      },
+      "created_at": "2026-10-07T15:29:43.000Z",
+      "created_timestamp": 1791386983000,
+      "text": "BIG BITCOIN WARNING!!! https://youtu.be/wBdvaOuN428?si=kN65xdAScxqEfZeR",
+      "url": "https://x.com/carlmoon/status/2107855901713702922",
+      "lang": "en",
+      "likes": 106,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 24,
+      "views": 46575,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-08T19:48:37.961Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/carlmoon/status/2107855901713702922",
+        "id": "2107855901713702922",
+        "text": "BIG BITCOIN WARNING!!! https://youtu.be/wBdvaOuN428?si=kN65xdAScxqEfZeR",
+        "raw_text": {
+          "text": "BIG BITCOIN WARNING!!! https://t.co/ijuS5DQGgK",
+          "display_text_range": [
+            0,
+            46
+          ],
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                23,
+                46
+              ],
+              "original": "https://t.co/ijuS5DQGgK",
+              "replacement": "https://youtu.be/wBdvaOuN428?si=kN65xdAScxqEfZeR",
+              "display": "youtu.be/wBdvaOuN428?si…"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "carlmoon",
+          "url": "https://x.com/carlmoon",
+          "id": "978732571738755072",
+          "followers": 1527116,
+          "following": 602,
+          "likes": 20141,
+          "media_count": 6864,
+          "statuses": 31370,
+          "name": "Carl Moon 🌙",
+          "description": "Law Of Attraction | Founder of @TheMoonShow | Artist | Official partner of @WEEX_Official",
+          "raw_description": {
+            "text": "Law Of Attraction | Founder of @TheMoonShow | Artist | Official partner of @WEEX_Official",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  31,
+                  43
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  75,
+                  89
+                ],
+                "original": "WEEX_Official",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/978732571738755072/1774531626",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2012585979542900736/X6tQRKap_200x200.jpg",
+          "joined": "Tue Mar 27 20:36:43 +0000 2018",
+          "protected": false,
+          "website": {
+            "url": "https://youtube.com/@themoon",
+            "display_url": "youtube.com/@themoon"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 24,
+        "reposts": 3,
+        "likes": 106,
+        "bookmarks": 1,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Wed Oct 07 15:29:43 +0000 2026",
+        "created_timestamp": 1791386983,
+        "possibly_sensitive": false,
+        "views": 46575,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "card": {
+          "url": "https://youtu.be/wBdvaOuN428?si=kN65xdAScxqEfZeR",
+          "title": "BIG BITCOIN WARNING!!!",
+          "description": "🟨 WEEX: https://themoon.co/DailyWEEX 👉 UP TO $60,000 BONUS🏅 BYBIT:...",
+          "domain": "www.youtube.com",
+          "image": {
+            "width": 480,
+            "height": 251,
+            "url": "https://pbs.twimg.com/card_img/2107855905589178368/u9IUAT-H?format=jpg&name=600x314"
+          }
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "carlmoon"
     },
     {
       "tweet_id": "2107857624062361958",
