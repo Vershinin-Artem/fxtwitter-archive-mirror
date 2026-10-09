@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "count": 87,
+  "count": 88,
   "tweets": [
     {
       "tweet_id": "2108004845416595743",
@@ -6420,6 +6420,151 @@
       "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2108190207505776867",
+      "id": "2108190207505776867",
+      "author": {
+        "screen_name": "cmsholdings",
+        "name": "작전명: 에픽 CMS"
+      },
+      "created_at": "2026-10-08T13:38:08.000Z",
+      "created_timestamp": 1791466688000,
+      "text": "",
+      "url": "https://x.com/cmsholdings/status/2108190207505776867",
+      "lang": null,
+      "likes": 65,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 4,
+      "views": 5093,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2108190196529295360",
+            "url": "https://pbs.twimg.com/media/HUHL0GcW8AASyxG.png?name=orig",
+            "width": 746,
+            "height": 598
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2108190196529295360",
+            "url": "https://pbs.twimg.com/media/HUHL0GcW8AASyxG.png?name=orig",
+            "width": 746,
+            "height": 598
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-09T06:35:35.052Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/cmsholdings/status/2108190207505776867",
+        "id": "2108190207505776867",
+        "text": "",
+        "raw_text": {
+          "text": "https://t.co/hG1sXcDEiq",
+          "display_text_range": [
+            0,
+            0
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                0,
+                23
+              ],
+              "id": "2108190196529295360",
+              "display": "pic.x.com/hG1sXcDEiq",
+              "original": "https://t.co/hG1sXcDEiq",
+              "replacement": "https://x.com/cmsholdings/status/2108190207505776867/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "cmsholdings",
+          "url": "https://x.com/cmsholdings",
+          "id": "1196542741871771648",
+          "followers": 179391,
+          "following": 1231,
+          "likes": 110935,
+          "media_count": 4806,
+          "statuses": 38681,
+          "name": "작전명: 에픽 CMS",
+          "description": "돈을 벌고 싶어, 아니면 네가 옳다는 걸 증명하고 싶어?",
+          "raw_description": {
+            "text": "돈을 벌고 싶어, 아니면 네가 옳다는 걸 증명하고 싶어?",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1196542741871771648/1661510715",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1979216534292590592/p80bU77G_200x200.jpg",
+          "joined": "Mon Nov 18 21:36:49 +0000 2019",
+          "protected": false,
+          "website": {
+            "url": "http://cmsholdings.io",
+            "display_url": "cmsholdings.io"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 4,
+        "reposts": 3,
+        "likes": 65,
+        "bookmarks": 3,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Thu Oct 08 13:38:08 +0000 2026",
+        "created_timestamp": 1791466688,
+        "possibly_sensitive": false,
+        "views": 5093,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": null,
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2108190196529295360",
+              "url": "https://pbs.twimg.com/media/HUHL0GcW8AASyxG.png?name=orig",
+              "width": 746,
+              "height": 598
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2108190196529295360",
+              "url": "https://pbs.twimg.com/media/HUHL0GcW8AASyxG.png?name=orig",
+              "width": 746,
+              "height": 598
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1566114613",
+          "name": "SalsaTekila",
+          "screen_name": "SalsaTekila",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "url": "https://x.com/SalsaTekila"
+        }
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "cmsholdings"
     },
     {
       "tweet_id": "2108193126418460852",
