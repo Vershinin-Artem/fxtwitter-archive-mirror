@@ -1,8 +1,156 @@
 {
-  "updated_at": "2026-10-09T23:26:22.168Z",
-  "latest_tweet_created_at": "2026-10-09T22:11:03.000Z",
+  "updated_at": "2026-10-10T02:38:38.589Z",
+  "latest_tweet_created_at": "2026-10-10T02:01:20.000Z",
   "count": 200,
   "tweets": [
+    {
+      "tweet_id": "2108739626970354087",
+      "id": "2108739626970354087",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-10-10T02:01:20.000Z",
+      "created_timestamp": 1791597680000,
+      "text": "I quite like this retest on the TOTAL3 chart, buying my top altcoins here for DCA.\n\nIf we go lower, I will add more.",
+      "url": "https://x.com/CryptoKid/status/2108739626970354087",
+      "lang": "en",
+      "likes": 11,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 1,
+      "views": 1158,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2108739502135246848",
+            "url": "https://pbs.twimg.com/media/HUO_Z5SbAAACA2P.jpg?name=orig",
+            "width": 2884,
+            "height": 1902
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2108739502135246848",
+            "url": "https://pbs.twimg.com/media/HUO_Z5SbAAACA2P.jpg?name=orig",
+            "width": 2884,
+            "height": 1902
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-10T02:38:38.589Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2108739626970354087",
+        "id": "2108739626970354087",
+        "text": "I quite like this retest on the TOTAL3 chart, buying my top altcoins here for DCA.\n\nIf we go lower, I will add more.",
+        "raw_text": {
+          "text": "I quite like this retest on the TOTAL3 chart, buying my top altcoins here for DCA.\n\nIf we go lower, I will add more. https://t.co/U8jGgH1cDs",
+          "display_text_range": [
+            0,
+            116
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                117,
+                140
+              ],
+              "id": "2108739502135246848",
+              "display": "pic.x.com/U8jGgH1cDs",
+              "original": "https://t.co/U8jGgH1cDs",
+              "replacement": "https://x.com/CryptoKid/status/2108739626970354087/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47592,
+          "following": 1380,
+          "likes": 7747,
+          "media_count": 1639,
+          "statuses": 8682,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Oct 10 02:01:20 +0000 2026",
+        "created_timestamp": 1791597680,
+        "possibly_sensitive": false,
+        "views": 1158,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2108739502135246848",
+              "url": "https://pbs.twimg.com/media/HUO_Z5SbAAACA2P.jpg?name=orig",
+              "width": 2884,
+              "height": 1902
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2108739502135246848",
+              "url": "https://pbs.twimg.com/media/HUO_Z5SbAAACA2P.jpg?name=orig",
+              "width": 2884,
+              "height": 1902
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
     {
       "tweet_id": "2108681675555360978",
       "id": "2108681675555360978",
@@ -33839,152 +33987,6 @@
               "url": "https://pbs.twimg.com/media/HT841iMWoAA5n8I.png?name=orig",
               "width": 721,
               "height": 811
-            }
-          ]
-        },
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "TedPillows",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2107456688379122139",
-      "id": "2107456688379122139",
-      "author": {
-        "screen_name": "TedPillows",
-        "name": "Ted"
-      },
-      "created_at": "2026-10-06T13:03:23.000Z",
-      "created_timestamp": 1791291803000,
-      "text": "$BTC is back above the $86,000 level.\n\nUS stock futures are up today, while Oil is dropping.\n\nPre-market stock trading insights:\n\n▫️Nasdaq futures is up 0.47% 🟠\n\n▫️S&P futures is up 0.37% 🟠",
-      "url": "https://x.com/TedPillows/status/2107456688379122139",
-      "lang": "en",
-      "likes": 248,
-      "reposts": 21,
-      "quotes": 3,
-      "replies": 60,
-      "views": 20603,
-      "quote": null,
-      "media": {
-        "all": [
-          {
-            "type": "photo",
-            "id": "2107456144927068160",
-            "url": "https://pbs.twimg.com/media/HT8wMrIXkAAViw0.jpg?name=orig",
-            "width": 997,
-            "height": 522
-          }
-        ],
-        "photos": [
-          {
-            "type": "photo",
-            "id": "2107456144927068160",
-            "url": "https://pbs.twimg.com/media/HT8wMrIXkAAViw0.jpg?name=orig",
-            "width": 997,
-            "height": 522
-          }
-        ],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-06T16:12:57.807Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/TedPillows/status/2107456688379122139",
-        "id": "2107456688379122139",
-        "text": "$BTC is back above the $86,000 level.\n\nUS stock futures are up today, while Oil is dropping.\n\nPre-market stock trading insights:\n\n▫️Nasdaq futures is up 0.47% 🟠\n\n▫️S&P futures is up 0.37% 🟠",
-        "raw_text": {
-          "text": "$BTC is back above the $86,000 level.\n\nUS stock futures are up today, while Oil is dropping.\n\nPre-market stock trading insights:\n\n▫️Nasdaq futures is up 0.47% 🟠\n\n▫️S&amp;P futures is up 0.37% 🟠 https://t.co/kcgQJbfXu6",
-          "display_text_range": [
-            0,
-            193
-          ],
-          "facets": [
-            {
-              "type": "symbol",
-              "indices": [
-                0,
-                4
-              ],
-              "original": "BTC"
-            },
-            {
-              "type": "media",
-              "indices": [
-                194,
-                217
-              ],
-              "id": "2107456144927068160",
-              "display": "pic.x.com/kcgQJbfXu6",
-              "original": "https://t.co/kcgQJbfXu6",
-              "replacement": "https://x.com/TedPillows/status/2107456688379122139/photo/1"
-            }
-          ]
-        },
-        "author": {
-          "screen_name": "TedPillows",
-          "url": "https://x.com/TedPillows",
-          "id": "3222562058",
-          "followers": 321802,
-          "following": 17120,
-          "likes": 370128,
-          "media_count": 11088,
-          "statuses": 242950,
-          "name": "Ted",
-          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-          "raw_description": {
-            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
-          "joined": "Thu May 21 18:01:13 +0000 2015",
-          "protected": false,
-          "website": {
-            "url": "https://tedpillows.substack.com/",
-            "display_url": "tedpillows.substack.com"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 60,
-        "reposts": 21,
-        "likes": 248,
-        "bookmarks": 1,
-        "quotes": 3,
-        "embed_card": "summary_large_image",
-        "created_at": "Tue Oct 06 13:03:23 +0000 2026",
-        "created_timestamp": 1791291803,
-        "possibly_sensitive": false,
-        "views": 20603,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {
-          "all": [
-            {
-              "type": "photo",
-              "id": "2107456144927068160",
-              "url": "https://pbs.twimg.com/media/HT8wMrIXkAAViw0.jpg?name=orig",
-              "width": 997,
-              "height": 522
-            }
-          ],
-          "photos": [
-            {
-              "type": "photo",
-              "id": "2107456144927068160",
-              "url": "https://pbs.twimg.com/media/HT8wMrIXkAAViw0.jpg?name=orig",
-              "width": 997,
-              "height": 522
             }
           ]
         },

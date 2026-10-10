@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-09T23:26:22.168Z",
-  "status": "partial",
+  "checked_at": "2026-10-10T02:38:38.589Z",
+  "status": "ok",
   "source": "direct_fxtwitter",
-  "successful_accounts": 12,
+  "successful_accounts": 13,
   "required_accounts": 13,
   "accounts": {
     "Pentosh1": {
@@ -36,15 +36,15 @@
       "error": null
     },
     "inmortalcrypto": {
-      "ok": false,
-      "fetched": 0,
+      "ok": true,
+      "fetched": 38,
       "new": 0,
-      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
+      "error": null
     },
     "DaanCrypto": {
       "ok": true,
       "fetched": 38,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     "Sheldino_D": {
@@ -56,7 +56,7 @@
     "CryptoKid": {
       "ok": true,
       "fetched": 32,
-      "new": 0,
+      "new": 1,
       "error": null
     },
     "cryptolimbo": {
@@ -68,7 +68,7 @@
     "DeFi_Paanda": {
       "ok": true,
       "fetched": 39,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     "DrProfitCrypto": {
@@ -80,7 +80,7 @@
     "Alejandro_XBT": {
       "ok": true,
       "fetched": 37,
-      "new": 1,
+      "new": 0,
       "error": null
     }
   }
