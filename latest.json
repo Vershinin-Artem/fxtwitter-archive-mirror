@@ -1,8 +1,201 @@
 {
-  "updated_at": "2026-10-10T23:25:41.837Z",
-  "latest_tweet_created_at": "2026-10-10T20:01:00.000Z",
+  "updated_at": "2026-10-11T02:06:57.158Z",
+  "latest_tweet_created_at": "2026-10-11T01:50:21.000Z",
   "count": 200,
   "tweets": [
+    {
+      "tweet_id": "2109099250852491549",
+      "id": "2109099250852491549",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-10-11T01:50:21.000Z",
+      "created_timestamp": 1791683421000,
+      "text": "It’s retarded to give huge leverage, no KYC, and a 10M limit per account while granting zero market impact on execution.\n\nThis either gets fixed or papertrade gets drained. The queue is probably why they’re not already zeroed out.",
+      "url": "https://x.com/SalsaTekila/status/2109099250852491549",
+      "lang": "en",
+      "likes": 4,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 1,
+      "views": 446,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-11T02:06:57.158Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2109099250852491549",
+        "id": "2109099250852491549",
+        "text": "It’s retarded to give huge leverage, no KYC, and a 10M limit per account while granting zero market impact on execution.\n\nThis either gets fixed or papertrade gets drained. The queue is probably why they’re not already zeroed out.",
+        "raw_text": {
+          "text": "It’s retarded to give huge leverage, no KYC, and a 10M limit per account while granting zero market impact on execution.\n\nThis either gets fixed or papertrade gets drained. The queue is probably why they’re not already zeroed out.",
+          "display_text_range": [
+            0,
+            230
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227571,
+          "following": 590,
+          "likes": 110191,
+          "media_count": 287,
+          "statuses": 1997,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4,
+        "bookmarks": 1,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Oct 11 01:50:21 +0000 2026",
+        "created_timestamp": 1791683421,
+        "views": 446,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "SalsaTekila",
+          "status": "2109097962148393297",
+          "url": "https://x.com/SalsaTekila/status/2109097962148393297",
+          "profile_url": "https://x.com/SalsaTekila"
+        },
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2109097962148393297",
+      "id": "2109097962148393297",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-10-11T01:45:13.000Z",
+      "created_timestamp": 1791683113000,
+      "text": "If the queue issue resolves and the LP sits in big profit, @papertrade_xyz becomes an extremely interesting venue to use.",
+      "url": "https://x.com/SalsaTekila/status/2109097962148393297",
+      "lang": "en",
+      "likes": 17,
+      "reposts": 1,
+      "quotes": 0,
+      "replies": 4,
+      "views": 2050,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-11T02:06:57.158Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2109097962148393297",
+        "id": "2109097962148393297",
+        "text": "If the queue issue resolves and the LP sits in big profit, @papertrade_xyz becomes an extremely interesting venue to use.",
+        "raw_text": {
+          "text": "If the queue issue resolves and the LP sits in big profit, @papertrade_xyz becomes an extremely interesting venue to use.",
+          "display_text_range": [
+            0,
+            121
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                59,
+                74
+              ],
+              "original": "papertrade_xyz",
+              "id": "1526686213402464256"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227571,
+          "following": 590,
+          "likes": 110191,
+          "media_count": 287,
+          "statuses": 1997,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 4,
+        "reposts": 1,
+        "likes": 17,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Oct 11 01:45:13 +0000 2026",
+        "created_timestamp": 1791683113,
+        "views": 2050,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
     {
       "tweet_id": "2109011334289596483",
       "id": "2109011334289596483",
@@ -34279,178 +34472,6 @@
         "reposted_by": null
       },
       "tracked_account": "SalsaTekila",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2107769853109313624",
-      "id": "2107769853109313624",
-      "author": {
-        "screen_name": "Sheldino_D",
-        "name": "Sheldon Diedericks"
-      },
-      "created_at": "2026-10-07T09:47:48.000Z",
-      "created_timestamp": 1791366468000,
-      "text": "soon ill be bullish again . for now im patient for lower areas",
-      "url": "https://x.com/Sheldino_D/status/2107769853109313624",
-      "lang": "en",
-      "likes": 136,
-      "reposts": 4,
-      "quotes": 0,
-      "replies": 11,
-      "views": 17903,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-07T14:27:05.567Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/Sheldino_D/status/2107769853109313624",
-        "id": "2107769853109313624",
-        "text": "soon ill be bullish again . for now im patient for lower areas",
-        "raw_text": {
-          "text": "soon ill be bullish again . for now im patient for lower areas",
-          "display_text_range": [
-            0,
-            62
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "Sheldino_D",
-          "url": "https://x.com/Sheldino_D",
-          "id": "1374629644884971521",
-          "followers": 548457,
-          "following": 850,
-          "likes": 3627,
-          "media_count": 2134,
-          "statuses": 7107,
-          "name": "Sheldon Diedericks",
-          "description": "Crypto | Trader | Chartist \nNFA",
-          "raw_description": {
-            "text": "Crypto | Trader | Chartist \nNFA",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/1374629644884971521/1787090525",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2089834409713192962/PmMVHLD3_200x200.jpg",
-          "joined": "Wed Mar 24 07:51:06 +0000 2021",
-          "protected": false,
-          "website": null,
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 11,
-        "reposts": 4,
-        "likes": 136,
-        "bookmarks": 0,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Wed Oct 07 09:47:48 +0000 2026",
-        "created_timestamp": 1791366468,
-        "views": 17903,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "Sheldino_D",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2107766764314460641",
-      "id": "2107766764314460641",
-      "author": {
-        "screen_name": "Alejandro_XBT",
-        "name": "Alejandro₿TC"
-      },
-      "created_at": "2026-10-07T09:35:31.000Z",
-      "created_timestamp": 1791365731000,
-      "text": "It's over\n\nHope you understand",
-      "url": "https://x.com/Alejandro_XBT/status/2107766764314460641",
-      "lang": "en",
-      "likes": 175,
-      "reposts": 9,
-      "quotes": 0,
-      "replies": 42,
-      "views": 20515,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-07T14:27:05.567Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/Alejandro_XBT/status/2107766764314460641",
-        "id": "2107766764314460641",
-        "text": "It's over\n\nHope you understand",
-        "raw_text": {
-          "text": "It's over\n\nHope you understand",
-          "display_text_range": [
-            0,
-            30
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "Alejandro_XBT",
-          "url": "https://x.com/Alejandro_XBT",
-          "id": "4001513242",
-          "followers": 117111,
-          "following": 802,
-          "likes": 49273,
-          "media_count": 7315,
-          "statuses": 29141,
-          "name": "Alejandro₿TC",
-          "description": "Crypto since 2017 | Helping Investors Navigate Markets | All Posts NFA + DYOR",
-          "raw_description": {
-            "text": "Crypto since 2017 | Helping Investors Navigate Markets | All Posts NFA + DYOR",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/4001513242/1710804146",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2031689596036071424/NBcARcg5_200x200.jpg",
-          "joined": "Tue Oct 20 10:56:32 +0000 2015",
-          "protected": false,
-          "website": null,
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 42,
-        "reposts": 9,
-        "likes": 175,
-        "bookmarks": 11,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Wed Oct 07 09:35:31 +0000 2026",
-        "created_timestamp": 1791365731,
-        "views": 20515,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "Alejandro_XBT",
       "is_repost": false,
       "post_type": "original"
     }
