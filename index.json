@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-12T19:59:11.243Z",
-  "latest_tweet_collected_at": "2026-10-12T19:59:11.243Z",
-  "latest_tweet_created_at": "2026-10-12T19:56:55.000Z",
-  "total_tweets": 1033,
+  "updated_at": "2026-10-13T01:57:54.135Z",
+  "latest_tweet_collected_at": "2026-10-13T01:57:54.135Z",
+  "latest_tweet_created_at": "2026-10-13T01:16:52.000Z",
+  "total_tweets": 1037,
   "first_date": "2025-01-29",
-  "last_date": "2026-10-12",
+  "last_date": "2026-10-13",
   "tracked_accounts": [
     "Pentosh1",
     "DonAlt",
@@ -23,17 +23,17 @@
   "accounts": {
     "Pentosh1": 47,
     "DonAlt": 46,
-    "SalsaTekila": 181,
+    "SalsaTekila": 182,
     "HsakaTrades": 20,
-    "TedPillows": 406,
+    "TedPillows": 407,
     "inmortalcrypto": 67,
-    "DaanCrypto": 138,
+    "DaanCrypto": 139,
     "Sheldino_D": 20,
     "CryptoKid": 52,
     "cryptolimbo": 10,
     "DeFi_Paanda": 20,
     "DrProfitCrypto": 11,
-    "Alejandro_XBT": 15
+    "Alejandro_XBT": 16
   },
   "account_stats": {
     "Pentosh1": {
@@ -47,8 +47,8 @@
       "reposts": 0
     },
     "SalsaTekila": {
-      "total": 181,
-      "original_posts": 169,
+      "total": 182,
+      "original_posts": 170,
       "reposts": 12
     },
     "HsakaTrades": {
@@ -57,8 +57,8 @@
       "reposts": 2
     },
     "TedPillows": {
-      "total": 406,
-      "original_posts": 406,
+      "total": 407,
+      "original_posts": 407,
       "reposts": 0
     },
     "inmortalcrypto": {
@@ -67,8 +67,8 @@
       "reposts": 1
     },
     "DaanCrypto": {
-      "total": 138,
-      "original_posts": 137,
+      "total": 139,
+      "original_posts": 138,
       "reposts": 1
     },
     "Sheldino_D": {
@@ -97,16 +97,21 @@
       "reposts": 0
     },
     "Alejandro_XBT": {
-      "total": 15,
-      "original_posts": 15,
+      "total": 16,
+      "original_posts": 16,
       "reposts": 0
     }
   },
   "unattributed_tweets": 0,
   "dates": [
     {
+      "date": "2026-10-13",
+      "count": 1,
+      "file": "archive/2026-10-13.json"
+    },
+    {
       "date": "2026-10-12",
-      "count": 54,
+      "count": 57,
       "file": "archive/2026-10-12.json"
     },
     {
