@@ -1,8 +1,370 @@
 {
-  "updated_at": "2026-10-17T04:10:31.480Z",
-  "latest_tweet_created_at": "2026-10-16T20:11:53.000Z",
+  "updated_at": "2026-10-17T08:45:23.287Z",
+  "latest_tweet_created_at": "2026-10-17T08:30:07.000Z",
   "count": 200,
   "tweets": [
+    {
+      "tweet_id": "2111374182537675255",
+      "id": "2111374182537675255",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-10-17T08:30:07.000Z",
+      "created_timestamp": 1792225807000,
+      "text": "ETFs sold $228 million in $BTC, $320 million in $ETH, and $25 million in $SOL this week.\n\nEthereum had more outflow than Bitcoin and Solana combined.",
+      "url": "https://x.com/TedPillows/status/2111374182537675255",
+      "lang": "en",
+      "likes": 66,
+      "reposts": 5,
+      "quotes": 0,
+      "replies": 33,
+      "views": 6594,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-17T08:45:23.287Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2111374182537675255",
+        "id": "2111374182537675255",
+        "text": "ETFs sold $228 million in $BTC, $320 million in $ETH, and $25 million in $SOL this week.\n\nEthereum had more outflow than Bitcoin and Solana combined.",
+        "raw_text": {
+          "text": "ETFs sold $228 million in $BTC, $320 million in $ETH, and $25 million in $SOL this week.\n\nEthereum had more outflow than Bitcoin and Solana combined.",
+          "display_text_range": [
+            0,
+            149
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                26,
+                30
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                48,
+                52
+              ],
+              "original": "ETH"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                73,
+                77
+              ],
+              "original": "SOL"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 320470,
+          "following": 17098,
+          "likes": 371232,
+          "media_count": 11165,
+          "statuses": 244355,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 33,
+        "reposts": 5,
+        "likes": 66,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Oct 17 08:30:07 +0000 2026",
+        "created_timestamp": 1792225807,
+        "views": 6594,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2111359301436744096",
+      "id": "2111359301436744096",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-10-17T07:30:59.000Z",
+      "created_timestamp": 1792222259000,
+      "text": "GM☕️. Early gym 🏋️",
+      "url": "https://x.com/TedPillows/status/2111359301436744096",
+      "lang": "en",
+      "likes": 164,
+      "reposts": 8,
+      "quotes": 1,
+      "replies": 98,
+      "views": 10454,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111359294872379392",
+            "url": "https://pbs.twimg.com/media/HU0OF5wWYAAlEEb.jpg?name=orig",
+            "width": 1536,
+            "height": 2048
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111359294872379392",
+            "url": "https://pbs.twimg.com/media/HU0OF5wWYAAlEEb.jpg?name=orig",
+            "width": 1536,
+            "height": 2048
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-17T08:45:23.287Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2111359301436744096",
+        "id": "2111359301436744096",
+        "text": "GM☕️. Early gym 🏋️",
+        "raw_text": {
+          "text": "GM☕️. Early gym 🏋️ https://t.co/2JN1qUHBpZ",
+          "display_text_range": [
+            0,
+            18
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                19,
+                42
+              ],
+              "id": "2111359294872379392",
+              "display": "pic.x.com/2JN1qUHBpZ",
+              "original": "https://t.co/2JN1qUHBpZ",
+              "replacement": "https://x.com/TedPillows/status/2111359301436744096/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 320470,
+          "following": 17098,
+          "likes": 371232,
+          "media_count": 11165,
+          "statuses": 244355,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 98,
+        "reposts": 8,
+        "likes": 164,
+        "bookmarks": 1,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Oct 17 07:30:59 +0000 2026",
+        "created_timestamp": 1792222259,
+        "possibly_sensitive": false,
+        "views": 10454,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2111359294872379392",
+              "url": "https://pbs.twimg.com/media/HU0OF5wWYAAlEEb.jpg?name=orig",
+              "width": 1536,
+              "height": 2048
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2111359294872379392",
+              "url": "https://pbs.twimg.com/media/HU0OF5wWYAAlEEb.jpg?name=orig",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2111351756453978378",
+      "id": "2111351756453978378",
+      "author": {
+        "screen_name": "DaanCrypto",
+        "name": "Daan Crypto Trades"
+      },
+      "created_at": "2026-10-17T07:01:00.000Z",
+      "created_timestamp": 1792220460000,
+      "text": "A trade working out doesn’t mean the process was right.\n\nAnd a trade not working out doesn’t mean it was wrong. Judging decisions by outcomes alone is how bad habits stay hidden.\n\nThis is why learning to trade in a bull market often leaves bad habits. Bad habits you need to get rid off asap when the market turns.\n\nThis is why that 2022 year was brutal on a lot of active traders.",
+      "url": "https://x.com/DaanCrypto/status/2111351756453978378",
+      "lang": "en",
+      "likes": 38,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 21,
+      "views": 8398,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-17T08:45:23.287Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DaanCrypto/status/2111351756453978378",
+        "id": "2111351756453978378",
+        "text": "A trade working out doesn’t mean the process was right.\n\nAnd a trade not working out doesn’t mean it was wrong. Judging decisions by outcomes alone is how bad habits stay hidden.\n\nThis is why learning to trade in a bull market often leaves bad habits. Bad habits you need to get rid off asap when the market turns.\n\nThis is why that 2022 year was brutal on a lot of active traders.",
+        "raw_text": {
+          "text": "A trade working out doesn’t mean the process was right.\n\nAnd a trade not working out doesn’t mean it was wrong. Judging decisions by outcomes alone is how bad habits stay hidden.\n\nThis is why learning to trade in a bull market often leaves bad habits. Bad habits you need to get rid off asap when the market turns.\n\nThis is why that 2022 year was brutal on a lot of active traders.",
+          "display_text_range": [
+            0,
+            381
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "DaanCrypto",
+          "url": "https://x.com/DaanCrypto",
+          "id": "918138253617790976",
+          "followers": 414424,
+          "following": 552,
+          "likes": 121146,
+          "media_count": 13994,
+          "statuses": 51531,
+          "name": "Daan Crypto Trades",
+          "description": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.me/DaanCryptoTG | YT: https://www.youtube.com/@daancrypto |",
+          "raw_description": {
+            "text": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.co/j7IcSHcJXs | YT: https://t.co/D1PbYpJroi |",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  76,
+                  99
+                ],
+                "original": "https://t.co/j7IcSHcJXs",
+                "replacement": "https://t.me/DaanCryptoTG",
+                "display": "t.me/DaanCryptoTG"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  106,
+                  129
+                ],
+                "original": "https://t.co/D1PbYpJroi",
+                "replacement": "https://www.youtube.com/@daancrypto",
+                "display": "youtube.com/@daancrypto"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/918138253617790976/1767862068",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1593241078035279874/7ousc-BT_200x200.jpg",
+          "joined": "Wed Oct 11 15:36:32 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.eu/b/daancrypto",
+            "display_url": "partner.bybit.eu/b/daancrypto"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 21,
+        "reposts": 3,
+        "likes": 38,
+        "bookmarks": 3,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Oct 17 07:01:00 +0000 2026",
+        "created_timestamp": 1792220460,
+        "views": 8398,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DaanCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
     {
       "tweet_id": "2111188402620322179",
       "id": "2111188402620322179",
@@ -35105,430 +35467,6 @@
       "is_repost": true,
       "post_type": "repost",
       "repost_original_author": "Banter_Clips"
-    },
-    {
-      "tweet_id": "2109652512316018800",
-      "id": "2109652512316018800",
-      "author": {
-        "screen_name": "SalsaTekila",
-        "name": "SalsaTekila"
-      },
-      "created_at": "2026-10-12T14:28:49.000Z",
-      "created_timestamp": 1791815329000,
-      "text": "If I’d removed every time I dropped leverage from 50x to 20x (for the sake of example, sometimes differs), just to punt $50M+ instead of sticking to a ~$10M max size, I’d have avoided tens of millions in unnecessary losses.\n\nEvery gargantuous drawdown has that print and zero win.",
-      "url": "https://x.com/SalsaTekila/status/2109652512316018800",
-      "lang": "en",
-      "likes": 8,
-      "reposts": 0,
-      "quotes": 0,
-      "replies": 0,
-      "views": 1963,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-12T19:59:11.243Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/SalsaTekila/status/2109652512316018800",
-        "id": "2109652512316018800",
-        "text": "If I’d removed every time I dropped leverage from 50x to 20x (for the sake of example, sometimes differs), just to punt $50M+ instead of sticking to a ~$10M max size, I’d have avoided tens of millions in unnecessary losses.\n\nEvery gargantuous drawdown has that print and zero win.",
-        "raw_text": {
-          "text": "If I’d removed every time I dropped leverage from 50x to 20x (for the sake of example, sometimes differs), just to punt $50M+ instead of sticking to a ~$10M max size, I’d have avoided tens of millions in unnecessary losses.\n\nEvery gargantuous drawdown has that print and zero win.",
-          "display_text_range": [
-            0,
-            280
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "SalsaTekila",
-          "url": "https://x.com/SalsaTekila",
-          "id": "1566114613",
-          "followers": 227556,
-          "following": 591,
-          "likes": 110220,
-          "media_count": 289,
-          "statuses": 2035,
-          "name": "SalsaTekila",
-          "description": "HODLer of BTC.",
-          "raw_description": {
-            "text": "HODLer of BTC.",
-            "facets": []
-          },
-          "location": "Sombrero",
-          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
-          "joined": "Wed Jul 03 15:53:22 +0000 2013",
-          "protected": false,
-          "website": {
-            "url": "https://partner.bybit.com/b/tekila",
-            "display_url": "partner.bybit.com/b/tekila"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 0,
-        "reposts": 0,
-        "likes": 8,
-        "bookmarks": 0,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 12 14:28:49 +0000 2026",
-        "created_timestamp": 1791815329,
-        "views": 1963,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": {
-          "screen_name": "SalsaTekila",
-          "status": "2109651778778374251",
-          "url": "https://x.com/SalsaTekila/status/2109651778778374251",
-          "profile_url": "https://x.com/SalsaTekila"
-        },
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "SalsaTekila",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2109651778778374251",
-      "id": "2109651778778374251",
-      "author": {
-        "screen_name": "SalsaTekila",
-        "name": "SalsaTekila"
-      },
-      "created_at": "2026-10-12T14:25:54.000Z",
-      "created_timestamp": 1791815154000,
-      "text": "I know I have an edge in many instances, but I can’t control my sizing and impulses well enough to take advantage consistently, without greed, and only in the areas where I actually have it.\n\nIf I had never changed size, I’d be up a fortune instead of down bad. So yes and no.",
-      "url": "https://x.com/SalsaTekila/status/2109651778778374251",
-      "lang": "en",
-      "likes": 94,
-      "reposts": 1,
-      "quotes": 0,
-      "replies": 15,
-      "views": 9139,
-      "quote": {
-        "type": "status",
-        "url": "https://x.com/AWice/status/2109592320127692811",
-        "id": "2109592320127692811",
-        "text": "@SalsaTekila with all love when i say this, but isnt this just gambling addiction?",
-        "raw_text": {
-          "text": "@SalsaTekila with all love when i say this, but isnt this just gambling addiction?",
-          "display_text_range": [
-            13,
-            82
-          ],
-          "facets": [
-            {
-              "type": "mention",
-              "indices": [
-                0,
-                12
-              ],
-              "original": "SalsaTekila",
-              "id": "1566114613"
-            }
-          ]
-        },
-        "author": {
-          "screen_name": "AWice",
-          "url": "https://x.com/AWice",
-          "id": "14503129",
-          "followers": 124040,
-          "following": 3367,
-          "likes": 10979,
-          "media_count": 1738,
-          "statuses": 10684,
-          "name": "Alex Wice",
-          "description": "Formerly FTX #2 PNL",
-          "raw_description": {
-            "text": "Formerly FTX #2 PNL",
-            "facets": []
-          },
-          "location": "Ape City",
-          "banner_url": "https://pbs.twimg.com/profile_banners/14503129/1646932031",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1493627761856249856/N-hdB1DB_200x200.jpg",
-          "joined": "Wed Apr 23 23:51:01 +0000 2008",
-          "protected": false,
-          "website": null,
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 1,
-        "reposts": 0,
-        "likes": 54,
-        "bookmarks": 0,
-        "quotes": 1,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 12 10:29:38 +0000 2026",
-        "created_timestamp": 1791800978,
-        "views": 9553,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-12T19:59:11.243Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/SalsaTekila/status/2109651778778374251",
-        "id": "2109651778778374251",
-        "text": "I know I have an edge in many instances, but I can’t control my sizing and impulses well enough to take advantage consistently, without greed, and only in the areas where I actually have it.\n\nIf I had never changed size, I’d be up a fortune instead of down bad. So yes and no.",
-        "raw_text": {
-          "text": "I know I have an edge in many instances, but I can’t control my sizing and impulses well enough to take advantage consistently, without greed, and only in the areas where I actually have it.\n\nIf I had never changed size, I’d be up a fortune instead of down bad. So yes and no.",
-          "display_text_range": [
-            0,
-            276
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "SalsaTekila",
-          "url": "https://x.com/SalsaTekila",
-          "id": "1566114613",
-          "followers": 227556,
-          "following": 591,
-          "likes": 110220,
-          "media_count": 289,
-          "statuses": 2035,
-          "name": "SalsaTekila",
-          "description": "HODLer of BTC.",
-          "raw_description": {
-            "text": "HODLer of BTC.",
-            "facets": []
-          },
-          "location": "Sombrero",
-          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
-          "joined": "Wed Jul 03 15:53:22 +0000 2013",
-          "protected": false,
-          "website": {
-            "url": "https://partner.bybit.com/b/tekila",
-            "display_url": "partner.bybit.com/b/tekila"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 15,
-        "reposts": 1,
-        "likes": 94,
-        "bookmarks": 6,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 12 14:25:54 +0000 2026",
-        "created_timestamp": 1791815154,
-        "views": 9139,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "quote": {
-          "type": "status",
-          "url": "https://x.com/AWice/status/2109592320127692811",
-          "id": "2109592320127692811",
-          "text": "@SalsaTekila with all love when i say this, but isnt this just gambling addiction?",
-          "raw_text": {
-            "text": "@SalsaTekila with all love when i say this, but isnt this just gambling addiction?",
-            "display_text_range": [
-              13,
-              82
-            ],
-            "facets": [
-              {
-                "type": "mention",
-                "indices": [
-                  0,
-                  12
-                ],
-                "original": "SalsaTekila",
-                "id": "1566114613"
-              }
-            ]
-          },
-          "author": {
-            "screen_name": "AWice",
-            "url": "https://x.com/AWice",
-            "id": "14503129",
-            "followers": 124040,
-            "following": 3367,
-            "likes": 10979,
-            "media_count": 1738,
-            "statuses": 10684,
-            "name": "Alex Wice",
-            "description": "Formerly FTX #2 PNL",
-            "raw_description": {
-              "text": "Formerly FTX #2 PNL",
-              "facets": []
-            },
-            "location": "Ape City",
-            "banner_url": "https://pbs.twimg.com/profile_banners/14503129/1646932031",
-            "avatar_url": "https://pbs.twimg.com/profile_images/1493627761856249856/N-hdB1DB_200x200.jpg",
-            "joined": "Wed Apr 23 23:51:01 +0000 2008",
-            "protected": false,
-            "website": null,
-            "verification": {
-              "verified": true,
-              "verified_at": null,
-              "type": "individual"
-            },
-            "type": "profile"
-          },
-          "replies": 1,
-          "reposts": 0,
-          "likes": 54,
-          "bookmarks": 0,
-          "quotes": 1,
-          "embed_card": "tweet",
-          "created_at": "Mon Oct 12 10:29:38 +0000 2026",
-          "created_timestamp": 1791800978,
-          "views": 9553,
-          "is_note_tweet": false,
-          "community_note": null,
-          "lang": "en",
-          "replying_to": null,
-          "media": {},
-          "provider": "twitter",
-          "reposted_by": null
-        },
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "SalsaTekila",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2109649286484959588",
-      "id": "2109649286484959588",
-      "author": {
-        "screen_name": "TedPillows",
-        "name": "Ted"
-      },
-      "created_at": "2026-10-12T14:15:59.000Z",
-      "created_timestamp": 1791814559000,
-      "text": "How are you feeling? Sentiment check.",
-      "url": "https://x.com/TedPillows/status/2109649286484959588",
-      "lang": "en",
-      "likes": 83,
-      "reposts": 7,
-      "quotes": 0,
-      "replies": 34,
-      "views": 21738,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-12T19:59:11.243Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/TedPillows/status/2109649286484959588",
-        "id": "2109649286484959588",
-        "text": "How are you feeling? Sentiment check.",
-        "raw_text": {
-          "text": "How are you feeling? Sentiment check.",
-          "display_text_range": [
-            0,
-            37
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "TedPillows",
-          "url": "https://x.com/TedPillows",
-          "id": "3222562058",
-          "followers": 319718,
-          "following": 17097,
-          "likes": 370832,
-          "media_count": 11104,
-          "statuses": 243699,
-          "name": "Ted",
-          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-          "raw_description": {
-            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
-          "joined": "Thu May 21 18:01:13 +0000 2015",
-          "protected": false,
-          "website": {
-            "url": "https://tedpillows.substack.com/",
-            "display_url": "tedpillows.substack.com"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 34,
-        "reposts": 7,
-        "likes": 83,
-        "bookmarks": 1,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 12 14:15:59 +0000 2026",
-        "created_timestamp": 1791814559,
-        "views": 21738,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "poll": {
-          "ends_at": "2026-10-13T14:15:59Z",
-          "time_left_en": "18 hours",
-          "total_votes": 2696,
-          "choices": [
-            {
-              "label": "Bullish 🟢",
-              "count": 1391,
-              "percentage": 51.6
-            },
-            {
-              "label": "Bearish 🔴",
-              "count": 1305,
-              "percentage": 48.4
-            }
-          ]
-        },
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "TedPillows",
-      "is_repost": false,
-      "post_type": "original"
     }
   ]
 }
