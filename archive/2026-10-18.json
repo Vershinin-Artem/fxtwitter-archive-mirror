@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "count": 32,
+  "count": 33,
   "tweets": [
     {
       "tweet_id": "2111686096975548416",
@@ -4953,6 +4953,95 @@
         "reposted_by": null
       },
       "tracked_account": "inmortalcrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2111963547920212439",
+      "id": "2111963547920212439",
+      "author": {
+        "screen_name": "DonAlt",
+        "name": "DonAlt"
+      },
+      "created_at": "2026-10-18T23:32:02.000Z",
+      "created_timestamp": 1792366322000,
+      "text": "If this is black Monday can we have it every day of the week please?",
+      "url": "https://x.com/DonAlt/status/2111963547920212439",
+      "lang": "en",
+      "likes": 660,
+      "reposts": 27,
+      "quotes": 1,
+      "replies": 40,
+      "views": 27412,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-19T01:03:13.196Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DonAlt/status/2111963547920212439",
+        "id": "2111963547920212439",
+        "text": "If this is black Monday can we have it every day of the week please?",
+        "raw_text": {
+          "text": "If this is black Monday can we have it every day of the week please?",
+          "display_text_range": [
+            0,
+            68
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "DonAlt",
+          "url": "https://x.com/DonAlt",
+          "id": "878219545785372673",
+          "followers": 797614,
+          "following": 529,
+          "likes": 31728,
+          "media_count": 5976,
+          "statuses": 39820,
+          "name": "DonAlt",
+          "description": "Vaxxed Matrix Agent\nSmug prick\nGay GCR",
+          "raw_description": {
+            "text": "Vaxxed Matrix Agent\nSmug prick\nGay GCR",
+            "facets": []
+          },
+          "location": "Pond",
+          "banner_url": "https://pbs.twimg.com/profile_banners/878219545785372673/1561981385",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1805463878471417857/hXKyF93b_200x200.png",
+          "joined": "Fri Jun 23 11:53:51 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://youtube.com/c/TechnicalRoundup",
+            "display_url": "youtube.com/c/TechnicalRou…"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 40,
+        "reposts": 27,
+        "likes": 660,
+        "bookmarks": 14,
+        "quotes": 1,
+        "embed_card": "tweet",
+        "created_at": "Sun Oct 18 23:32:02 +0000 2026",
+        "created_timestamp": 1792366322,
+        "views": 27412,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DonAlt",
       "is_repost": false,
       "post_type": "original"
     }
