@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "count": 1,
+  "count": 3,
   "tweets": [
     {
       "tweet_id": "2111984704882888964",
@@ -88,6 +88,376 @@
         "reposted_by": null
       },
       "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2111986537793782235",
+      "id": "2111986537793782235",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-10-19T01:03:24.000Z",
+      "created_timestamp": 1792371804000,
+      "text": "Jordi is correct. Perps are incredibly difficult trading instruments with many risks unknown to non-professionals. I hate this perpification movement that glorifies and embellishes them. Retail will get slaughtered again.",
+      "url": "https://x.com/SalsaTekila/status/2111986537793782235",
+      "lang": "en",
+      "likes": 44,
+      "reposts": 2,
+      "quotes": 2,
+      "replies": 9,
+      "views": 7877,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/gametheorizing/status/2111779045071323298",
+        "id": "2111779045071323298",
+        "text": "Jeff drank a bit too much of his own Kool-Aid in this recent Odd Lots clip. I think it's important to clear up a distinction that makes all the difference.\n\nDemocratizing access to wealth creation is NOT the same as democratizing access to speculation.\n\nMany of us genuinely want broader participation in attractive investment opportunities. The growing wealth inequality produced by the current system is tearing at the seams of society, something I've spoken about many times.\n\nBut let's be clear: listing pre-IPO perpetual futures does absolutely nothing to democratize the wealth being created in private markets.\n\nI've seen this misleading narrative pushed repeatedly by perp DEXs lately, and it needs to be called out.\n\nA pre-IPO perp creates ZERO underlying wealth. It's a zero-sum contract before costs, and negative-sum after them. No capital flows to the company. No ownership changes hands. No new economic opportunity is created.\n\nEvery long has a short. There is no free lunch in simply going long something before its IPO, and funding costs can even determine the outcome more than any price moves. TRADING access is NOT INVESTING access.\n\nIn fact, in many ways pre-IPO perps are almost the antithesis of democratized access:\n\nThey create the illusion of participation in private-market wealth creation, while actually offering retail a speculative instrument whose mechanics they are often poorly equipped to understand.\n\nThe result is a playground for the FEW sophisticated traders who understand funding, oracle design, and liquidation mechanics to extract value from the MANY who don't.\n\nTo give credit where it's due, Robinhood's efforts toward sourcing actual employee shares, placing them into SPVs, and tokenizing genuine spot ownership are much closer to meaningful democratization.\n\nThat can unlock real economic value by allowing employees to exchange some of their expected upside for liquidity, while giving new investors actual economic exposure. A legitimate financial trade-off, without the funding-rate and liquidation shenanigans.\n\nI'm strongly aligned with expanding access to investment opportunities. And I believe advances in AI and blockchain can dramatically lower the barriers to discovering, structuring, and distributing them.\n\nBut let's not BS ourselves that launching another zero-sum casino contract is moving the needle on wealth inequality.\n\nWhat would actually move the needle is bringing real capital formation and ownership onchain. Giving investors access to productive, illiquid assets like data centers, GPUs, and select startup investing, where capital can actually finance growth and share in the resulting value creation.\n\nThese opportunities are harder to structure, underwrite, and bring to market, and we haven't seen many compelling implementations onchain yet. \n\nHopefully this will change soon and, as the industry matures, we can direct more of our energy toward actually expanding access to wealth creation.\n\nClip below. Was glad to see @tracyalloway push back on this framing, and to Jeff's credit, after this he does seem to walk back his original position somewhat.",
+        "raw_text": {
+          "text": "Jeff drank a bit too much of his own Kool-Aid in this recent Odd Lots clip. I think it's important to clear up a distinction that makes all the difference.\n\nDemocratizing access to wealth creation is NOT the same as democratizing access to speculation.\n\nMany of us genuinely want broader participation in attractive investment opportunities. The growing wealth inequality produced by the current system is tearing at the seams of society, something I've spoken about many times.\n\nBut let's be clear: listing pre-IPO perpetual futures does absolutely nothing to democratize the wealth being created in private markets.\n\nI've seen this misleading narrative pushed repeatedly by perp DEXs lately, and it needs to be called out.\n\nA pre-IPO perp creates ZERO underlying wealth. It's a zero-sum contract before costs, and negative-sum after them. No capital flows to the company. No ownership changes hands. No new economic opportunity is created.\n\nEvery long has a short. There is no free lunch in simply going long something before its IPO, and funding costs can even determine the outcome more than any price moves. TRADING access is NOT INVESTING access.\n\nIn fact, in many ways pre-IPO perps are almost the antithesis of democratized access:\n\nThey create the illusion of participation in private-market wealth creation, while actually offering retail a speculative instrument whose mechanics they are often poorly equipped to understand.\n\nThe result is a playground for the FEW sophisticated traders who understand funding, oracle design, and liquidation mechanics to extract value from the MANY who don't.\n\nTo give credit where it's due, Robinhood's efforts toward sourcing actual employee shares, placing them into SPVs, and tokenizing genuine spot ownership are much closer to meaningful democratization.\n\nThat can unlock real economic value by allowing employees to exchange some of their expected upside for liquidity, while giving new investors actual economic exposure. A legitimate financial trade-off, without the funding-rate and liquidation shenanigans.\n\nI'm strongly aligned with expanding access to investment opportunities. And I believe advances in AI and blockchain can dramatically lower the barriers to discovering, structuring, and distributing them.\n\nBut let's not BS ourselves that launching another zero-sum casino contract is moving the needle on wealth inequality.\n\nWhat would actually move the needle is bringing real capital formation and ownership onchain. Giving investors access to productive, illiquid assets like data centers, GPUs, and select startup investing, where capital can actually finance growth and share in the resulting value creation.\n\nThese opportunities are harder to structure, underwrite, and bring to market, and we haven't seen many compelling implementations onchain yet. \n\nHopefully this will change soon and, as the industry matures, we can direct more of our energy toward actually expanding access to wealth creation.\n\nClip below. Was glad to see @tracyalloway push back on this framing, and to Jeff's credit, after this he does seem to walk back his original position somewhat.",
+          "display_text_range": [
+            0,
+            3131
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                3000,
+                3013
+              ],
+              "original": "tracyalloway",
+              "id": "20169416"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "gametheorizing",
+          "url": "https://x.com/gametheorizing",
+          "id": "1081354216843632640",
+          "followers": 129573,
+          "following": 795,
+          "likes": 22736,
+          "media_count": 1445,
+          "statuses": 6540,
+          "name": "Jordi Alexander",
+          "description": "Founder @SeliniCapital and Lad @0xSteadyLads; Game theory connoisseur ; Soon, the biggest problems in the world will be philosophical",
+          "raw_description": {
+            "text": "Founder @SeliniCapital and Lad @0xSteadyLads; Game theory connoisseur ; Soon, the biggest problems in the world will be philosophical",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  8,
+                  22
+                ],
+                "original": "SeliniCapital",
+                "id": ""
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  31,
+                  44
+                ],
+                "original": "0xSteadyLads",
+                "id": ""
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1081354216843632640/1631793254",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1905932552034263040/2n6LSMJj_200x200.jpg",
+          "joined": "Sat Jan 05 00:58:30 +0000 2019",
+          "protected": false,
+          "website": {
+            "url": "http://www.selinicapital.com",
+            "display_url": "selinicapital.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 80,
+        "reposts": 42,
+        "likes": 801,
+        "bookmarks": 388,
+        "quotes": 23,
+        "embed_card": "tweet",
+        "created_at": "Sun Oct 18 11:18:53 +0000 2026",
+        "created_timestamp": 1792322333,
+        "views": 83518,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "tombstone",
+          "provider": "twitter",
+          "reason": "unavailable",
+          "message": "This post is unavailable",
+          "id": "2111608200017625390",
+          "url": "https://x.com/i/status/2111608200017625390"
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-19T06:01:03.271Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2111986537793782235",
+        "id": "2111986537793782235",
+        "text": "Jordi is correct. Perps are incredibly difficult trading instruments with many risks unknown to non-professionals. I hate this perpification movement that glorifies and embellishes them. Retail will get slaughtered again.",
+        "raw_text": {
+          "text": "Jordi is correct. Perps are incredibly difficult trading instruments with many risks unknown to non-professionals. I hate this perpification movement that glorifies and embellishes them. Retail will get slaughtered again.",
+          "display_text_range": [
+            0,
+            221
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227818,
+          "following": 593,
+          "likes": 110313,
+          "media_count": 300,
+          "statuses": 2122,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 9,
+        "reposts": 2,
+        "likes": 44,
+        "bookmarks": 8,
+        "quotes": 2,
+        "embed_card": "tweet",
+        "created_at": "Mon Oct 19 01:03:24 +0000 2026",
+        "created_timestamp": 1792371804,
+        "views": 7877,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/gametheorizing/status/2111779045071323298",
+          "id": "2111779045071323298",
+          "text": "Jeff drank a bit too much of his own Kool-Aid in this recent Odd Lots clip. I think it's important to clear up a distinction that makes all the difference.\n\nDemocratizing access to wealth creation is NOT the same as democratizing access to speculation.\n\nMany of us genuinely want broader participation in attractive investment opportunities. The growing wealth inequality produced by the current system is tearing at the seams of society, something I've spoken about many times.\n\nBut let's be clear: listing pre-IPO perpetual futures does absolutely nothing to democratize the wealth being created in private markets.\n\nI've seen this misleading narrative pushed repeatedly by perp DEXs lately, and it needs to be called out.\n\nA pre-IPO perp creates ZERO underlying wealth. It's a zero-sum contract before costs, and negative-sum after them. No capital flows to the company. No ownership changes hands. No new economic opportunity is created.\n\nEvery long has a short. There is no free lunch in simply going long something before its IPO, and funding costs can even determine the outcome more than any price moves. TRADING access is NOT INVESTING access.\n\nIn fact, in many ways pre-IPO perps are almost the antithesis of democratized access:\n\nThey create the illusion of participation in private-market wealth creation, while actually offering retail a speculative instrument whose mechanics they are often poorly equipped to understand.\n\nThe result is a playground for the FEW sophisticated traders who understand funding, oracle design, and liquidation mechanics to extract value from the MANY who don't.\n\nTo give credit where it's due, Robinhood's efforts toward sourcing actual employee shares, placing them into SPVs, and tokenizing genuine spot ownership are much closer to meaningful democratization.\n\nThat can unlock real economic value by allowing employees to exchange some of their expected upside for liquidity, while giving new investors actual economic exposure. A legitimate financial trade-off, without the funding-rate and liquidation shenanigans.\n\nI'm strongly aligned with expanding access to investment opportunities. And I believe advances in AI and blockchain can dramatically lower the barriers to discovering, structuring, and distributing them.\n\nBut let's not BS ourselves that launching another zero-sum casino contract is moving the needle on wealth inequality.\n\nWhat would actually move the needle is bringing real capital formation and ownership onchain. Giving investors access to productive, illiquid assets like data centers, GPUs, and select startup investing, where capital can actually finance growth and share in the resulting value creation.\n\nThese opportunities are harder to structure, underwrite, and bring to market, and we haven't seen many compelling implementations onchain yet. \n\nHopefully this will change soon and, as the industry matures, we can direct more of our energy toward actually expanding access to wealth creation.\n\nClip below. Was glad to see @tracyalloway push back on this framing, and to Jeff's credit, after this he does seem to walk back his original position somewhat.",
+          "raw_text": {
+            "text": "Jeff drank a bit too much of his own Kool-Aid in this recent Odd Lots clip. I think it's important to clear up a distinction that makes all the difference.\n\nDemocratizing access to wealth creation is NOT the same as democratizing access to speculation.\n\nMany of us genuinely want broader participation in attractive investment opportunities. The growing wealth inequality produced by the current system is tearing at the seams of society, something I've spoken about many times.\n\nBut let's be clear: listing pre-IPO perpetual futures does absolutely nothing to democratize the wealth being created in private markets.\n\nI've seen this misleading narrative pushed repeatedly by perp DEXs lately, and it needs to be called out.\n\nA pre-IPO perp creates ZERO underlying wealth. It's a zero-sum contract before costs, and negative-sum after them. No capital flows to the company. No ownership changes hands. No new economic opportunity is created.\n\nEvery long has a short. There is no free lunch in simply going long something before its IPO, and funding costs can even determine the outcome more than any price moves. TRADING access is NOT INVESTING access.\n\nIn fact, in many ways pre-IPO perps are almost the antithesis of democratized access:\n\nThey create the illusion of participation in private-market wealth creation, while actually offering retail a speculative instrument whose mechanics they are often poorly equipped to understand.\n\nThe result is a playground for the FEW sophisticated traders who understand funding, oracle design, and liquidation mechanics to extract value from the MANY who don't.\n\nTo give credit where it's due, Robinhood's efforts toward sourcing actual employee shares, placing them into SPVs, and tokenizing genuine spot ownership are much closer to meaningful democratization.\n\nThat can unlock real economic value by allowing employees to exchange some of their expected upside for liquidity, while giving new investors actual economic exposure. A legitimate financial trade-off, without the funding-rate and liquidation shenanigans.\n\nI'm strongly aligned with expanding access to investment opportunities. And I believe advances in AI and blockchain can dramatically lower the barriers to discovering, structuring, and distributing them.\n\nBut let's not BS ourselves that launching another zero-sum casino contract is moving the needle on wealth inequality.\n\nWhat would actually move the needle is bringing real capital formation and ownership onchain. Giving investors access to productive, illiquid assets like data centers, GPUs, and select startup investing, where capital can actually finance growth and share in the resulting value creation.\n\nThese opportunities are harder to structure, underwrite, and bring to market, and we haven't seen many compelling implementations onchain yet. \n\nHopefully this will change soon and, as the industry matures, we can direct more of our energy toward actually expanding access to wealth creation.\n\nClip below. Was glad to see @tracyalloway push back on this framing, and to Jeff's credit, after this he does seem to walk back his original position somewhat.",
+            "display_text_range": [
+              0,
+              3131
+            ],
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  3000,
+                  3013
+                ],
+                "original": "tracyalloway",
+                "id": "20169416"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "gametheorizing",
+            "url": "https://x.com/gametheorizing",
+            "id": "1081354216843632640",
+            "followers": 129573,
+            "following": 795,
+            "likes": 22736,
+            "media_count": 1445,
+            "statuses": 6540,
+            "name": "Jordi Alexander",
+            "description": "Founder @SeliniCapital and Lad @0xSteadyLads; Game theory connoisseur ; Soon, the biggest problems in the world will be philosophical",
+            "raw_description": {
+              "text": "Founder @SeliniCapital and Lad @0xSteadyLads; Game theory connoisseur ; Soon, the biggest problems in the world will be philosophical",
+              "facets": [
+                {
+                  "type": "mention",
+                  "indices": [
+                    8,
+                    22
+                  ],
+                  "original": "SeliniCapital",
+                  "id": ""
+                },
+                {
+                  "type": "mention",
+                  "indices": [
+                    31,
+                    44
+                  ],
+                  "original": "0xSteadyLads",
+                  "id": ""
+                }
+              ]
+            },
+            "location": "",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1081354216843632640/1631793254",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1905932552034263040/2n6LSMJj_200x200.jpg",
+            "joined": "Sat Jan 05 00:58:30 +0000 2019",
+            "protected": false,
+            "website": {
+              "url": "http://www.selinicapital.com",
+              "display_url": "selinicapital.com"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 80,
+          "reposts": 42,
+          "likes": 801,
+          "bookmarks": 388,
+          "quotes": 23,
+          "embed_card": "tweet",
+          "created_at": "Sun Oct 18 11:18:53 +0000 2026",
+          "created_timestamp": 1792322333,
+          "views": 83518,
+          "is_note_tweet": true,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "quote": {
+            "type": "tombstone",
+            "provider": "twitter",
+            "reason": "unavailable",
+            "message": "This post is unavailable",
+            "id": "2111608200017625390",
+            "url": "https://x.com/i/status/2111608200017625390"
+          },
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2112031656726897020",
+      "id": "2112031656726897020",
+      "author": {
+        "screen_name": "Sheldino_D",
+        "name": "Sheldon Diedericks"
+      },
+      "created_at": "2026-10-19T04:02:41.000Z",
+      "created_timestamp": 1792382561000,
+      "text": "Good morning fam!",
+      "url": "https://x.com/Sheldino_D/status/2112031656726897020",
+      "lang": "en",
+      "likes": 76,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 10,
+      "views": 11211,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-19T06:01:03.271Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Sheldino_D/status/2112031656726897020",
+        "id": "2112031656726897020",
+        "text": "Good morning fam!",
+        "raw_text": {
+          "text": "Good morning fam!",
+          "display_text_range": [
+            0,
+            17
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "Sheldino_D",
+          "url": "https://x.com/Sheldino_D",
+          "id": "1374629644884971521",
+          "followers": 547321,
+          "following": 850,
+          "likes": 3630,
+          "media_count": 2141,
+          "statuses": 7136,
+          "name": "Sheldon Diedericks",
+          "description": "Crypto | Trader | Chartist \nNFA",
+          "raw_description": {
+            "text": "Crypto | Trader | Chartist \nNFA",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1374629644884971521/1787090525",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2089834409713192962/PmMVHLD3_200x200.jpg",
+          "joined": "Wed Mar 24 07:51:06 +0000 2021",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 10,
+        "reposts": 0,
+        "likes": 76,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Mon Oct 19 04:02:41 +0000 2026",
+        "created_timestamp": 1792382561,
+        "views": 11211,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "Sheldino_D",
       "is_repost": false,
       "post_type": "original"
     }
