@@ -1,8 +1,154 @@
 {
-  "updated_at": "2026-10-20T21:31:05.442Z",
-  "latest_tweet_created_at": "2026-10-20T21:30:48.000Z",
+  "updated_at": "2026-10-21T00:04:19.637Z",
+  "latest_tweet_created_at": "2026-10-20T22:37:22.000Z",
   "count": 200,
   "tweets": [
+    {
+      "tweet_id": "2112674564023189837",
+      "id": "2112674564023189837",
+      "author": {
+        "screen_name": "DonAlt",
+        "name": "DonAlt"
+      },
+      "created_at": "2026-10-20T22:37:22.000Z",
+      "created_timestamp": 1792535842000,
+      "text": "$BTC\n\nIf this is all the pullback we're getting that's incredible\nNice lil bounce of honestly a meh support\nAnd all that amidst geopolitical turmoil and a broad expectation of a Black Monday\n\nGood stuff, long may it last",
+      "url": "https://x.com/DonAlt/status/2112674564023189837",
+      "lang": "en",
+      "likes": 863,
+      "reposts": 50,
+      "quotes": 1,
+      "replies": 59,
+      "views": 31117,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112674217561137152",
+            "url": "https://pbs.twimg.com/media/HVG6AefboAAqIOf.png?name=orig",
+            "width": 3713,
+            "height": 1970
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112674217561137152",
+            "url": "https://pbs.twimg.com/media/HVG6AefboAAqIOf.png?name=orig",
+            "width": 3713,
+            "height": 1970
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-21T00:04:19.637Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DonAlt/status/2112674564023189837",
+        "id": "2112674564023189837",
+        "text": "$BTC\n\nIf this is all the pullback we're getting that's incredible\nNice lil bounce of honestly a meh support\nAnd all that amidst geopolitical turmoil and a broad expectation of a Black Monday\n\nGood stuff, long may it last",
+        "raw_text": {
+          "text": "$BTC\n\nIf this is all the pullback we're getting that's incredible\nNice lil bounce of honestly a meh support\nAnd all that amidst geopolitical turmoil and a broad expectation of a Black Monday\n\nGood stuff, long may it last https://t.co/CXcc1wM1Bk",
+          "display_text_range": [
+            0,
+            220
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                221,
+                244
+              ],
+              "id": "2112674217561137152",
+              "display": "pic.x.com/CXcc1wM1Bk",
+              "original": "https://t.co/CXcc1wM1Bk",
+              "replacement": "https://x.com/DonAlt/status/2112674564023189837/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DonAlt",
+          "url": "https://x.com/DonAlt",
+          "id": "878219545785372673",
+          "followers": 797703,
+          "following": 529,
+          "likes": 31726,
+          "media_count": 5977,
+          "statuses": 39821,
+          "name": "DonAlt",
+          "description": "Vaxxed Matrix Agent\nSmug prick\nGay GCR",
+          "raw_description": {
+            "text": "Vaxxed Matrix Agent\nSmug prick\nGay GCR",
+            "facets": []
+          },
+          "location": "Pond",
+          "banner_url": "https://pbs.twimg.com/profile_banners/878219545785372673/1561981385",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1805463878471417857/hXKyF93b_200x200.png",
+          "joined": "Fri Jun 23 11:53:51 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://youtube.com/c/TechnicalRoundup",
+            "display_url": "youtube.com/c/TechnicalRou…"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 59,
+        "reposts": 50,
+        "likes": 863,
+        "bookmarks": 37,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Tue Oct 20 22:37:22 +0000 2026",
+        "created_timestamp": 1792535842,
+        "possibly_sensitive": false,
+        "views": 31117,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2112674217561137152",
+              "url": "https://pbs.twimg.com/media/HVG6AefboAAqIOf.png?name=orig",
+              "width": 3713,
+              "height": 1970
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2112674217561137152",
+              "url": "https://pbs.twimg.com/media/HVG6AefboAAqIOf.png?name=orig",
+              "width": 3713,
+              "height": 1970
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DonAlt",
+      "is_repost": false,
+      "post_type": "original"
+    },
     {
       "tweet_id": "2112657814271488005",
       "id": "2112657814271488005",
@@ -35200,95 +35346,6 @@
         "reposted_by": null
       },
       "tracked_account": "TedPillows",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2110707730180923625",
-      "id": "2110707730180923625",
-      "author": {
-        "screen_name": "SalsaTekila",
-        "name": "SalsaTekila"
-      },
-      "created_at": "2026-10-15T12:21:52.000Z",
-      "created_timestamp": 1792066912000,
-      "text": "It used to be ‘banks are too big to fail’\n\nNow it’s ‘big AI is too big to fail’",
-      "url": "https://x.com/SalsaTekila/status/2110707730180923625",
-      "lang": "en",
-      "likes": 18,
-      "reposts": 1,
-      "quotes": 0,
-      "replies": 8,
-      "views": 2298,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-15T12:48:54.616Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/SalsaTekila/status/2110707730180923625",
-        "id": "2110707730180923625",
-        "text": "It used to be ‘banks are too big to fail’\n\nNow it’s ‘big AI is too big to fail’",
-        "raw_text": {
-          "text": "It used to be ‘banks are too big to fail’\n\nNow it’s ‘big AI is too big to fail’",
-          "display_text_range": [
-            0,
-            79
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "SalsaTekila",
-          "url": "https://x.com/SalsaTekila",
-          "id": "1566114613",
-          "followers": 227722,
-          "following": 592,
-          "likes": 110292,
-          "media_count": 296,
-          "statuses": 2098,
-          "name": "SalsaTekila",
-          "description": "HODLer of BTC.",
-          "raw_description": {
-            "text": "HODLer of BTC.",
-            "facets": []
-          },
-          "location": "Sombrero",
-          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
-          "joined": "Wed Jul 03 15:53:22 +0000 2013",
-          "protected": false,
-          "website": {
-            "url": "https://partner.bybit.com/b/tekila",
-            "display_url": "partner.bybit.com/b/tekila"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 8,
-        "reposts": 1,
-        "likes": 18,
-        "bookmarks": 0,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Thu Oct 15 12:21:52 +0000 2026",
-        "created_timestamp": 1792066912,
-        "views": 2298,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "SalsaTekila",
       "is_repost": false,
       "post_type": "original"
     }
