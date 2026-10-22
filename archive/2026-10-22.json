@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-22",
+  "count": 1,
+  "tweets": [
+    {
+      "tweet_id": "2113067341407977728",
+      "id": "2113067341407977728",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-10-22T00:38:07.000Z",
+      "created_timestamp": 1792629487000,
+      "text": "BTC sentiment",
+      "url": "https://x.com/SalsaTekila/status/2113067341407977728",
+      "lang": "en",
+      "likes": 3,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 7,
+      "views": 1660,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-22T00:50:37.906Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2113067341407977728",
+        "id": "2113067341407977728",
+        "text": "BTC sentiment",
+        "raw_text": {
+          "text": "BTC sentiment",
+          "display_text_range": [
+            0,
+            13
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227830,
+          "following": 596,
+          "likes": 110353,
+          "media_count": 300,
+          "statuses": 2146,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 7,
+        "reposts": 0,
+        "likes": 3,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Thu Oct 22 00:38:07 +0000 2026",
+        "created_timestamp": 1792629487,
+        "views": 1660,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "poll": {
+          "ends_at": "2026-10-23T00:38:07Z",
+          "time_left_en": "23 hours",
+          "total_votes": 188,
+          "choices": [
+            {
+              "label": "100k next",
+              "count": 101,
+              "percentage": 53.7
+            },
+            {
+              "label": "69k next",
+              "count": 87,
+              "percentage": 46.3
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    }
+  ]
+}
