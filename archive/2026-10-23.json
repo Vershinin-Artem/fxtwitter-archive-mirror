@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "count": 23,
+  "count": 25,
   "tweets": [
     {
       "tweet_id": "2113453684344680607",
@@ -3980,6 +3980,319 @@
         "reposted_by": null
       },
       "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2113694985279123458",
+      "id": "2113694985279123458",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-10-23T18:12:09.000Z",
+      "created_timestamp": 1792779129000,
+      "text": "$BTC.D is getting rejected from its major resistance zone.\n\nSome relief for alts.",
+      "url": "https://x.com/TedPillows/status/2113694985279123458",
+      "lang": "en",
+      "likes": 448,
+      "reposts": 27,
+      "quotes": 1,
+      "replies": 64,
+      "views": 24051,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113694614146211840",
+            "url": "https://pbs.twimg.com/media/HVVaDX_XYAAD_Pr.png?name=orig",
+            "width": 897,
+            "height": 806
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113694614146211840",
+            "url": "https://pbs.twimg.com/media/HVVaDX_XYAAD_Pr.png?name=orig",
+            "width": 897,
+            "height": 806
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-23T21:18:36.999Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2113694985279123458",
+        "id": "2113694985279123458",
+        "text": "$BTC.D is getting rejected from its major resistance zone.\n\nSome relief for alts.",
+        "raw_text": {
+          "text": "$BTC.D is getting rejected from its major resistance zone.\n\nSome relief for alts. https://t.co/QX9JlFCX0c",
+          "display_text_range": [
+            0,
+            81
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                6
+              ],
+              "original": "BTC.D"
+            },
+            {
+              "type": "media",
+              "indices": [
+                82,
+                105
+              ],
+              "id": "2113694614146211840",
+              "display": "pic.x.com/QX9JlFCX0c",
+              "original": "https://t.co/QX9JlFCX0c",
+              "replacement": "https://x.com/TedPillows/status/2113694985279123458/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322038,
+          "following": 17079,
+          "likes": 372196,
+          "media_count": 11257,
+          "statuses": 245543,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 64,
+        "reposts": 27,
+        "likes": 448,
+        "bookmarks": 10,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Oct 23 18:12:09 +0000 2026",
+        "created_timestamp": 1792779129,
+        "possibly_sensitive": false,
+        "views": 24051,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2113694614146211840",
+              "url": "https://pbs.twimg.com/media/HVVaDX_XYAAD_Pr.png?name=orig",
+              "width": 897,
+              "height": 806
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2113694614146211840",
+              "url": "https://pbs.twimg.com/media/HVVaDX_XYAAD_Pr.png?name=orig",
+              "width": 897,
+              "height": 806
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2113722879883763819",
+      "id": "2113722879883763819",
+      "author": {
+        "screen_name": "DaanCrypto",
+        "name": "Daan Crypto Trades"
+      },
+      "created_at": "2026-10-23T20:03:00.000Z",
+      "created_timestamp": 1792785780000,
+      "text": "$BTC Pretty much flat in Q4 so far.\n\nGenerally, Q4 sees big moves. It is the quarter where cycle tops and bottoms are set and where big breaks occur.\n\nVolatility will happen into the last two months of the year.",
+      "url": "https://x.com/DaanCrypto/status/2113722879883763819",
+      "lang": "en",
+      "likes": 30,
+      "reposts": 2,
+      "quotes": 0,
+      "replies": 12,
+      "views": 7707,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113617647556288512",
+            "url": "https://pbs.twimg.com/media/HVUUDVGW4AAqyas.png?name=orig",
+            "width": 789,
+            "height": 784
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113617647556288512",
+            "url": "https://pbs.twimg.com/media/HVUUDVGW4AAqyas.png?name=orig",
+            "width": 789,
+            "height": 784
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-23T21:18:36.999Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DaanCrypto/status/2113722879883763819",
+        "id": "2113722879883763819",
+        "text": "$BTC Pretty much flat in Q4 so far.\n\nGenerally, Q4 sees big moves. It is the quarter where cycle tops and bottoms are set and where big breaks occur.\n\nVolatility will happen into the last two months of the year.",
+        "raw_text": {
+          "text": "$BTC Pretty much flat in Q4 so far.\n\nGenerally, Q4 sees big moves. It is the quarter where cycle tops and bottoms are set and where big breaks occur.\n\nVolatility will happen into the last two months of the year. https://t.co/tWqEnUHZC2",
+          "display_text_range": [
+            0,
+            211
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                212,
+                235
+              ],
+              "id": "2113617647556288512",
+              "display": "pic.x.com/tWqEnUHZC2",
+              "original": "https://t.co/tWqEnUHZC2",
+              "replacement": "https://x.com/DaanCrypto/status/2113722879883763819/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DaanCrypto",
+          "url": "https://x.com/DaanCrypto",
+          "id": "918138253617790976",
+          "followers": 414386,
+          "following": 555,
+          "likes": 121106,
+          "media_count": 14026,
+          "statuses": 51577,
+          "name": "Daan Crypto Trades",
+          "description": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.me/DaanCryptoTG | YT: https://www.youtube.com/@daancrypto |",
+          "raw_description": {
+            "text": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.co/j7IcSHcJXs | YT: https://t.co/D1PbYpJroi |",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  76,
+                  99
+                ],
+                "original": "https://t.co/j7IcSHcJXs",
+                "replacement": "https://t.me/DaanCryptoTG",
+                "display": "t.me/DaanCryptoTG"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  106,
+                  129
+                ],
+                "original": "https://t.co/D1PbYpJroi",
+                "replacement": "https://www.youtube.com/@daancrypto",
+                "display": "youtube.com/@daancrypto"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/918138253617790976/1767862068",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1593241078035279874/7ousc-BT_200x200.jpg",
+          "joined": "Wed Oct 11 15:36:32 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.eu/b/daancrypto",
+            "display_url": "partner.bybit.eu/b/daancrypto"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 12,
+        "reposts": 2,
+        "likes": 30,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Oct 23 20:03:00 +0000 2026",
+        "created_timestamp": 1792785780,
+        "possibly_sensitive": false,
+        "views": 7707,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2113617647556288512",
+              "url": "https://pbs.twimg.com/media/HVUUDVGW4AAqyas.png?name=orig",
+              "width": 789,
+              "height": 784
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2113617647556288512",
+              "url": "https://pbs.twimg.com/media/HVUUDVGW4AAqyas.png?name=orig",
+              "width": 789,
+              "height": 784
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DaanCrypto",
       "is_repost": false,
       "post_type": "original"
     }
