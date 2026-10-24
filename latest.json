@@ -1,8 +1,483 @@
 {
-  "updated_at": "2026-10-24T04:23:32.958Z",
-  "latest_tweet_created_at": "2026-10-24T02:16:44.000Z",
+  "updated_at": "2026-10-24T09:03:31.014Z",
+  "latest_tweet_created_at": "2026-10-24T08:31:00.000Z",
   "count": 200,
   "tweets": [
+    {
+      "tweet_id": "2113911120184455479",
+      "id": "2113911120184455479",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-10-24T08:31:00.000Z",
+      "created_timestamp": 1792830660000,
+      "text": "ETFs bought $301,000,000 in $BTC this week.\n\nETFs sold $220,000,000 in $ETH and $17,600,000 in $SOL this week.",
+      "url": "https://x.com/TedPillows/status/2113911120184455479",
+      "lang": "en",
+      "likes": 112,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 31,
+      "views": 10111,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-24T09:03:31.014Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2113911120184455479",
+        "id": "2113911120184455479",
+        "text": "ETFs bought $301,000,000 in $BTC this week.\n\nETFs sold $220,000,000 in $ETH and $17,600,000 in $SOL this week.",
+        "raw_text": {
+          "text": "ETFs bought $301,000,000 in $BTC this week.\n\nETFs sold $220,000,000 in $ETH and $17,600,000 in $SOL this week.",
+          "display_text_range": [
+            0,
+            110
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                28,
+                32
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                71,
+                75
+              ],
+              "original": "ETH"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                95,
+                99
+              ],
+              "original": "SOL"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322051,
+          "following": 17069,
+          "likes": 372186,
+          "media_count": 11258,
+          "statuses": 245545,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 31,
+        "reposts": 3,
+        "likes": 112,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Oct 24 08:31:00 +0000 2026",
+        "created_timestamp": 1792830660,
+        "views": 10111,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2113904584687018032",
+      "id": "2113904584687018032",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-10-24T08:05:02.000Z",
+      "created_timestamp": 1792829102000,
+      "text": "Arthur Hayes is selling Altcoins.\n\nHe has sold:\n\n▫️ 15,000,000 in $ETH\n▫️ $2,730,000 in $ENA\n▫️ $2,200,000 in $UNI\n▫️ $2,000,000 in a few other alts",
+      "url": "https://x.com/TedPillows/status/2113904584687018032",
+      "lang": "en",
+      "likes": 238,
+      "reposts": 8,
+      "quotes": 0,
+      "replies": 61,
+      "views": 17815,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113903517018533888",
+            "url": "https://pbs.twimg.com/media/HVYYDH1WsAAGQj5.jpg?name=orig",
+            "width": 927,
+            "height": 592
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113903517018533888",
+            "url": "https://pbs.twimg.com/media/HVYYDH1WsAAGQj5.jpg?name=orig",
+            "width": 927,
+            "height": 592
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-24T09:03:31.014Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2113904584687018032",
+        "id": "2113904584687018032",
+        "text": "Arthur Hayes is selling Altcoins.\n\nHe has sold:\n\n▫️ 15,000,000 in $ETH\n▫️ $2,730,000 in $ENA\n▫️ $2,200,000 in $UNI\n▫️ $2,000,000 in a few other alts",
+        "raw_text": {
+          "text": "Arthur Hayes is selling Altcoins.\n\nHe has sold:\n\n▫️ 15,000,000 in $ETH\n▫️ $2,730,000 in $ENA\n▫️ $2,200,000 in $UNI\n▫️ $2,000,000 in a few other alts https://t.co/3ssn2ab048",
+          "display_text_range": [
+            0,
+            148
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                66,
+                70
+              ],
+              "original": "ETH"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                88,
+                92
+              ],
+              "original": "ENA"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                110,
+                114
+              ],
+              "original": "UNI"
+            },
+            {
+              "type": "media",
+              "indices": [
+                149,
+                172
+              ],
+              "id": "2113903517018533888",
+              "display": "pic.x.com/3ssn2ab048",
+              "original": "https://t.co/3ssn2ab048",
+              "replacement": "https://x.com/TedPillows/status/2113904584687018032/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322051,
+          "following": 17069,
+          "likes": 372186,
+          "media_count": 11258,
+          "statuses": 245545,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 61,
+        "reposts": 8,
+        "likes": 238,
+        "bookmarks": 6,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Oct 24 08:05:02 +0000 2026",
+        "created_timestamp": 1792829102,
+        "possibly_sensitive": false,
+        "views": 17815,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2113903517018533888",
+              "url": "https://pbs.twimg.com/media/HVYYDH1WsAAGQj5.jpg?name=orig",
+              "width": 927,
+              "height": 592
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2113903517018533888",
+              "url": "https://pbs.twimg.com/media/HVYYDH1WsAAGQj5.jpg?name=orig",
+              "width": 927,
+              "height": 592
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2113894177176277197",
+      "id": "2113894177176277197",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-10-24T07:23:40.000Z",
+      "created_timestamp": 1792826620000,
+      "text": "I think 75k more probable than 85k at this point…\n\nSalsa bearish?",
+      "url": "https://x.com/SalsaTekila/status/2113894177176277197",
+      "lang": "en",
+      "likes": 164,
+      "reposts": 1,
+      "quotes": 3,
+      "replies": 40,
+      "views": 8492,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-24T09:03:31.014Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2113894177176277197",
+        "id": "2113894177176277197",
+        "text": "I think 75k more probable than 85k at this point…\n\nSalsa bearish?",
+        "raw_text": {
+          "text": "I think 75k more probable than 85k at this point…\n\nSalsa bearish?",
+          "display_text_range": [
+            0,
+            65
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227879,
+          "following": 600,
+          "likes": 110392,
+          "media_count": 309,
+          "statuses": 2193,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 40,
+        "reposts": 1,
+        "likes": 164,
+        "bookmarks": 3,
+        "quotes": 3,
+        "embed_card": "tweet",
+        "created_at": "Sat Oct 24 07:23:40 +0000 2026",
+        "created_timestamp": 1792826620,
+        "views": 8492,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2113888470989156380",
+      "id": "2113888470989156380",
+      "author": {
+        "screen_name": "DaanCrypto",
+        "name": "Daan Crypto Trades"
+      },
+      "created_at": "2026-10-24T07:01:00.000Z",
+      "created_timestamp": 1792825260000,
+      "text": "The best weeks in trading are often the ones where you did very little but avoided every bad decision.\n\nNobody posts about those. They still compound.\n\nThere's plenty of outsized returns in this market, the challenge is to not lose a lot during the bad environments while still catching the big swings up.",
+      "url": "https://x.com/DaanCrypto/status/2113888470989156380",
+      "lang": "en",
+      "likes": 43,
+      "reposts": 1,
+      "quotes": 0,
+      "replies": 22,
+      "views": 9147,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-24T09:03:31.014Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DaanCrypto/status/2113888470989156380",
+        "id": "2113888470989156380",
+        "text": "The best weeks in trading are often the ones where you did very little but avoided every bad decision.\n\nNobody posts about those. They still compound.\n\nThere's plenty of outsized returns in this market, the challenge is to not lose a lot during the bad environments while still catching the big swings up.",
+        "raw_text": {
+          "text": "The best weeks in trading are often the ones where you did very little but avoided every bad decision.\n\nNobody posts about those. They still compound.\n\nThere's plenty of outsized returns in this market, the challenge is to not lose a lot during the bad environments while still catching the big swings up.",
+          "display_text_range": [
+            0,
+            305
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "DaanCrypto",
+          "url": "https://x.com/DaanCrypto",
+          "id": "918138253617790976",
+          "followers": 414382,
+          "following": 555,
+          "likes": 121104,
+          "media_count": 14026,
+          "statuses": 51578,
+          "name": "Daan Crypto Trades",
+          "description": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.me/DaanCryptoTG | YT: https://www.youtube.com/@daancrypto |",
+          "raw_description": {
+            "text": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.co/j7IcSHcJXs | YT: https://t.co/D1PbYpJroi |",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  76,
+                  99
+                ],
+                "original": "https://t.co/j7IcSHcJXs",
+                "replacement": "https://t.me/DaanCryptoTG",
+                "display": "t.me/DaanCryptoTG"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  106,
+                  129
+                ],
+                "original": "https://t.co/D1PbYpJroi",
+                "replacement": "https://www.youtube.com/@daancrypto",
+                "display": "youtube.com/@daancrypto"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/918138253617790976/1767862068",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1593241078035279874/7ousc-BT_200x200.jpg",
+          "joined": "Wed Oct 11 15:36:32 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.eu/b/daancrypto",
+            "display_url": "partner.bybit.eu/b/daancrypto"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 22,
+        "reposts": 1,
+        "likes": 43,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Oct 24 07:01:00 +0000 2026",
+        "created_timestamp": 1792825260,
+        "views": 9147,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DaanCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
     {
       "tweet_id": "2113816934252966269",
       "id": "2113816934252966269",
@@ -33819,611 +34294,6 @@
       "is_repost": true,
       "post_type": "repost",
       "repost_original_author": "elonmusk"
-    },
-    {
-      "tweet_id": "2112084828828963020",
-      "id": "2112084828828963020",
-      "author": {
-        "screen_name": "TedPillows",
-        "name": "Ted"
-      },
-      "created_at": "2026-10-19T07:33:58.000Z",
-      "created_timestamp": 1792395238000,
-      "text": "Worst week for Nasdaq in 18 months.\nOil > $100.\nVIX above 22.\n\nAnd still, $BTC managed another weekly close above $82,000.\n\nBut that doesn't mean it's completely in a safe zone.\n\nFor strong momentum, Bitcoin needs to reclaim $84,500, or else we could see another correction below $80,000.",
-      "url": "https://x.com/TedPillows/status/2112084828828963020",
-      "lang": "en",
-      "likes": 371,
-      "reposts": 40,
-      "quotes": 2,
-      "replies": 60,
-      "views": 28091,
-      "quote": null,
-      "media": {
-        "all": [
-          {
-            "type": "photo",
-            "id": "2112083882883346432",
-            "url": "https://pbs.twimg.com/media/HU-hGecW8AAtcZR.jpg?name=orig",
-            "width": 966,
-            "height": 805
-          }
-        ],
-        "photos": [
-          {
-            "type": "photo",
-            "id": "2112083882883346432",
-            "url": "https://pbs.twimg.com/media/HU-hGecW8AAtcZR.jpg?name=orig",
-            "width": 966,
-            "height": 805
-          }
-        ],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-19T12:54:38.493Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/TedPillows/status/2112084828828963020",
-        "id": "2112084828828963020",
-        "text": "Worst week for Nasdaq in 18 months.\nOil > $100.\nVIX above 22.\n\nAnd still, $BTC managed another weekly close above $82,000.\n\nBut that doesn't mean it's completely in a safe zone.\n\nFor strong momentum, Bitcoin needs to reclaim $84,500, or else we could see another correction below $80,000.",
-        "raw_text": {
-          "text": "Worst week for Nasdaq in 18 months.\nOil > $100.\nVIX above 22.\n\nAnd still, $BTC managed another weekly close above $82,000.\n\nBut that doesn't mean it's completely in a safe zone.\n\nFor strong momentum, Bitcoin needs to reclaim $84,500, or else we could see another correction below $80,000.",
-          "display_text_range": [
-            0,
-            288
-          ],
-          "facets": [
-            {
-              "type": "symbol",
-              "indices": [
-                74,
-                78
-              ],
-              "original": "BTC"
-            },
-            {
-              "type": "media",
-              "indices": [
-                283,
-                306
-              ],
-              "id": "2112083882883346432",
-              "display": "pic.x.com/BXRYCdJIaS",
-              "original": "https://t.co/BXRYCdJIaS",
-              "replacement": "https://x.com/TedPillows/status/2112084828828963020/photo/1"
-            }
-          ]
-        },
-        "author": {
-          "screen_name": "TedPillows",
-          "url": "https://x.com/TedPillows",
-          "id": "3222562058",
-          "followers": 321053,
-          "following": 17095,
-          "likes": 371520,
-          "media_count": 11190,
-          "statuses": 244709,
-          "name": "Ted",
-          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-          "raw_description": {
-            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
-          "joined": "Thu May 21 18:01:13 +0000 2015",
-          "protected": false,
-          "website": {
-            "url": "https://tedpillows.substack.com/",
-            "display_url": "tedpillows.substack.com"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 60,
-        "reposts": 40,
-        "likes": 371,
-        "bookmarks": 13,
-        "quotes": 2,
-        "embed_card": "summary_large_image",
-        "created_at": "Mon Oct 19 07:33:58 +0000 2026",
-        "created_timestamp": 1792395238,
-        "possibly_sensitive": false,
-        "views": 28091,
-        "is_note_tweet": true,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {
-          "all": [
-            {
-              "type": "photo",
-              "id": "2112083882883346432",
-              "url": "https://pbs.twimg.com/media/HU-hGecW8AAtcZR.jpg?name=orig",
-              "width": 966,
-              "height": 805
-            }
-          ],
-          "photos": [
-            {
-              "type": "photo",
-              "id": "2112083882883346432",
-              "url": "https://pbs.twimg.com/media/HU-hGecW8AAtcZR.jpg?name=orig",
-              "width": 966,
-              "height": 805
-            }
-          ]
-        },
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "TedPillows",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2112031656726897020",
-      "id": "2112031656726897020",
-      "author": {
-        "screen_name": "Sheldino_D",
-        "name": "Sheldon Diedericks"
-      },
-      "created_at": "2026-10-19T04:02:41.000Z",
-      "created_timestamp": 1792382561000,
-      "text": "Good morning fam!",
-      "url": "https://x.com/Sheldino_D/status/2112031656726897020",
-      "lang": "en",
-      "likes": 76,
-      "reposts": 0,
-      "quotes": 0,
-      "replies": 10,
-      "views": 11211,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-19T06:01:03.271Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/Sheldino_D/status/2112031656726897020",
-        "id": "2112031656726897020",
-        "text": "Good morning fam!",
-        "raw_text": {
-          "text": "Good morning fam!",
-          "display_text_range": [
-            0,
-            17
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "Sheldino_D",
-          "url": "https://x.com/Sheldino_D",
-          "id": "1374629644884971521",
-          "followers": 547321,
-          "following": 850,
-          "likes": 3630,
-          "media_count": 2141,
-          "statuses": 7136,
-          "name": "Sheldon Diedericks",
-          "description": "Crypto | Trader | Chartist \nNFA",
-          "raw_description": {
-            "text": "Crypto | Trader | Chartist \nNFA",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/1374629644884971521/1787090525",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2089834409713192962/PmMVHLD3_200x200.jpg",
-          "joined": "Wed Mar 24 07:51:06 +0000 2021",
-          "protected": false,
-          "website": null,
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 10,
-        "reposts": 0,
-        "likes": 76,
-        "bookmarks": 0,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 19 04:02:41 +0000 2026",
-        "created_timestamp": 1792382561,
-        "views": 11211,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "Sheldino_D",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2111986537793782235",
-      "id": "2111986537793782235",
-      "author": {
-        "screen_name": "SalsaTekila",
-        "name": "SalsaTekila"
-      },
-      "created_at": "2026-10-19T01:03:24.000Z",
-      "created_timestamp": 1792371804000,
-      "text": "Jordi is correct. Perps are incredibly difficult trading instruments with many risks unknown to non-professionals. I hate this perpification movement that glorifies and embellishes them. Retail will get slaughtered again.",
-      "url": "https://x.com/SalsaTekila/status/2111986537793782235",
-      "lang": "en",
-      "likes": 44,
-      "reposts": 2,
-      "quotes": 2,
-      "replies": 9,
-      "views": 7877,
-      "quote": {
-        "type": "status",
-        "url": "https://x.com/gametheorizing/status/2111779045071323298",
-        "id": "2111779045071323298",
-        "text": "Jeff drank a bit too much of his own Kool-Aid in this recent Odd Lots clip. I think it's important to clear up a distinction that makes all the difference.\n\nDemocratizing access to wealth creation is NOT the same as democratizing access to speculation.\n\nMany of us genuinely want broader participation in attractive investment opportunities. The growing wealth inequality produced by the current system is tearing at the seams of society, something I've spoken about many times.\n\nBut let's be clear: listing pre-IPO perpetual futures does absolutely nothing to democratize the wealth being created in private markets.\n\nI've seen this misleading narrative pushed repeatedly by perp DEXs lately, and it needs to be called out.\n\nA pre-IPO perp creates ZERO underlying wealth. It's a zero-sum contract before costs, and negative-sum after them. No capital flows to the company. No ownership changes hands. No new economic opportunity is created.\n\nEvery long has a short. There is no free lunch in simply going long something before its IPO, and funding costs can even determine the outcome more than any price moves. TRADING access is NOT INVESTING access.\n\nIn fact, in many ways pre-IPO perps are almost the antithesis of democratized access:\n\nThey create the illusion of participation in private-market wealth creation, while actually offering retail a speculative instrument whose mechanics they are often poorly equipped to understand.\n\nThe result is a playground for the FEW sophisticated traders who understand funding, oracle design, and liquidation mechanics to extract value from the MANY who don't.\n\nTo give credit where it's due, Robinhood's efforts toward sourcing actual employee shares, placing them into SPVs, and tokenizing genuine spot ownership are much closer to meaningful democratization.\n\nThat can unlock real economic value by allowing employees to exchange some of their expected upside for liquidity, while giving new investors actual economic exposure. A legitimate financial trade-off, without the funding-rate and liquidation shenanigans.\n\nI'm strongly aligned with expanding access to investment opportunities. And I believe advances in AI and blockchain can dramatically lower the barriers to discovering, structuring, and distributing them.\n\nBut let's not BS ourselves that launching another zero-sum casino contract is moving the needle on wealth inequality.\n\nWhat would actually move the needle is bringing real capital formation and ownership onchain. Giving investors access to productive, illiquid assets like data centers, GPUs, and select startup investing, where capital can actually finance growth and share in the resulting value creation.\n\nThese opportunities are harder to structure, underwrite, and bring to market, and we haven't seen many compelling implementations onchain yet. \n\nHopefully this will change soon and, as the industry matures, we can direct more of our energy toward actually expanding access to wealth creation.\n\nClip below. Was glad to see @tracyalloway push back on this framing, and to Jeff's credit, after this he does seem to walk back his original position somewhat.",
-        "raw_text": {
-          "text": "Jeff drank a bit too much of his own Kool-Aid in this recent Odd Lots clip. I think it's important to clear up a distinction that makes all the difference.\n\nDemocratizing access to wealth creation is NOT the same as democratizing access to speculation.\n\nMany of us genuinely want broader participation in attractive investment opportunities. The growing wealth inequality produced by the current system is tearing at the seams of society, something I've spoken about many times.\n\nBut let's be clear: listing pre-IPO perpetual futures does absolutely nothing to democratize the wealth being created in private markets.\n\nI've seen this misleading narrative pushed repeatedly by perp DEXs lately, and it needs to be called out.\n\nA pre-IPO perp creates ZERO underlying wealth. It's a zero-sum contract before costs, and negative-sum after them. No capital flows to the company. No ownership changes hands. No new economic opportunity is created.\n\nEvery long has a short. There is no free lunch in simply going long something before its IPO, and funding costs can even determine the outcome more than any price moves. TRADING access is NOT INVESTING access.\n\nIn fact, in many ways pre-IPO perps are almost the antithesis of democratized access:\n\nThey create the illusion of participation in private-market wealth creation, while actually offering retail a speculative instrument whose mechanics they are often poorly equipped to understand.\n\nThe result is a playground for the FEW sophisticated traders who understand funding, oracle design, and liquidation mechanics to extract value from the MANY who don't.\n\nTo give credit where it's due, Robinhood's efforts toward sourcing actual employee shares, placing them into SPVs, and tokenizing genuine spot ownership are much closer to meaningful democratization.\n\nThat can unlock real economic value by allowing employees to exchange some of their expected upside for liquidity, while giving new investors actual economic exposure. A legitimate financial trade-off, without the funding-rate and liquidation shenanigans.\n\nI'm strongly aligned with expanding access to investment opportunities. And I believe advances in AI and blockchain can dramatically lower the barriers to discovering, structuring, and distributing them.\n\nBut let's not BS ourselves that launching another zero-sum casino contract is moving the needle on wealth inequality.\n\nWhat would actually move the needle is bringing real capital formation and ownership onchain. Giving investors access to productive, illiquid assets like data centers, GPUs, and select startup investing, where capital can actually finance growth and share in the resulting value creation.\n\nThese opportunities are harder to structure, underwrite, and bring to market, and we haven't seen many compelling implementations onchain yet. \n\nHopefully this will change soon and, as the industry matures, we can direct more of our energy toward actually expanding access to wealth creation.\n\nClip below. Was glad to see @tracyalloway push back on this framing, and to Jeff's credit, after this he does seem to walk back his original position somewhat.",
-          "display_text_range": [
-            0,
-            3131
-          ],
-          "facets": [
-            {
-              "type": "mention",
-              "indices": [
-                3000,
-                3013
-              ],
-              "original": "tracyalloway",
-              "id": "20169416"
-            }
-          ]
-        },
-        "author": {
-          "screen_name": "gametheorizing",
-          "url": "https://x.com/gametheorizing",
-          "id": "1081354216843632640",
-          "followers": 129573,
-          "following": 795,
-          "likes": 22736,
-          "media_count": 1445,
-          "statuses": 6540,
-          "name": "Jordi Alexander",
-          "description": "Founder @SeliniCapital and Lad @0xSteadyLads; Game theory connoisseur ; Soon, the biggest problems in the world will be philosophical",
-          "raw_description": {
-            "text": "Founder @SeliniCapital and Lad @0xSteadyLads; Game theory connoisseur ; Soon, the biggest problems in the world will be philosophical",
-            "facets": [
-              {
-                "type": "mention",
-                "indices": [
-                  8,
-                  22
-                ],
-                "original": "SeliniCapital",
-                "id": ""
-              },
-              {
-                "type": "mention",
-                "indices": [
-                  31,
-                  44
-                ],
-                "original": "0xSteadyLads",
-                "id": ""
-              }
-            ]
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/1081354216843632640/1631793254",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1905932552034263040/2n6LSMJj_200x200.jpg",
-          "joined": "Sat Jan 05 00:58:30 +0000 2019",
-          "protected": false,
-          "website": {
-            "url": "http://www.selinicapital.com",
-            "display_url": "selinicapital.com"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 80,
-        "reposts": 42,
-        "likes": 801,
-        "bookmarks": 388,
-        "quotes": 23,
-        "embed_card": "tweet",
-        "created_at": "Sun Oct 18 11:18:53 +0000 2026",
-        "created_timestamp": 1792322333,
-        "views": 83518,
-        "is_note_tweet": true,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "quote": {
-          "type": "tombstone",
-          "provider": "twitter",
-          "reason": "unavailable",
-          "message": "This post is unavailable",
-          "id": "2111608200017625390",
-          "url": "https://x.com/i/status/2111608200017625390"
-        },
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-19T06:01:03.271Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/SalsaTekila/status/2111986537793782235",
-        "id": "2111986537793782235",
-        "text": "Jordi is correct. Perps are incredibly difficult trading instruments with many risks unknown to non-professionals. I hate this perpification movement that glorifies and embellishes them. Retail will get slaughtered again.",
-        "raw_text": {
-          "text": "Jordi is correct. Perps are incredibly difficult trading instruments with many risks unknown to non-professionals. I hate this perpification movement that glorifies and embellishes them. Retail will get slaughtered again.",
-          "display_text_range": [
-            0,
-            221
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "SalsaTekila",
-          "url": "https://x.com/SalsaTekila",
-          "id": "1566114613",
-          "followers": 227818,
-          "following": 593,
-          "likes": 110313,
-          "media_count": 300,
-          "statuses": 2122,
-          "name": "SalsaTekila",
-          "description": "HODLer of BTC.",
-          "raw_description": {
-            "text": "HODLer of BTC.",
-            "facets": []
-          },
-          "location": "Sombrero",
-          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
-          "joined": "Wed Jul 03 15:53:22 +0000 2013",
-          "protected": false,
-          "website": {
-            "url": "https://partner.bybit.com/b/tekila",
-            "display_url": "partner.bybit.com/b/tekila"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 9,
-        "reposts": 2,
-        "likes": 44,
-        "bookmarks": 8,
-        "quotes": 2,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 19 01:03:24 +0000 2026",
-        "created_timestamp": 1792371804,
-        "views": 7877,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "quote": {
-          "type": "status",
-          "url": "https://x.com/gametheorizing/status/2111779045071323298",
-          "id": "2111779045071323298",
-          "text": "Jeff drank a bit too much of his own Kool-Aid in this recent Odd Lots clip. I think it's important to clear up a distinction that makes all the difference.\n\nDemocratizing access to wealth creation is NOT the same as democratizing access to speculation.\n\nMany of us genuinely want broader participation in attractive investment opportunities. The growing wealth inequality produced by the current system is tearing at the seams of society, something I've spoken about many times.\n\nBut let's be clear: listing pre-IPO perpetual futures does absolutely nothing to democratize the wealth being created in private markets.\n\nI've seen this misleading narrative pushed repeatedly by perp DEXs lately, and it needs to be called out.\n\nA pre-IPO perp creates ZERO underlying wealth. It's a zero-sum contract before costs, and negative-sum after them. No capital flows to the company. No ownership changes hands. No new economic opportunity is created.\n\nEvery long has a short. There is no free lunch in simply going long something before its IPO, and funding costs can even determine the outcome more than any price moves. TRADING access is NOT INVESTING access.\n\nIn fact, in many ways pre-IPO perps are almost the antithesis of democratized access:\n\nThey create the illusion of participation in private-market wealth creation, while actually offering retail a speculative instrument whose mechanics they are often poorly equipped to understand.\n\nThe result is a playground for the FEW sophisticated traders who understand funding, oracle design, and liquidation mechanics to extract value from the MANY who don't.\n\nTo give credit where it's due, Robinhood's efforts toward sourcing actual employee shares, placing them into SPVs, and tokenizing genuine spot ownership are much closer to meaningful democratization.\n\nThat can unlock real economic value by allowing employees to exchange some of their expected upside for liquidity, while giving new investors actual economic exposure. A legitimate financial trade-off, without the funding-rate and liquidation shenanigans.\n\nI'm strongly aligned with expanding access to investment opportunities. And I believe advances in AI and blockchain can dramatically lower the barriers to discovering, structuring, and distributing them.\n\nBut let's not BS ourselves that launching another zero-sum casino contract is moving the needle on wealth inequality.\n\nWhat would actually move the needle is bringing real capital formation and ownership onchain. Giving investors access to productive, illiquid assets like data centers, GPUs, and select startup investing, where capital can actually finance growth and share in the resulting value creation.\n\nThese opportunities are harder to structure, underwrite, and bring to market, and we haven't seen many compelling implementations onchain yet. \n\nHopefully this will change soon and, as the industry matures, we can direct more of our energy toward actually expanding access to wealth creation.\n\nClip below. Was glad to see @tracyalloway push back on this framing, and to Jeff's credit, after this he does seem to walk back his original position somewhat.",
-          "raw_text": {
-            "text": "Jeff drank a bit too much of his own Kool-Aid in this recent Odd Lots clip. I think it's important to clear up a distinction that makes all the difference.\n\nDemocratizing access to wealth creation is NOT the same as democratizing access to speculation.\n\nMany of us genuinely want broader participation in attractive investment opportunities. The growing wealth inequality produced by the current system is tearing at the seams of society, something I've spoken about many times.\n\nBut let's be clear: listing pre-IPO perpetual futures does absolutely nothing to democratize the wealth being created in private markets.\n\nI've seen this misleading narrative pushed repeatedly by perp DEXs lately, and it needs to be called out.\n\nA pre-IPO perp creates ZERO underlying wealth. It's a zero-sum contract before costs, and negative-sum after them. No capital flows to the company. No ownership changes hands. No new economic opportunity is created.\n\nEvery long has a short. There is no free lunch in simply going long something before its IPO, and funding costs can even determine the outcome more than any price moves. TRADING access is NOT INVESTING access.\n\nIn fact, in many ways pre-IPO perps are almost the antithesis of democratized access:\n\nThey create the illusion of participation in private-market wealth creation, while actually offering retail a speculative instrument whose mechanics they are often poorly equipped to understand.\n\nThe result is a playground for the FEW sophisticated traders who understand funding, oracle design, and liquidation mechanics to extract value from the MANY who don't.\n\nTo give credit where it's due, Robinhood's efforts toward sourcing actual employee shares, placing them into SPVs, and tokenizing genuine spot ownership are much closer to meaningful democratization.\n\nThat can unlock real economic value by allowing employees to exchange some of their expected upside for liquidity, while giving new investors actual economic exposure. A legitimate financial trade-off, without the funding-rate and liquidation shenanigans.\n\nI'm strongly aligned with expanding access to investment opportunities. And I believe advances in AI and blockchain can dramatically lower the barriers to discovering, structuring, and distributing them.\n\nBut let's not BS ourselves that launching another zero-sum casino contract is moving the needle on wealth inequality.\n\nWhat would actually move the needle is bringing real capital formation and ownership onchain. Giving investors access to productive, illiquid assets like data centers, GPUs, and select startup investing, where capital can actually finance growth and share in the resulting value creation.\n\nThese opportunities are harder to structure, underwrite, and bring to market, and we haven't seen many compelling implementations onchain yet. \n\nHopefully this will change soon and, as the industry matures, we can direct more of our energy toward actually expanding access to wealth creation.\n\nClip below. Was glad to see @tracyalloway push back on this framing, and to Jeff's credit, after this he does seem to walk back his original position somewhat.",
-            "display_text_range": [
-              0,
-              3131
-            ],
-            "facets": [
-              {
-                "type": "mention",
-                "indices": [
-                  3000,
-                  3013
-                ],
-                "original": "tracyalloway",
-                "id": "20169416"
-              }
-            ]
-          },
-          "author": {
-            "screen_name": "gametheorizing",
-            "url": "https://x.com/gametheorizing",
-            "id": "1081354216843632640",
-            "followers": 129573,
-            "following": 795,
-            "likes": 22736,
-            "media_count": 1445,
-            "statuses": 6540,
-            "name": "Jordi Alexander",
-            "description": "Founder @SeliniCapital and Lad @0xSteadyLads; Game theory connoisseur ; Soon, the biggest problems in the world will be philosophical",
-            "raw_description": {
-              "text": "Founder @SeliniCapital and Lad @0xSteadyLads; Game theory connoisseur ; Soon, the biggest problems in the world will be philosophical",
-              "facets": [
-                {
-                  "type": "mention",
-                  "indices": [
-                    8,
-                    22
-                  ],
-                  "original": "SeliniCapital",
-                  "id": ""
-                },
-                {
-                  "type": "mention",
-                  "indices": [
-                    31,
-                    44
-                  ],
-                  "original": "0xSteadyLads",
-                  "id": ""
-                }
-              ]
-            },
-            "location": "",
-            "banner_url": "https://pbs.twimg.com/profile_banners/1081354216843632640/1631793254",
-            "avatar_url": "https://pbs.twimg.com/profile_images/1905932552034263040/2n6LSMJj_200x200.jpg",
-            "joined": "Sat Jan 05 00:58:30 +0000 2019",
-            "protected": false,
-            "website": {
-              "url": "http://www.selinicapital.com",
-              "display_url": "selinicapital.com"
-            },
-            "verification": {
-              "verified": true,
-              "verified_at": null,
-              "type": "individual"
-            },
-            "type": "profile"
-          },
-          "replies": 80,
-          "reposts": 42,
-          "likes": 801,
-          "bookmarks": 388,
-          "quotes": 23,
-          "embed_card": "tweet",
-          "created_at": "Sun Oct 18 11:18:53 +0000 2026",
-          "created_timestamp": 1792322333,
-          "views": 83518,
-          "is_note_tweet": true,
-          "community_note": null,
-          "lang": "en",
-          "replying_to": null,
-          "media": {},
-          "quote": {
-            "type": "tombstone",
-            "provider": "twitter",
-            "reason": "unavailable",
-            "message": "This post is unavailable",
-            "id": "2111608200017625390",
-            "url": "https://x.com/i/status/2111608200017625390"
-          },
-          "provider": "twitter",
-          "reposted_by": null
-        },
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "SalsaTekila",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2111984704882888964",
-      "id": "2111984704882888964",
-      "author": {
-        "screen_name": "SalsaTekila",
-        "name": "SalsaTekila"
-      },
-      "created_at": "2026-10-19T00:56:07.000Z",
-      "created_timestamp": 1792371367000,
-      "text": "People who were trying to buy PAPER at $0.008 are mad about this perps listing.\n\nIMO it's going much higher than $0.02 unless the protocol gets badly exploited or goes insolvent. Most skeptics think it can't sustain itself without incentives. I beg to differ.\n\nBase case 500M+",
-      "url": "https://x.com/SalsaTekila/status/2111984704882888964",
-      "lang": "en",
-      "likes": 8,
-      "reposts": 1,
-      "quotes": 0,
-      "replies": 1,
-      "views": 1465,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-19T01:03:13.196Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/SalsaTekila/status/2111984704882888964",
-        "id": "2111984704882888964",
-        "text": "People who were trying to buy PAPER at $0.008 are mad about this perps listing.\n\nIMO it's going much higher than $0.02 unless the protocol gets badly exploited or goes insolvent. Most skeptics think it can't sustain itself without incentives. I beg to differ.\n\nBase case 500M+",
-        "raw_text": {
-          "text": "People who were trying to buy PAPER at $0.008 are mad about this perps listing.\n\nIMO it's going much higher than $0.02 unless the protocol gets badly exploited or goes insolvent. Most skeptics think it can't sustain itself without incentives. I beg to differ.\n\nBase case 500M+",
-          "display_text_range": [
-            0,
-            276
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "SalsaTekila",
-          "url": "https://x.com/SalsaTekila",
-          "id": "1566114613",
-          "followers": 227815,
-          "following": 593,
-          "likes": 110313,
-          "media_count": 299,
-          "statuses": 2120,
-          "name": "SalsaTekila",
-          "description": "HODLer of BTC.",
-          "raw_description": {
-            "text": "HODLer of BTC.",
-            "facets": []
-          },
-          "location": "Sombrero",
-          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
-          "joined": "Wed Jul 03 15:53:22 +0000 2013",
-          "protected": false,
-          "website": {
-            "url": "https://partner.bybit.com/b/tekila",
-            "display_url": "partner.bybit.com/b/tekila"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 1,
-        "reposts": 1,
-        "likes": 8,
-        "bookmarks": 0,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 19 00:56:07 +0000 2026",
-        "created_timestamp": 1792371367,
-        "views": 1465,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "SalsaTekila",
-      "is_repost": false,
-      "post_type": "original"
     }
   ]
 }
