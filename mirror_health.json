@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-25T20:43:48.944Z",
-  "status": "ok",
+  "checked_at": "2026-10-25T23:09:05.765Z",
+  "status": "partial",
   "source": "direct_fxtwitter",
-  "successful_accounts": 13,
+  "successful_accounts": 12,
   "required_accounts": 13,
   "accounts": {
     "Pentosh1": {
@@ -44,7 +44,7 @@
     "DaanCrypto": {
       "ok": true,
       "fetched": 38,
-      "new": 0,
+      "new": 1,
       "error": null
     },
     "Sheldino_D": {
@@ -72,10 +72,10 @@
       "error": null
     },
     "DrProfitCrypto": {
-      "ok": true,
-      "fetched": 38,
+      "ok": false,
+      "fetched": 0,
       "new": 0,
-      "error": null
+      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
     },
     "Alejandro_XBT": {
       "ok": true,
