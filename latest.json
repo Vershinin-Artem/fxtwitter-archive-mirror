@@ -1,8 +1,519 @@
 {
-  "updated_at": "2026-10-24T21:49:19.692Z",
-  "latest_tweet_created_at": "2026-10-24T20:02:00.000Z",
+  "updated_at": "2026-10-25T00:12:39.937Z",
+  "latest_tweet_created_at": "2026-10-25T00:06:02.000Z",
   "count": 200,
   "tweets": [
+    {
+      "tweet_id": "2114146428264054949",
+      "id": "2114146428264054949",
+      "author": {
+        "screen_name": "DrProfitCrypto",
+        "name": "Doctor Profit 🇨🇭"
+      },
+      "created_at": "2026-10-25T00:06:02.000Z",
+      "created_timestamp": 1792886762000,
+      "text": "Made it crystal clear 9 hours ago\n\nAnd of course Premium knew\n\nhttps://DrProfitCrypto.com",
+      "url": "https://x.com/DrProfitCrypto/status/2114146428264054949",
+      "lang": "en",
+      "likes": 131,
+      "reposts": 5,
+      "quotes": 1,
+      "replies": 13,
+      "views": 9601,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2114145996900814848",
+            "url": "https://pbs.twimg.com/media/HVb0lTyWUAAZFqY.jpg?name=orig",
+            "width": 1242,
+            "height": 2048
+          },
+          {
+            "type": "photo",
+            "id": "2114145996900868096",
+            "url": "https://pbs.twimg.com/media/HVb0lTyXIAAgmxM.jpg?name=orig",
+            "width": 1038,
+            "height": 1582
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2114145996900814848",
+            "url": "https://pbs.twimg.com/media/HVb0lTyWUAAZFqY.jpg?name=orig",
+            "width": 1242,
+            "height": 2048
+          },
+          {
+            "type": "photo",
+            "id": "2114145996900868096",
+            "url": "https://pbs.twimg.com/media/HVb0lTyXIAAgmxM.jpg?name=orig",
+            "width": 1038,
+            "height": 1582
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2114146428264054949/HVb0lTyWUAAZFqY/HVb0lTyXIAAgmxM",
+            "webp": "https://mosaic.fxtwitter.com/webp/2114146428264054949/HVb0lTyWUAAZFqY/HVb0lTyXIAAgmxM"
+          }
+        },
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-25T00:12:39.937Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DrProfitCrypto/status/2114146428264054949",
+        "id": "2114146428264054949",
+        "text": "Made it crystal clear 9 hours ago\n\nAnd of course Premium knew\n\nhttps://DrProfitCrypto.com",
+        "raw_text": {
+          "text": "Made it crystal clear 9 hours ago\n\nAnd of course Premium knew\n\nhttps://t.co/JRVCBZtuGI https://t.co/EKtSyy15MD",
+          "display_text_range": [
+            0,
+            86
+          ],
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                63,
+                86
+              ],
+              "original": "https://t.co/JRVCBZtuGI",
+              "replacement": "https://DrProfitCrypto.com",
+              "display": "DrProfitCrypto.com"
+            },
+            {
+              "type": "media",
+              "indices": [
+                87,
+                110
+              ],
+              "id": "2114145996900814848",
+              "display": "pic.x.com/EKtSyy15MD",
+              "original": "https://t.co/EKtSyy15MD",
+              "replacement": "https://x.com/DrProfitCrypto/status/2114146428264054949/photo/1"
+            },
+            {
+              "type": "media",
+              "indices": [
+                87,
+                110
+              ],
+              "id": "2114145996900868096",
+              "display": "pic.x.com/EKtSyy15MD",
+              "original": "https://t.co/EKtSyy15MD",
+              "replacement": "https://x.com/DrProfitCrypto/status/2114146428264054949/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DrProfitCrypto",
+          "url": "https://x.com/DrProfitCrypto",
+          "id": "1275260909896769538",
+          "followers": 523517,
+          "following": 821,
+          "likes": 9120,
+          "media_count": 3239,
+          "statuses": 11573,
+          "name": "Doctor Profit 🇨🇭",
+          "description": "Elite trader, I trade psychology, $BTC and Stocks| Educational content only. NO FINANCIAL ADVICE Join Premium: https://whop.com/drprofit-trading/",
+          "raw_description": {
+            "text": "Elite trader, I trade psychology, $BTC and Stocks| Educational content only. NO FINANCIAL ADVICE Join Premium: https://t.co/TvHxOtKhHj",
+            "facets": [
+              {
+                "type": "symbol",
+                "indices": [
+                  34,
+                  38
+                ],
+                "original": "BTC"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  111,
+                  134
+                ],
+                "original": "https://t.co/TvHxOtKhHj",
+                "replacement": "https://whop.com/drprofit-trading/",
+                "display": "whop.com/drprofit-tradi…"
+              }
+            ]
+          },
+          "location": "JOIN PREMIUM 🔝👆",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1275260909896769538/1728171341",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_200x200.jpg",
+          "joined": "Tue Jun 23 02:54:39 +0000 2020",
+          "protected": false,
+          "website": {
+            "url": "https://whop.com/drprofit-trading/drprofit-trading/",
+            "display_url": "whop.com/drprofit-tradi…"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 13,
+        "reposts": 5,
+        "likes": 131,
+        "bookmarks": 3,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Oct 25 00:06:02 +0000 2026",
+        "created_timestamp": 1792886762,
+        "possibly_sensitive": false,
+        "views": 9601,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2114145996900814848",
+              "url": "https://pbs.twimg.com/media/HVb0lTyWUAAZFqY.jpg?name=orig",
+              "width": 1242,
+              "height": 2048
+            },
+            {
+              "type": "photo",
+              "id": "2114145996900868096",
+              "url": "https://pbs.twimg.com/media/HVb0lTyXIAAgmxM.jpg?name=orig",
+              "width": 1038,
+              "height": 1582
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2114145996900814848",
+              "url": "https://pbs.twimg.com/media/HVb0lTyWUAAZFqY.jpg?name=orig",
+              "width": 1242,
+              "height": 2048
+            },
+            {
+              "type": "photo",
+              "id": "2114145996900868096",
+              "url": "https://pbs.twimg.com/media/HVb0lTyXIAAgmxM.jpg?name=orig",
+              "width": 1038,
+              "height": 1582
+            }
+          ],
+          "mosaic": {
+            "type": "mosaic_photo",
+            "formats": {
+              "jpeg": "https://mosaic.fxtwitter.com/jpeg/2114146428264054949/HVb0lTyWUAAZFqY/HVb0lTyXIAAgmxM",
+              "webp": "https://mosaic.fxtwitter.com/webp/2114146428264054949/HVb0lTyWUAAZFqY/HVb0lTyXIAAgmxM"
+            }
+          }
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DrProfitCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2114143892048064717",
+      "id": "2114143892048064717",
+      "author": {
+        "screen_name": "DrProfitCrypto",
+        "name": "Doctor Profit 🇨🇭"
+      },
+      "created_at": "2026-10-24T23:55:57.000Z",
+      "created_timestamp": 1792886157000,
+      "text": "$BTC: Since weeks I’m saying 80-81k is the area I’m adding more longs. Yet a small amount of people mocked me because BTC went from  84k back to sub 80k for a while. I’m building this position for the long term. Not to be happy with a small 4K pump. My spot positions from 60k remain fully open as well. My next target remains clearly 94k\n\nI’m not giving financial advice and sharing educational content only. For Financial Advice, only seek from licensed advisors such as the Respected @jimcramer\n\nThanks for Playing and my highly leveraged love for all positive replies, and yet if BTC allows to visit back to $80,000 I will repeat and add more to the longs, hope you understand.",
+      "url": "https://x.com/DrProfitCrypto/status/2114143892048064717",
+      "lang": "en",
+      "likes": 388,
+      "reposts": 13,
+      "quotes": 0,
+      "replies": 32,
+      "views": 22108,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-25T00:12:39.937Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DrProfitCrypto/status/2114143892048064717",
+        "id": "2114143892048064717",
+        "text": "$BTC: Since weeks I’m saying 80-81k is the area I’m adding more longs. Yet a small amount of people mocked me because BTC went from  84k back to sub 80k for a while. I’m building this position for the long term. Not to be happy with a small 4K pump. My spot positions from 60k remain fully open as well. My next target remains clearly 94k\n\nI’m not giving financial advice and sharing educational content only. For Financial Advice, only seek from licensed advisors such as the Respected @jimcramer\n\nThanks for Playing and my highly leveraged love for all positive replies, and yet if BTC allows to visit back to $80,000 I will repeat and add more to the longs, hope you understand.",
+        "raw_text": {
+          "text": "$BTC: Since weeks I’m saying 80-81k is the area I’m adding more longs. Yet a small amount of people mocked me because BTC went from  84k back to sub 80k for a while. I’m building this position for the long term. Not to be happy with a small 4K pump. My spot positions from 60k remain fully open as well. My next target remains clearly 94k\n\nI’m not giving financial advice and sharing educational content only. For Financial Advice, only seek from licensed advisors such as the Respected @jimcramer\n\nThanks for Playing and my highly leveraged love for all positive replies, and yet if BTC allows to visit back to $80,000 I will repeat and add more to the longs, hope you understand.",
+          "display_text_range": [
+            0,
+            681
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                487,
+                497
+              ],
+              "original": "jimcramer",
+              "id": "14216123"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DrProfitCrypto",
+          "url": "https://x.com/DrProfitCrypto",
+          "id": "1275260909896769538",
+          "followers": 523517,
+          "following": 821,
+          "likes": 9120,
+          "media_count": 3239,
+          "statuses": 11573,
+          "name": "Doctor Profit 🇨🇭",
+          "description": "Elite trader, I trade psychology, $BTC and Stocks| Educational content only. NO FINANCIAL ADVICE Join Premium: https://whop.com/drprofit-trading/",
+          "raw_description": {
+            "text": "Elite trader, I trade psychology, $BTC and Stocks| Educational content only. NO FINANCIAL ADVICE Join Premium: https://t.co/TvHxOtKhHj",
+            "facets": [
+              {
+                "type": "symbol",
+                "indices": [
+                  34,
+                  38
+                ],
+                "original": "BTC"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  111,
+                  134
+                ],
+                "original": "https://t.co/TvHxOtKhHj",
+                "replacement": "https://whop.com/drprofit-trading/",
+                "display": "whop.com/drprofit-tradi…"
+              }
+            ]
+          },
+          "location": "JOIN PREMIUM 🔝👆",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1275260909896769538/1728171341",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_200x200.jpg",
+          "joined": "Tue Jun 23 02:54:39 +0000 2020",
+          "protected": false,
+          "website": {
+            "url": "https://whop.com/drprofit-trading/drprofit-trading/",
+            "display_url": "whop.com/drprofit-tradi…"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 32,
+        "reposts": 13,
+        "likes": 388,
+        "bookmarks": 12,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Oct 24 23:55:57 +0000 2026",
+        "created_timestamp": 1792886157,
+        "views": 22108,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DrProfitCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2114141763199959309",
+      "id": "2114141763199959309",
+      "author": {
+        "screen_name": "DrProfitCrypto",
+        "name": "Doctor Profit 🇨🇭"
+      },
+      "created_at": "2026-10-24T23:47:29.000Z",
+      "created_timestamp": 1792885649000,
+      "text": "$BTC is up +0.60% since long entry\n\nA slap for every DELUSIONAL bear\n\nDrProfit, back in Profit",
+      "url": "https://x.com/DrProfitCrypto/status/2114141763199959309",
+      "lang": "en",
+      "likes": 529,
+      "reposts": 17,
+      "quotes": 1,
+      "replies": 48,
+      "views": 27645,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2114141751044620288",
+            "url": "https://pbs.twimg.com/media/HVbwuKvWQAAG7eL.jpg?name=orig",
+            "width": 1320,
+            "height": 1386
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2114141751044620288",
+            "url": "https://pbs.twimg.com/media/HVbwuKvWQAAG7eL.jpg?name=orig",
+            "width": 1320,
+            "height": 1386
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-25T00:12:39.937Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DrProfitCrypto/status/2114141763199959309",
+        "id": "2114141763199959309",
+        "text": "$BTC is up +0.60% since long entry\n\nA slap for every DELUSIONAL bear\n\nDrProfit, back in Profit",
+        "raw_text": {
+          "text": "$BTC is up +0.60% since long entry\n\nA slap for every DELUSIONAL bear\n\nDrProfit, back in Profit https://t.co/CE0EXlGUAh",
+          "display_text_range": [
+            0,
+            94
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                95,
+                118
+              ],
+              "id": "2114141751044620288",
+              "display": "pic.x.com/CE0EXlGUAh",
+              "original": "https://t.co/CE0EXlGUAh",
+              "replacement": "https://x.com/DrProfitCrypto/status/2114141763199959309/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DrProfitCrypto",
+          "url": "https://x.com/DrProfitCrypto",
+          "id": "1275260909896769538",
+          "followers": 523517,
+          "following": 821,
+          "likes": 9120,
+          "media_count": 3239,
+          "statuses": 11573,
+          "name": "Doctor Profit 🇨🇭",
+          "description": "Elite trader, I trade psychology, $BTC and Stocks| Educational content only. NO FINANCIAL ADVICE Join Premium: https://whop.com/drprofit-trading/",
+          "raw_description": {
+            "text": "Elite trader, I trade psychology, $BTC and Stocks| Educational content only. NO FINANCIAL ADVICE Join Premium: https://t.co/TvHxOtKhHj",
+            "facets": [
+              {
+                "type": "symbol",
+                "indices": [
+                  34,
+                  38
+                ],
+                "original": "BTC"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  111,
+                  134
+                ],
+                "original": "https://t.co/TvHxOtKhHj",
+                "replacement": "https://whop.com/drprofit-trading/",
+                "display": "whop.com/drprofit-tradi…"
+              }
+            ]
+          },
+          "location": "JOIN PREMIUM 🔝👆",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1275260909896769538/1728171341",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1868283617241190401/jqSya1td_200x200.jpg",
+          "joined": "Tue Jun 23 02:54:39 +0000 2020",
+          "protected": false,
+          "website": {
+            "url": "https://whop.com/drprofit-trading/drprofit-trading/",
+            "display_url": "whop.com/drprofit-tradi…"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 48,
+        "reposts": 17,
+        "likes": 529,
+        "bookmarks": 5,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Oct 24 23:47:29 +0000 2026",
+        "created_timestamp": 1792885649,
+        "possibly_sensitive": false,
+        "views": 27645,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2114141751044620288",
+              "url": "https://pbs.twimg.com/media/HVbwuKvWQAAG7eL.jpg?name=orig",
+              "width": 1320,
+              "height": 1386
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2114141751044620288",
+              "url": "https://pbs.twimg.com/media/HVbwuKvWQAAG7eL.jpg?name=orig",
+              "width": 1320,
+              "height": 1386
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DrProfitCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
     {
       "tweet_id": "2114085016367956114",
       "id": "2114085016367956114",
@@ -33886,322 +34397,6 @@
         "reposted_by": null
       },
       "tracked_account": "inmortalcrypto",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2112237592863289538",
-      "id": "2112237592863289538",
-      "author": {
-        "screen_name": "TedPillows",
-        "name": "Ted"
-      },
-      "created_at": "2026-10-19T17:41:00.000Z",
-      "created_timestamp": 1792431660000,
-      "text": "Big Week Ahead For Crypto Holders 🚨 \n\n▫️ 20th October: US Housing market data, SpaceX will report its earnings\n\n▫️ 21st October: Tesla and Meta will report their earnings\n\n▫️ 22nd October: Initial jobless claims data\n\n▫️ 23rd October: US Consumer sentiment and inflation expectations data\n\nThis week, nearly 15% of the S&P 500 companies will report their earnings.",
-      "url": "https://x.com/TedPillows/status/2112237592863289538",
-      "lang": "en",
-      "likes": 178,
-      "reposts": 12,
-      "quotes": 0,
-      "replies": 53,
-      "views": 18009,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-19T19:13:49.477Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/TedPillows/status/2112237592863289538",
-        "id": "2112237592863289538",
-        "text": "Big Week Ahead For Crypto Holders 🚨 \n\n▫️ 20th October: US Housing market data, SpaceX will report its earnings\n\n▫️ 21st October: Tesla and Meta will report their earnings\n\n▫️ 22nd October: Initial jobless claims data\n\n▫️ 23rd October: US Consumer sentiment and inflation expectations data\n\nThis week, nearly 15% of the S&P 500 companies will report their earnings.",
-        "raw_text": {
-          "text": "Big Week Ahead For Crypto Holders 🚨 \n\n▫️ 20th October: US Housing market data, SpaceX will report its earnings\n\n▫️ 21st October: Tesla and Meta will report their earnings\n\n▫️ 22nd October: Initial jobless claims data\n\n▫️ 23rd October: US Consumer sentiment and inflation expectations data\n\nThis week, nearly 15% of the S&P 500 companies will report their earnings.",
-          "display_text_range": [
-            0,
-            365
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "TedPillows",
-          "url": "https://x.com/TedPillows",
-          "id": "3222562058",
-          "followers": 321149,
-          "following": 17096,
-          "likes": 371552,
-          "media_count": 11195,
-          "statuses": 244744,
-          "name": "Ted",
-          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-          "raw_description": {
-            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
-          "joined": "Thu May 21 18:01:13 +0000 2015",
-          "protected": false,
-          "website": {
-            "url": "https://tedpillows.substack.com/",
-            "display_url": "tedpillows.substack.com"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 53,
-        "reposts": 12,
-        "likes": 178,
-        "bookmarks": 15,
-        "quotes": 0,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 19 17:41:00 +0000 2026",
-        "created_timestamp": 1792431660,
-        "views": 18009,
-        "is_note_tweet": true,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "TedPillows",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2112234996987486435",
-      "id": "2112234996987486435",
-      "author": {
-        "screen_name": "TedPillows",
-        "name": "Ted"
-      },
-      "created_at": "2026-10-19T17:30:41.000Z",
-      "created_timestamp": 1792431041000,
-      "text": "Here we go again 🇺🇸🇮🇷\n\nThe US has struck Iran’s Konarak Naval Base, reportedly wounding two soldiers.\n\nIran may retaliate tonight.",
-      "url": "https://x.com/TedPillows/status/2112234996987486435",
-      "lang": "en",
-      "likes": 459,
-      "reposts": 26,
-      "quotes": 3,
-      "replies": 48,
-      "views": 35582,
-      "quote": null,
-      "media": {
-        "photos": [],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-19T19:13:49.477Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/TedPillows/status/2112234996987486435",
-        "id": "2112234996987486435",
-        "text": "Here we go again 🇺🇸🇮🇷\n\nThe US has struck Iran’s Konarak Naval Base, reportedly wounding two soldiers.\n\nIran may retaliate tonight.",
-        "raw_text": {
-          "text": "Here we go again 🇺🇸🇮🇷\n\nThe US has struck Iran’s Konarak Naval Base, reportedly wounding two soldiers.\n\nIran may retaliate tonight.",
-          "display_text_range": [
-            0,
-            130
-          ],
-          "facets": []
-        },
-        "author": {
-          "screen_name": "TedPillows",
-          "url": "https://x.com/TedPillows",
-          "id": "3222562058",
-          "followers": 321149,
-          "following": 17096,
-          "likes": 371552,
-          "media_count": 11195,
-          "statuses": 244744,
-          "name": "Ted",
-          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-          "raw_description": {
-            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
-          "joined": "Thu May 21 18:01:13 +0000 2015",
-          "protected": false,
-          "website": {
-            "url": "https://tedpillows.substack.com/",
-            "display_url": "tedpillows.substack.com"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 48,
-        "reposts": 26,
-        "likes": 459,
-        "bookmarks": 13,
-        "quotes": 3,
-        "embed_card": "tweet",
-        "created_at": "Mon Oct 19 17:30:41 +0000 2026",
-        "created_timestamp": 1792431041,
-        "views": 35582,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {},
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "TedPillows",
-      "is_repost": false,
-      "post_type": "original"
-    },
-    {
-      "tweet_id": "2112225907402305845",
-      "id": "2112225907402305845",
-      "author": {
-        "screen_name": "TedPillows",
-        "name": "Ted"
-      },
-      "created_at": "2026-10-19T16:54:34.000Z",
-      "created_timestamp": 1792428874000,
-      "text": "₺420,000,000,000 erased from the Turkey stock market today.\n\nDamnnn...",
-      "url": "https://x.com/TedPillows/status/2112225907402305845",
-      "lang": "en",
-      "likes": 1341,
-      "reposts": 200,
-      "quotes": 39,
-      "replies": 105,
-      "views": 97663,
-      "quote": null,
-      "media": {
-        "all": [
-          {
-            "type": "photo",
-            "id": "2112225467633713153",
-            "url": "https://pbs.twimg.com/media/HVAh3yvXQAEo0t4.jpg?name=orig",
-            "width": 1326,
-            "height": 647
-          }
-        ],
-        "photos": [
-          {
-            "type": "photo",
-            "id": "2112225467633713153",
-            "url": "https://pbs.twimg.com/media/HVAh3yvXQAEo0t4.jpg?name=orig",
-            "width": 1326,
-            "height": 647
-          }
-        ],
-        "videos": [],
-        "external": []
-      },
-      "collected_at": "2026-10-19T19:13:49.477Z",
-      "raw": {
-        "type": "status",
-        "url": "https://x.com/TedPillows/status/2112225907402305845",
-        "id": "2112225907402305845",
-        "text": "₺420,000,000,000 erased from the Turkey stock market today.\n\nDamnnn...",
-        "raw_text": {
-          "text": "₺420,000,000,000 erased from the Turkey stock market today.\n\nDamnnn... https://t.co/MrHhl8Dcft",
-          "display_text_range": [
-            0,
-            70
-          ],
-          "facets": [
-            {
-              "type": "media",
-              "indices": [
-                71,
-                94
-              ],
-              "id": "2112225467633713153",
-              "display": "pic.x.com/MrHhl8Dcft",
-              "original": "https://t.co/MrHhl8Dcft",
-              "replacement": "https://x.com/TedPillows/status/2112225907402305845/photo/1"
-            }
-          ]
-        },
-        "author": {
-          "screen_name": "TedPillows",
-          "url": "https://x.com/TedPillows",
-          "id": "3222562058",
-          "followers": 321149,
-          "following": 17096,
-          "likes": 371552,
-          "media_count": 11195,
-          "statuses": 244744,
-          "name": "Ted",
-          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-          "raw_description": {
-            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
-            "facets": []
-          },
-          "location": "",
-          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
-          "joined": "Thu May 21 18:01:13 +0000 2015",
-          "protected": false,
-          "website": {
-            "url": "https://tedpillows.substack.com/",
-            "display_url": "tedpillows.substack.com"
-          },
-          "verification": {
-            "verified": true,
-            "verified_at": null,
-            "type": "individual"
-          },
-          "type": "profile"
-        },
-        "replies": 105,
-        "reposts": 200,
-        "likes": 1341,
-        "bookmarks": 76,
-        "quotes": 39,
-        "embed_card": "summary_large_image",
-        "created_at": "Mon Oct 19 16:54:34 +0000 2026",
-        "created_timestamp": 1792428874,
-        "possibly_sensitive": false,
-        "views": 97663,
-        "is_note_tweet": false,
-        "community_note": null,
-        "lang": "en",
-        "replying_to": null,
-        "media": {
-          "all": [
-            {
-              "type": "photo",
-              "id": "2112225467633713153",
-              "url": "https://pbs.twimg.com/media/HVAh3yvXQAEo0t4.jpg?name=orig",
-              "width": 1326,
-              "height": 647
-            }
-          ],
-          "photos": [
-            {
-              "type": "photo",
-              "id": "2112225467633713153",
-              "url": "https://pbs.twimg.com/media/HVAh3yvXQAEo0t4.jpg?name=orig",
-              "width": 1326,
-              "height": 647
-            }
-          ]
-        },
-        "provider": "twitter",
-        "reposted_by": null
-      },
-      "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
     }
