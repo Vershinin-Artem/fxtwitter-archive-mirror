@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-26T01:34:35.013Z",
-  "latest_tweet_collected_at": "2026-10-26T01:34:35.013Z",
-  "latest_tweet_created_at": "2026-10-25T23:02:23.000Z",
-  "total_tweets": 1532,
+  "updated_at": "2026-10-26T06:53:12.455Z",
+  "latest_tweet_collected_at": "2026-10-26T06:53:12.455Z",
+  "latest_tweet_created_at": "2026-10-26T06:05:39.000Z",
+  "total_tweets": 1533,
   "first_date": "2025-01-29",
-  "last_date": "2026-10-25",
+  "last_date": "2026-10-26",
   "tracked_accounts": [
     "Pentosh1",
     "DonAlt",
@@ -23,7 +23,7 @@
   "accounts": {
     "Pentosh1": 49,
     "DonAlt": 56,
-    "SalsaTekila": 259,
+    "SalsaTekila": 260,
     "HsakaTrades": 20,
     "TedPillows": 636,
     "inmortalcrypto": 78,
@@ -47,8 +47,8 @@
       "reposts": 0
     },
     "SalsaTekila": {
-      "total": 259,
-      "original_posts": 237,
+      "total": 260,
+      "original_posts": 238,
       "reposts": 22
     },
     "HsakaTrades": {
@@ -104,6 +104,11 @@
   },
   "unattributed_tweets": 0,
   "dates": [
+    {
+      "date": "2026-10-26",
+      "count": 1,
+      "file": "archive/2026-10-26.json"
+    },
     {
       "date": "2026-10-25",
       "count": 22,
