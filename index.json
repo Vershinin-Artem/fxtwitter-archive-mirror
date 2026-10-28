@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27T23:57:37.252Z",
-  "latest_tweet_collected_at": "2026-10-27T20:35:15.123Z",
-  "latest_tweet_created_at": "2026-10-27T19:53:29.000Z",
-  "total_tweets": 1610,
+  "updated_at": "2026-10-28T05:23:52.852Z",
+  "latest_tweet_collected_at": "2026-10-28T05:23:52.852Z",
+  "latest_tweet_created_at": "2026-10-28T04:53:38.000Z",
+  "total_tweets": 1617,
   "first_date": "2025-01-29",
-  "last_date": "2026-10-27",
+  "last_date": "2026-10-28",
   "tracked_accounts": [
     "Pentosh1",
     "DonAlt",
@@ -23,12 +23,12 @@
   "accounts": {
     "Pentosh1": 49,
     "DonAlt": 56,
-    "SalsaTekila": 266,
+    "SalsaTekila": 272,
     "HsakaTrades": 20,
     "TedPillows": 680,
     "inmortalcrypto": 80,
     "DaanCrypto": 224,
-    "Sheldino_D": 55,
+    "Sheldino_D": 56,
     "CryptoKid": 76,
     "cryptolimbo": 23,
     "DeFi_Paanda": 28,
@@ -47,8 +47,8 @@
       "reposts": 0
     },
     "SalsaTekila": {
-      "total": 266,
-      "original_posts": 243,
+      "total": 272,
+      "original_posts": 249,
       "reposts": 23
     },
     "HsakaTrades": {
@@ -72,8 +72,8 @@
       "reposts": 1
     },
     "Sheldino_D": {
-      "total": 55,
-      "original_posts": 39,
+      "total": 56,
+      "original_posts": 40,
       "reposts": 16
     },
     "CryptoKid": {
@@ -104,6 +104,11 @@
   },
   "unattributed_tweets": 0,
   "dates": [
+    {
+      "date": "2026-10-28",
+      "count": 7,
+      "file": "archive/2026-10-28.json"
+    },
     {
       "date": "2026-10-27",
       "count": 29,
