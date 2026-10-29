@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-29T01:42:12.787Z",
+  "checked_at": "2026-10-29T08:20:44.307Z",
   "status": "partial",
   "source": "direct_fxtwitter",
-  "successful_accounts": 11,
+  "successful_accounts": 10,
   "required_accounts": 13,
   "accounts": {
     "Pentosh1": {
@@ -12,39 +12,39 @@
       "error": null
     },
     "DonAlt": {
-      "ok": true,
-      "fetched": 43,
+      "ok": false,
+      "fetched": 0,
       "new": 0,
-      "error": null
+      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
     },
     "SalsaTekila": {
-      "ok": true,
-      "fetched": 39,
-      "new": 1,
-      "error": null
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
     },
     "HsakaTrades": {
-      "ok": false,
-      "fetched": 0,
-      "new": 0,
-      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
-    },
-    "TedPillows": {
       "ok": true,
-      "fetched": 35,
+      "fetched": 40,
       "new": 0,
       "error": null
     },
-    "inmortalcrypto": {
+    "TedPillows": {
       "ok": false,
       "fetched": 0,
       "new": 0,
       "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
+    },
+    "inmortalcrypto": {
+      "ok": true,
+      "fetched": 38,
+      "new": 0,
+      "error": null
     },
     "DaanCrypto": {
       "ok": true,
       "fetched": 37,
-      "new": 0,
+      "new": 1,
       "error": null
     },
     "Sheldino_D": {
@@ -80,7 +80,7 @@
     "Alejandro_XBT": {
       "ok": true,
       "fetched": 38,
-      "new": 0,
+      "new": 1,
       "error": null
     }
   }
