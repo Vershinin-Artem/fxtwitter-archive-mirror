@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-30T00:12:30.399Z",
-  "status": "partial",
+  "checked_at": "2026-10-30T06:19:49.572Z",
+  "status": "ok",
   "source": "direct_fxtwitter",
-  "successful_accounts": 12,
+  "successful_accounts": 13,
   "required_accounts": 13,
   "accounts": {
     "Pentosh1": {
@@ -12,15 +12,15 @@
       "error": null
     },
     "DonAlt": {
-      "ok": false,
-      "fetched": 0,
-      "new": 0,
-      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
+      "ok": true,
+      "fetched": 43,
+      "new": 1,
+      "error": null
     },
     "SalsaTekila": {
       "ok": true,
-      "fetched": 39,
-      "new": 0,
+      "fetched": 40,
+      "new": 6,
       "error": null
     },
     "HsakaTrades": {
@@ -32,19 +32,19 @@
     "TedPillows": {
       "ok": true,
       "fetched": 37,
-      "new": 23,
+      "new": 3,
       "error": null
     },
     "inmortalcrypto": {
       "ok": true,
       "fetched": 39,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     "DaanCrypto": {
       "ok": true,
       "fetched": 38,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "Sheldino_D": {
@@ -56,13 +56,13 @@
     "CryptoKid": {
       "ok": true,
       "fetched": 36,
-      "new": 11,
+      "new": 2,
       "error": null
     },
     "cryptolimbo": {
       "ok": true,
       "fetched": 40,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "DeFi_Paanda": {
@@ -74,13 +74,13 @@
     "DrProfitCrypto": {
       "ok": true,
       "fetched": 39,
-      "new": 0,
+      "new": 1,
       "error": null
     },
     "Alejandro_XBT": {
       "ok": true,
       "fetched": 38,
-      "new": 2,
+      "new": 0,
       "error": null
     }
   }
