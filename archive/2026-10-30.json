@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "count": 76,
+  "count": 79,
   "tweets": [
     {
       "tweet_id": "2115957965044023618",
@@ -11177,6 +11177,151 @@
       "post_type": "original"
     },
     {
+      "tweet_id": "2116228642162524382",
+      "id": "2116228642162524382",
+      "author": {
+        "screen_name": "JamesEastonUK",
+        "name": "James"
+      },
+      "created_at": "2026-10-30T18:00:00.000Z",
+      "created_timestamp": 1793383200000,
+      "text": "We have seen this movie before.\n\nIt ends with Bitcoin 400% higher.",
+      "url": "https://x.com/JamesEastonUK/status/2116228642162524382",
+      "lang": "en",
+      "likes": 908,
+      "reposts": 66,
+      "quotes": 9,
+      "replies": 43,
+      "views": 26480,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2116223828862832640",
+            "url": "https://pbs.twimg.com/media/HV5WXDCWEAA3wjr.jpg?name=orig",
+            "width": 1835,
+            "height": 1052
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2116223828862832640",
+            "url": "https://pbs.twimg.com/media/HV5WXDCWEAA3wjr.jpg?name=orig",
+            "width": 1835,
+            "height": 1052
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-31T19:29:49.967Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/JamesEastonUK/status/2116228642162524382",
+        "id": "2116228642162524382",
+        "text": "We have seen this movie before.\n\nIt ends with Bitcoin 400% higher.",
+        "raw_text": {
+          "text": "We have seen this movie before.\n\nIt ends with Bitcoin 400% higher. https://t.co/Ty1Y63A7hk",
+          "display_text_range": [
+            0,
+            66
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                67,
+                90
+              ],
+              "id": "2116223828862832640",
+              "display": "pic.x.com/Ty1Y63A7hk",
+              "original": "https://t.co/Ty1Y63A7hk",
+              "replacement": "https://x.com/JamesEastonUK/status/2116228642162524382/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "JamesEastonUK",
+          "url": "https://x.com/JamesEastonUK",
+          "id": "1393662789709934608",
+          "followers": 43940,
+          "following": 158,
+          "likes": 81315,
+          "media_count": 15116,
+          "statuses": 64998,
+          "name": "James",
+          "description": "Analyst & Macro Investor 🌎 | Former Army Ranger 🪖| Weekly Videos 🎬| Free Market Reports ⬇️",
+          "raw_description": {
+            "text": "Analyst & Macro Investor 🌎 | Former Army Ranger 🪖| Weekly Videos 🎬| Free Market Reports ⬇️",
+            "facets": []
+          },
+          "location": "Irresponsibly Long",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1393662789709934608/1792132136",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2110971034178342912/EYULRZVr_200x200.jpg",
+          "joined": "Sat May 15 20:21:28 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "http://substack.com/@jeuk",
+            "display_url": "substack.com/@jeuk"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 43,
+        "reposts": 66,
+        "likes": 908,
+        "bookmarks": 50,
+        "quotes": 9,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Oct 30 18:00:00 +0000 2026",
+        "created_timestamp": 1793383200,
+        "possibly_sensitive": false,
+        "views": 26480,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2116223828862832640",
+              "url": "https://pbs.twimg.com/media/HV5WXDCWEAA3wjr.jpg?name=orig",
+              "width": 1835,
+              "height": 1052
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2116223828862832640",
+              "url": "https://pbs.twimg.com/media/HV5WXDCWEAA3wjr.jpg?name=orig",
+              "width": 1835,
+              "height": 1052
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "JamesEastonUK"
+    },
+    {
       "tweet_id": "2116241523335438728",
       "id": "2116241523335438728",
       "author": {
@@ -12441,6 +12586,465 @@
       "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2116302384179892467",
+      "id": "2116302384179892467",
+      "author": {
+        "screen_name": "PsyopAnime",
+        "name": "PsyopAnime"
+      },
+      "created_at": "2026-10-30T22:53:02.000Z",
+      "created_timestamp": 1793400782000,
+      "text": "Jim Cramer is a legend",
+      "url": "https://x.com/PsyopAnime/status/2116302384179892467",
+      "lang": "en",
+      "likes": 21823,
+      "reposts": 3242,
+      "quotes": 619,
+      "replies": 485,
+      "views": 1341307,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "id": "2116302298657783808",
+            "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1920x1080/68g1XGiWHTsKId_P.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116302298657783808/img/eklZItZ7JUYT6Y1C.jpg",
+            "duration": 44.833,
+            "width": 1920,
+            "height": 1080,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/pl/ghzaFjOIEQLdW2-o.m3u8?tag=29&v=a9d",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/480x270/KT-ag8_OOU-76546.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/640x360/ETqusYTWdgsrdPfs.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1280x720/XX1JF8gTaaco6gWz.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1920x1080/68g1XGiWHTsKId_P.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null
+          }
+        ],
+        "videos": [
+          {
+            "id": "2116302298657783808",
+            "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1920x1080/68g1XGiWHTsKId_P.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116302298657783808/img/eklZItZ7JUYT6Y1C.jpg",
+            "duration": 44.833,
+            "width": 1920,
+            "height": 1080,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/pl/ghzaFjOIEQLdW2-o.m3u8?tag=29&v=a9d",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/480x270/KT-ag8_OOU-76546.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/640x360/ETqusYTWdgsrdPfs.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1280x720/XX1JF8gTaaco6gWz.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1920x1080/68g1XGiWHTsKId_P.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null
+          }
+        ],
+        "photos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-31T19:29:49.967Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/PsyopAnime/status/2116302384179892467",
+        "id": "2116302384179892467",
+        "text": "Jim Cramer is a legend",
+        "raw_text": {
+          "text": "Jim Cramer is a legend https://t.co/fl4I12X1Vn",
+          "display_text_range": [
+            0,
+            22
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                23,
+                46
+              ],
+              "id": "2116302298657783808",
+              "display": "pic.x.com/fl4I12X1Vn",
+              "original": "https://t.co/fl4I12X1Vn",
+              "replacement": "https://x.com/PsyopAnime/status/2116302384179892467/video/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "PsyopAnime",
+          "url": "https://x.com/PsyopAnime",
+          "id": "1798154287672864769",
+          "followers": 214523,
+          "following": 1304,
+          "likes": 8874,
+          "media_count": 1112,
+          "statuses": 3513,
+          "name": "PsyopAnime",
+          "description": "MEME ACCOUNT ✉️: PsyopAnimeOfficial@gmail.com\n@psyophq\n https://www.youtube.com/@PsyopAnime\nhttp://www.psyopanime.ai",
+          "raw_description": {
+            "text": "MEME ACCOUNT ✉️: PsyopAnimeOfficial@gmail.com\n@psyophq\n https://t.co/cvmIGvQgki\nhttps://t.co/DosFaQ2hNP",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  46,
+                  54
+                ],
+                "original": "psyophq",
+                "id": ""
+              },
+              {
+                "type": "url",
+                "indices": [
+                  56,
+                  79
+                ],
+                "original": "https://t.co/cvmIGvQgki",
+                "replacement": "https://www.youtube.com/@PsyopAnime",
+                "display": "youtube.com/@PsyopAnime"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  80,
+                  103
+                ],
+                "original": "https://t.co/DosFaQ2hNP",
+                "replacement": "http://www.psyopanime.ai",
+                "display": "psyopanime.ai"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1798154287672864769/1763259395",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1985081102663389184/2WnkMtpz_200x200.jpg",
+          "joined": "Wed Jun 05 00:46:23 +0000 2024",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 485,
+        "reposts": 3242,
+        "likes": 21823,
+        "bookmarks": 4852,
+        "quotes": 619,
+        "embed_card": "player",
+        "created_at": "Fri Oct 30 22:53:02 +0000 2026",
+        "created_timestamp": 1793400782,
+        "possibly_sensitive": false,
+        "views": 1341307,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "id": "2116302298657783808",
+              "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1920x1080/68g1XGiWHTsKId_P.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116302298657783808/img/eklZItZ7JUYT6Y1C.jpg",
+              "duration": 44.833,
+              "width": 1920,
+              "height": 1080,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/pl/ghzaFjOIEQLdW2-o.m3u8?tag=29&v=a9d",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/480x270/KT-ag8_OOU-76546.mp4?tag=29",
+                  "bitrate": 256000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/640x360/ETqusYTWdgsrdPfs.mp4?tag=29",
+                  "bitrate": 832000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1280x720/XX1JF8gTaaco6gWz.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1920x1080/68g1XGiWHTsKId_P.mp4?tag=29",
+                  "bitrate": 10368000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ],
+          "videos": [
+            {
+              "id": "2116302298657783808",
+              "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1920x1080/68g1XGiWHTsKId_P.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2116302298657783808/img/eklZItZ7JUYT6Y1C.jpg",
+              "duration": 44.833,
+              "width": 1920,
+              "height": 1080,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/pl/ghzaFjOIEQLdW2-o.m3u8?tag=29&v=a9d",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/480x270/KT-ag8_OOU-76546.mp4?tag=29",
+                  "bitrate": 256000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/640x360/ETqusYTWdgsrdPfs.mp4?tag=29",
+                  "bitrate": 832000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1280x720/XX1JF8gTaaco6gWz.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2116302298657783808/vid/avc1/1920x1080/68g1XGiWHTsKId_P.mp4?tag=29",
+                  "bitrate": 10368000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "PsyopAnime"
+    },
+    {
+      "tweet_id": "2116316316336599296",
+      "id": "2116316316336599296",
+      "author": {
+        "screen_name": "HODL15Capital",
+        "name": "HODL15Capital 🇺🇸"
+      },
+      "created_at": "2026-10-30T23:48:23.000Z",
+      "created_timestamp": 1793404103000,
+      "text": "A picture is worth 1,000 words ... 👇",
+      "url": "https://x.com/HODL15Capital/status/2116316316336599296",
+      "lang": "en",
+      "likes": 114,
+      "reposts": 10,
+      "quotes": 0,
+      "replies": 1,
+      "views": 6233,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2116316311546421248",
+            "url": "https://pbs.twimg.com/media/HV6qeP4W4AAJKwI.jpg?name=orig",
+            "width": 1524,
+            "height": 884
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2116316311546421248",
+            "url": "https://pbs.twimg.com/media/HV6qeP4W4AAJKwI.jpg?name=orig",
+            "width": 1524,
+            "height": 884
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-10-31T19:29:49.967Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/HODL15Capital/status/2116316316336599296",
+        "id": "2116316316336599296",
+        "text": "A picture is worth 1,000 words ... 👇",
+        "raw_text": {
+          "text": "A picture is worth 1,000 words ... 👇 https://t.co/jNGK2pxFgo",
+          "display_text_range": [
+            0,
+            36
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                37,
+                60
+              ],
+              "id": "2116316311546421248",
+              "display": "pic.x.com/jNGK2pxFgo",
+              "original": "https://t.co/jNGK2pxFgo",
+              "replacement": "https://x.com/HODL15Capital/status/2116316316336599296/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "HODL15Capital",
+          "url": "https://x.com/HODL15Capital",
+          "id": "1343359252539256832",
+          "followers": 85063,
+          "following": 266,
+          "likes": 50819,
+          "media_count": 111,
+          "statuses": 166,
+          "name": "HODL15Capital 🇺🇸",
+          "description": "Investor. Asset allocator. Capital compounder.  #Bitcoin = FreedomGoUp",
+          "raw_description": {
+            "text": "Investor. Asset allocator. Capital compounder.  #Bitcoin = FreedomGoUp",
+            "facets": [
+              {
+                "type": "hashtag",
+                "indices": [
+                  48,
+                  56
+                ],
+                "original": "Bitcoin"
+              }
+            ]
+          },
+          "location": "USA 🇺🇸",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1343359252539256832/1739765748",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1864991875876196352/SB4AJc_a_200x200.jpg",
+          "joined": "Mon Dec 28 00:53:10 +0000 2020",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 10,
+        "likes": 114,
+        "bookmarks": 5,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Oct 30 23:48:23 +0000 2026",
+        "created_timestamp": 1793404103,
+        "possibly_sensitive": false,
+        "views": 6233,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2116316311546421248",
+              "url": "https://pbs.twimg.com/media/HV6qeP4W4AAJKwI.jpg?name=orig",
+              "width": 1524,
+              "height": 884
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2116316311546421248",
+              "url": "https://pbs.twimg.com/media/HV6qeP4W4AAJKwI.jpg?name=orig",
+              "width": 1524,
+              "height": 884
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "HODL15Capital"
     }
   ]
 }
