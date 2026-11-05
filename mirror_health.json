@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-05T17:36:08.727Z",
+  "checked_at": "2026-11-05T22:48:55.956Z",
   "status": "partial",
   "source": "direct_fxtwitter",
-  "successful_accounts": 11,
+  "successful_accounts": 9,
   "required_accounts": 13,
   "accounts": {
     "Pentosh1": {
@@ -12,39 +12,39 @@
       "error": null
     },
     "DonAlt": {
-      "ok": false,
-      "fetched": 0,
-      "new": 0,
-      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
-    },
-    "SalsaTekila": {
       "ok": true,
-      "fetched": 40,
+      "fetched": 41,
       "new": 1,
       "error": null
     },
-    "HsakaTrades": {
+    "SalsaTekila": {
       "ok": false,
       "fetched": 0,
       "new": 0,
       "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
+    },
+    "HsakaTrades": {
+      "ok": true,
+      "fetched": 40,
+      "new": 0,
+      "error": null
     },
     "TedPillows": {
       "ok": true,
-      "fetched": 33,
-      "new": 23,
+      "fetched": 34,
+      "new": 8,
       "error": null
     },
     "inmortalcrypto": {
-      "ok": true,
-      "fetched": 40,
-      "new": 1,
-      "error": null
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
     },
     "DaanCrypto": {
       "ok": true,
       "fetched": 38,
-      "new": 7,
+      "new": 2,
       "error": null
     },
     "Sheldino_D": {
@@ -56,7 +56,7 @@
     "CryptoKid": {
       "ok": true,
       "fetched": 37,
-      "new": 3,
+      "new": 0,
       "error": null
     },
     "cryptolimbo": {
@@ -68,20 +68,20 @@
     "DeFi_Paanda": {
       "ok": true,
       "fetched": 38,
-      "new": 2,
-      "error": null
-    },
-    "DrProfitCrypto": {
-      "ok": true,
-      "fetched": 39,
       "new": 0,
       "error": null
     },
+    "DrProfitCrypto": {
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
+    },
     "Alejandro_XBT": {
-      "ok": true,
-      "fetched": 39,
-      "new": 1,
-      "error": null
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
     }
   }
 }
