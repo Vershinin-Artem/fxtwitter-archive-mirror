@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-04T21:27:13.076Z",
-  "latest_tweet_collected_at": "2026-11-04T21:27:13.076Z",
-  "latest_tweet_created_at": "2026-11-04T20:15:04.000Z",
-  "total_tweets": 2032,
+  "updated_at": "2026-11-05T01:43:33.053Z",
+  "latest_tweet_collected_at": "2026-11-05T01:43:33.053Z",
+  "latest_tweet_created_at": "2026-11-05T00:46:05.000Z",
+  "total_tweets": 2039,
   "first_date": "2025-01-29",
-  "last_date": "2026-11-04",
+  "last_date": "2026-11-05",
   "tracked_accounts": [
     "Pentosh1",
     "DonAlt",
@@ -22,17 +22,17 @@
   ],
   "accounts": {
     "Pentosh1": 50,
-    "DonAlt": 63,
-    "SalsaTekila": 322,
+    "DonAlt": 65,
+    "SalsaTekila": 323,
     "HsakaTrades": 20,
-    "TedPillows": 861,
+    "TedPillows": 862,
     "inmortalcrypto": 94,
     "DaanCrypto": 274,
     "Sheldino_D": 65,
     "CryptoKid": 151,
-    "cryptolimbo": 29,
+    "cryptolimbo": 31,
     "DeFi_Paanda": 36,
-    "DrProfitCrypto": 34,
+    "DrProfitCrypto": 35,
     "Alejandro_XBT": 33
   },
   "account_stats": {
@@ -42,13 +42,13 @@
       "reposts": 2
     },
     "DonAlt": {
-      "total": 63,
-      "original_posts": 63,
+      "total": 65,
+      "original_posts": 65,
       "reposts": 0
     },
     "SalsaTekila": {
-      "total": 322,
-      "original_posts": 293,
+      "total": 323,
+      "original_posts": 294,
       "reposts": 29
     },
     "HsakaTrades": {
@@ -57,8 +57,8 @@
       "reposts": 2
     },
     "TedPillows": {
-      "total": 861,
-      "original_posts": 860,
+      "total": 862,
+      "original_posts": 861,
       "reposts": 1
     },
     "inmortalcrypto": {
@@ -82,8 +82,8 @@
       "reposts": 64
     },
     "cryptolimbo": {
-      "total": 29,
-      "original_posts": 27,
+      "total": 31,
+      "original_posts": 29,
       "reposts": 2
     },
     "DeFi_Paanda": {
@@ -92,8 +92,8 @@
       "reposts": 7
     },
     "DrProfitCrypto": {
-      "total": 34,
-      "original_posts": 34,
+      "total": 35,
+      "original_posts": 35,
       "reposts": 0
     },
     "Alejandro_XBT": {
@@ -105,8 +105,13 @@
   "unattributed_tweets": 0,
   "dates": [
     {
+      "date": "2026-11-05",
+      "count": 2,
+      "file": "archive/2026-11-05.json"
+    },
+    {
       "date": "2026-11-04",
-      "count": 50,
+      "count": 55,
       "file": "archive/2026-11-04.json"
     },
     {
