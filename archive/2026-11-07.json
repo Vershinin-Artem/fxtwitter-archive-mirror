@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "count": 1,
+  "count": 10,
   "tweets": [
     {
       "tweet_id": "2118887399283728624",
@@ -88,6 +88,1577 @@
         "reposted_by": null
       },
       "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2118897110946853231",
+      "id": "2118897110946853231",
+      "author": {
+        "screen_name": "benjamincowen",
+        "name": "Benjamin Cowen"
+      },
+      "created_at": "2026-11-07T02:43:33.000Z",
+      "created_timestamp": 1794019413000,
+      "text": "Should be a good panel!",
+      "url": "https://x.com/benjamincowen/status/2118897110946853231",
+      "lang": "en",
+      "likes": 161,
+      "reposts": 8,
+      "quotes": 0,
+      "replies": 10,
+      "views": 54938,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/ITCConf/status/2118885931335700785",
+        "id": "2118885931335700785",
+        "text": "What does technical analysis tell us about Bitcoin?\n\nJoin Efe Kelemci @CryptoKid , Evan Aldo @EvanAldo, and Tom Crown @TomCrown at the ITC Conference in Miami for a discussion moderated by Maurizio Grazioli @MrMPodcast on Bitcoin’s technical outlook, key market trends, and what the charts could be signaling for the next market cycle.\n\nNovember 20–22 | Miami\nhttps://benjamincowen.com/conference",
+        "raw_text": {
+          "text": "What does technical analysis tell us about Bitcoin?\n\nJoin Efe Kelemci @CryptoKid , Evan Aldo @EvanAldo, and Tom Crown @TomCrown at the ITC Conference in Miami for a discussion moderated by Maurizio Grazioli @MrMPodcast on Bitcoin’s technical outlook, key market trends, and what the charts could be signaling for the next market cycle.\n\nNovember 20–22 | Miami\nhttps://t.co/h3LaqRcnRS",
+          "display_text_range": [
+            0,
+            383
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                70,
+                80
+              ],
+              "original": "CryptoKid",
+              "id": "1443582062963822599"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                93,
+                102
+              ],
+              "original": "EvanAldo",
+              "id": "3218917514"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                118,
+                127
+              ],
+              "original": "TomCrown",
+              "id": "980467188615319560"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                207,
+                218
+              ],
+              "original": "MrMPodcast",
+              "id": "1460132643018887173"
+            },
+            {
+              "type": "url",
+              "indices": [
+                360,
+                383
+              ],
+              "original": "https://t.co/h3LaqRcnRS",
+              "replacement": "https://benjamincowen.com/conference",
+              "display": "benjamincowen.com/conference"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "ITCConf",
+          "url": "https://x.com/ITCConf",
+          "id": "2069566695350415360",
+          "followers": 546,
+          "following": 41,
+          "likes": 20,
+          "media_count": 60,
+          "statuses": 130,
+          "name": "ITCConf",
+          "description": "Tickets now on Sale!\n\nhttps://benjamincowen.com/conference\n\nDates: Nov 20-22nd\nParty Nov. 21st",
+          "raw_description": {
+            "text": "Tickets now on Sale!\n\nhttps://t.co/h3LaqRcnRS\n\nDates: Nov 20-22nd\nParty Nov. 21st",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  22,
+                  45
+                ],
+                "original": "https://t.co/h3LaqRcnRS",
+                "replacement": "https://benjamincowen.com/conference",
+                "display": "benjamincowen.com/conference"
+              }
+            ]
+          },
+          "location": "Miami",
+          "banner_url": "https://pbs.twimg.com/profile_banners/2069566695350415360/1782266800",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2088111799837085696/vUfKZBQk_200x200.jpg",
+          "joined": "Tue Jun 23 23:43:28 +0000 2026",
+          "protected": false,
+          "website": {
+            "url": "https://benjamincowen.com/conference",
+            "display_url": "benjamincowen.com/conference"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 5,
+        "likes": 18,
+        "bookmarks": 1,
+        "quotes": 2,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 07 01:59:07 +0000 2026",
+        "created_timestamp": 1794016747,
+        "views": 34241,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "card": {
+          "url": "https://benjamincowen.com/conference",
+          "title": "ITC Conference · Miami | Benjamin Cowen",
+          "description": "Join the first in-person ITC Conference in Miami, November 20–22, 2026, featuring market-cycle sessions, Standard, Pro, and VIP tickets, and sponsor opportunities.",
+          "domain": "benjamincowen.com",
+          "image": {
+            "width": 800,
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/2118070221168885760/JaPn3hOD?format=jpg&name=800x419",
+            "alt": "ITC Conference in Miami, November 20–22, 2026, at the JW Marriott Marquis Miami, with a Get tickets button"
+          }
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/benjamincowen/status/2118897110946853231",
+        "id": "2118897110946853231",
+        "text": "Should be a good panel!",
+        "raw_text": {
+          "text": "Should be a good panel!",
+          "display_text_range": [
+            0,
+            23
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "benjamincowen",
+          "url": "https://x.com/benjamincowen",
+          "id": "943506806931734528",
+          "followers": 1269307,
+          "following": 1287,
+          "likes": 20765,
+          "media_count": 7909,
+          "statuses": 30201,
+          "name": "Benjamin Cowen",
+          "description": "Founder & CEO, ITC | Macro, commodities & digital assets | Liquidity, labor & risk cycles | PhD Engineering | Former NASA, Sandia National Labs",
+          "raw_description": {
+            "text": "Founder & CEO, ITC | Macro, commodities & digital assets | Liquidity, labor & risk cycles | PhD Engineering | Former NASA, Sandia National Labs",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1661406326709256193/fcLfe0jv_200x200.jpg",
+          "joined": "Wed Dec 20 15:42:07 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://www.benjamincowen.com/",
+            "display_url": "benjamincowen.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 10,
+        "reposts": 8,
+        "likes": 161,
+        "bookmarks": 4,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 07 02:43:33 +0000 2026",
+        "created_timestamp": 1794019413,
+        "views": 54938,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/ITCConf/status/2118885931335700785",
+          "id": "2118885931335700785",
+          "text": "What does technical analysis tell us about Bitcoin?\n\nJoin Efe Kelemci @CryptoKid , Evan Aldo @EvanAldo, and Tom Crown @TomCrown at the ITC Conference in Miami for a discussion moderated by Maurizio Grazioli @MrMPodcast on Bitcoin’s technical outlook, key market trends, and what the charts could be signaling for the next market cycle.\n\nNovember 20–22 | Miami\nhttps://benjamincowen.com/conference",
+          "raw_text": {
+            "text": "What does technical analysis tell us about Bitcoin?\n\nJoin Efe Kelemci @CryptoKid , Evan Aldo @EvanAldo, and Tom Crown @TomCrown at the ITC Conference in Miami for a discussion moderated by Maurizio Grazioli @MrMPodcast on Bitcoin’s technical outlook, key market trends, and what the charts could be signaling for the next market cycle.\n\nNovember 20–22 | Miami\nhttps://t.co/h3LaqRcnRS",
+            "display_text_range": [
+              0,
+              383
+            ],
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  70,
+                  80
+                ],
+                "original": "CryptoKid",
+                "id": "1443582062963822599"
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  93,
+                  102
+                ],
+                "original": "EvanAldo",
+                "id": "3218917514"
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  118,
+                  127
+                ],
+                "original": "TomCrown",
+                "id": "980467188615319560"
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  207,
+                  218
+                ],
+                "original": "MrMPodcast",
+                "id": "1460132643018887173"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  360,
+                  383
+                ],
+                "original": "https://t.co/h3LaqRcnRS",
+                "replacement": "https://benjamincowen.com/conference",
+                "display": "benjamincowen.com/conference"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "ITCConf",
+            "url": "https://x.com/ITCConf",
+            "id": "2069566695350415360",
+            "followers": 546,
+            "following": 41,
+            "likes": 20,
+            "media_count": 60,
+            "statuses": 130,
+            "name": "ITCConf",
+            "description": "Tickets now on Sale!\n\nhttps://benjamincowen.com/conference\n\nDates: Nov 20-22nd\nParty Nov. 21st",
+            "raw_description": {
+              "text": "Tickets now on Sale!\n\nhttps://t.co/h3LaqRcnRS\n\nDates: Nov 20-22nd\nParty Nov. 21st",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    22,
+                    45
+                  ],
+                  "original": "https://t.co/h3LaqRcnRS",
+                  "replacement": "https://benjamincowen.com/conference",
+                  "display": "benjamincowen.com/conference"
+                }
+              ]
+            },
+            "location": "Miami",
+            "banner_url": "https://pbs.twimg.com/profile_banners/2069566695350415360/1782266800",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2088111799837085696/vUfKZBQk_200x200.jpg",
+            "joined": "Tue Jun 23 23:43:28 +0000 2026",
+            "protected": false,
+            "website": {
+              "url": "https://benjamincowen.com/conference",
+              "display_url": "benjamincowen.com/conference"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 1,
+          "reposts": 5,
+          "likes": 18,
+          "bookmarks": 1,
+          "quotes": 2,
+          "embed_card": "tweet",
+          "created_at": "Sat Nov 07 01:59:07 +0000 2026",
+          "created_timestamp": 1794016747,
+          "views": 34241,
+          "is_note_tweet": true,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "card": {
+            "url": "https://benjamincowen.com/conference",
+            "title": "ITC Conference · Miami | Benjamin Cowen",
+            "description": "Join the first in-person ITC Conference in Miami, November 20–22, 2026, featuring market-cycle sessions, Standard, Pro, and VIP tickets, and sponsor opportunities.",
+            "domain": "benjamincowen.com",
+            "image": {
+              "width": 800,
+              "height": 419,
+              "url": "https://pbs.twimg.com/card_img/2118070221168885760/JaPn3hOD?format=jpg&name=800x419",
+              "alt": "ITC Conference in Miami, November 20–22, 2026, at the JW Marriott Marquis Miami, with a Get tickets button"
+            }
+          },
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "benjamincowen"
+    },
+    {
+      "tweet_id": "2118957580546658490",
+      "id": "2118957580546658490",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-11-07T06:43:50.000Z",
+      "created_timestamp": 1794033830000,
+      "text": "Looking forward to speaking at uncle @benjamincowen’s first annual conference in Miami!!!\n\n14 days left before kick-off 😃\n\nGet your tickets: https://BenjaminCowen.com/conference",
+      "url": "https://x.com/CryptoKid/status/2118957580546658490",
+      "lang": "en",
+      "likes": 8,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 1,
+      "views": 1860,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/ITCConf/status/2118885931335700785",
+        "id": "2118885931335700785",
+        "text": "What does technical analysis tell us about Bitcoin?\n\nJoin Efe Kelemci @CryptoKid , Evan Aldo @EvanAldo, and Tom Crown @TomCrown at the ITC Conference in Miami for a discussion moderated by Maurizio Grazioli @MrMPodcast on Bitcoin’s technical outlook, key market trends, and what the charts could be signaling for the next market cycle.\n\nNovember 20–22 | Miami\nhttps://benjamincowen.com/conference",
+        "raw_text": {
+          "text": "What does technical analysis tell us about Bitcoin?\n\nJoin Efe Kelemci @CryptoKid , Evan Aldo @EvanAldo, and Tom Crown @TomCrown at the ITC Conference in Miami for a discussion moderated by Maurizio Grazioli @MrMPodcast on Bitcoin’s technical outlook, key market trends, and what the charts could be signaling for the next market cycle.\n\nNovember 20–22 | Miami\nhttps://t.co/h3LaqRcnRS",
+          "display_text_range": [
+            0,
+            383
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                70,
+                80
+              ],
+              "original": "CryptoKid",
+              "id": "1443582062963822599"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                93,
+                102
+              ],
+              "original": "EvanAldo",
+              "id": "3218917514"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                118,
+                127
+              ],
+              "original": "TomCrown",
+              "id": "980467188615319560"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                207,
+                218
+              ],
+              "original": "MrMPodcast",
+              "id": "1460132643018887173"
+            },
+            {
+              "type": "url",
+              "indices": [
+                360,
+                383
+              ],
+              "original": "https://t.co/h3LaqRcnRS",
+              "replacement": "https://benjamincowen.com/conference",
+              "display": "benjamincowen.com/conference"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "ITCConf",
+          "url": "https://x.com/ITCConf",
+          "id": "2069566695350415360",
+          "followers": 546,
+          "following": 41,
+          "likes": 20,
+          "media_count": 60,
+          "statuses": 130,
+          "name": "ITCConf",
+          "description": "Tickets now on Sale!\n\nhttps://benjamincowen.com/conference\n\nDates: Nov 20-22nd\nParty Nov. 21st",
+          "raw_description": {
+            "text": "Tickets now on Sale!\n\nhttps://t.co/h3LaqRcnRS\n\nDates: Nov 20-22nd\nParty Nov. 21st",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  22,
+                  45
+                ],
+                "original": "https://t.co/h3LaqRcnRS",
+                "replacement": "https://benjamincowen.com/conference",
+                "display": "benjamincowen.com/conference"
+              }
+            ]
+          },
+          "location": "Miami",
+          "banner_url": "https://pbs.twimg.com/profile_banners/2069566695350415360/1782266800",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2088111799837085696/vUfKZBQk_200x200.jpg",
+          "joined": "Tue Jun 23 23:43:28 +0000 2026",
+          "protected": false,
+          "website": {
+            "url": "https://benjamincowen.com/conference",
+            "display_url": "benjamincowen.com/conference"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 5,
+        "likes": 18,
+        "bookmarks": 1,
+        "quotes": 2,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 07 01:59:07 +0000 2026",
+        "created_timestamp": 1794016747,
+        "views": 34241,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "card": {
+          "url": "https://benjamincowen.com/conference",
+          "title": "ITC Conference · Miami | Benjamin Cowen",
+          "description": "Join the first in-person ITC Conference in Miami, November 20–22, 2026, featuring market-cycle sessions, Standard, Pro, and VIP tickets, and sponsor opportunities.",
+          "domain": "benjamincowen.com",
+          "image": {
+            "width": 800,
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/2118070221168885760/JaPn3hOD?format=jpg&name=800x419",
+            "alt": "ITC Conference in Miami, November 20–22, 2026, at the JW Marriott Marquis Miami, with a Get tickets button"
+          }
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2118957580546658490",
+        "id": "2118957580546658490",
+        "text": "Looking forward to speaking at uncle @benjamincowen’s first annual conference in Miami!!!\n\n14 days left before kick-off 😃\n\nGet your tickets: https://BenjaminCowen.com/conference",
+        "raw_text": {
+          "text": "Looking forward to speaking at uncle @benjamincowen’s first annual conference in Miami!!!\n\n14 days left before kick-off 😃\n\nGet your tickets: https://t.co/VbcrpR0qNO",
+          "display_text_range": [
+            0,
+            164
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                37,
+                51
+              ],
+              "original": "benjamincowen",
+              "id": "943506806931734528"
+            },
+            {
+              "type": "url",
+              "indices": [
+                141,
+                164
+              ],
+              "original": "https://t.co/VbcrpR0qNO",
+              "replacement": "https://BenjaminCowen.com/conference",
+              "display": "BenjaminCowen.com/conference"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47521,
+          "following": 1395,
+          "likes": 7973,
+          "media_count": 1664,
+          "statuses": 8849,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 07 06:43:50 +0000 2026",
+        "created_timestamp": 1794033830,
+        "possibly_sensitive": false,
+        "views": 1860,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/ITCConf/status/2118885931335700785",
+          "id": "2118885931335700785",
+          "text": "What does technical analysis tell us about Bitcoin?\n\nJoin Efe Kelemci @CryptoKid , Evan Aldo @EvanAldo, and Tom Crown @TomCrown at the ITC Conference in Miami for a discussion moderated by Maurizio Grazioli @MrMPodcast on Bitcoin’s technical outlook, key market trends, and what the charts could be signaling for the next market cycle.\n\nNovember 20–22 | Miami\nhttps://benjamincowen.com/conference",
+          "raw_text": {
+            "text": "What does technical analysis tell us about Bitcoin?\n\nJoin Efe Kelemci @CryptoKid , Evan Aldo @EvanAldo, and Tom Crown @TomCrown at the ITC Conference in Miami for a discussion moderated by Maurizio Grazioli @MrMPodcast on Bitcoin’s technical outlook, key market trends, and what the charts could be signaling for the next market cycle.\n\nNovember 20–22 | Miami\nhttps://t.co/h3LaqRcnRS",
+            "display_text_range": [
+              0,
+              383
+            ],
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  70,
+                  80
+                ],
+                "original": "CryptoKid",
+                "id": "1443582062963822599"
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  93,
+                  102
+                ],
+                "original": "EvanAldo",
+                "id": "3218917514"
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  118,
+                  127
+                ],
+                "original": "TomCrown",
+                "id": "980467188615319560"
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  207,
+                  218
+                ],
+                "original": "MrMPodcast",
+                "id": "1460132643018887173"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  360,
+                  383
+                ],
+                "original": "https://t.co/h3LaqRcnRS",
+                "replacement": "https://benjamincowen.com/conference",
+                "display": "benjamincowen.com/conference"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "ITCConf",
+            "url": "https://x.com/ITCConf",
+            "id": "2069566695350415360",
+            "followers": 546,
+            "following": 41,
+            "likes": 20,
+            "media_count": 60,
+            "statuses": 130,
+            "name": "ITCConf",
+            "description": "Tickets now on Sale!\n\nhttps://benjamincowen.com/conference\n\nDates: Nov 20-22nd\nParty Nov. 21st",
+            "raw_description": {
+              "text": "Tickets now on Sale!\n\nhttps://t.co/h3LaqRcnRS\n\nDates: Nov 20-22nd\nParty Nov. 21st",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    22,
+                    45
+                  ],
+                  "original": "https://t.co/h3LaqRcnRS",
+                  "replacement": "https://benjamincowen.com/conference",
+                  "display": "benjamincowen.com/conference"
+                }
+              ]
+            },
+            "location": "Miami",
+            "banner_url": "https://pbs.twimg.com/profile_banners/2069566695350415360/1782266800",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2088111799837085696/vUfKZBQk_200x200.jpg",
+            "joined": "Tue Jun 23 23:43:28 +0000 2026",
+            "protected": false,
+            "website": {
+              "url": "https://benjamincowen.com/conference",
+              "display_url": "benjamincowen.com/conference"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 1,
+          "reposts": 5,
+          "likes": 18,
+          "bookmarks": 1,
+          "quotes": 2,
+          "embed_card": "tweet",
+          "created_at": "Sat Nov 07 01:59:07 +0000 2026",
+          "created_timestamp": 1794016747,
+          "views": 34241,
+          "is_note_tweet": true,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "card": {
+            "url": "https://benjamincowen.com/conference",
+            "title": "ITC Conference · Miami | Benjamin Cowen",
+            "description": "Join the first in-person ITC Conference in Miami, November 20–22, 2026, featuring market-cycle sessions, Standard, Pro, and VIP tickets, and sponsor opportunities.",
+            "domain": "benjamincowen.com",
+            "image": {
+              "width": 800,
+              "height": 419,
+              "url": "https://pbs.twimg.com/card_img/2118070221168885760/JaPn3hOD?format=jpg&name=800x419",
+              "alt": "ITC Conference in Miami, November 20–22, 2026, at the JW Marriott Marquis Miami, with a Get tickets button"
+            }
+          },
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "card": {
+          "url": "https://BenjaminCowen.com/conference",
+          "title": "ITC Conference · Miami | Benjamin Cowen",
+          "description": "Join the first in-person ITC Conference in Miami, November 20–22, 2026, featuring market-cycle sessions, Standard, Pro, and VIP tickets, and sponsor opportunities.",
+          "domain": "benjamincowen.com",
+          "image": {
+            "width": 800,
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/2118070221168885760/JaPn3hOD?format=jpg&name=800x419",
+            "alt": "ITC Conference in Miami, November 20–22, 2026, at the JW Marriott Marquis Miami, with a Get tickets button"
+          }
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2118973329562534207",
+      "id": "2118973329562534207",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-07T07:46:25.000Z",
+      "created_timestamp": 1794037585000,
+      "text": "I'd stopped journaling altogether for about two years, until two days ago.\n\nNow every trade gets analyzed properly: entry reason, changes along the way, outcome, learnings.\n\nI literally just send screenshots and dictate to Fable, and it filters it all into a clean journal.",
+      "url": "https://x.com/SalsaTekila/status/2118973329562534207",
+      "lang": "en",
+      "likes": 54,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 12,
+      "views": 5090,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2118973329562534207",
+        "id": "2118973329562534207",
+        "text": "I'd stopped journaling altogether for about two years, until two days ago.\n\nNow every trade gets analyzed properly: entry reason, changes along the way, outcome, learnings.\n\nI literally just send screenshots and dictate to Fable, and it filters it all into a clean journal.",
+        "raw_text": {
+          "text": "I'd stopped journaling altogether for about two years, until two days ago.\n\nNow every trade gets analyzed properly: entry reason, changes along the way, outcome, learnings.\n\nI literally just send screenshots and dictate to Fable, and it filters it all into a clean journal.",
+          "display_text_range": [
+            0,
+            273
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227937,
+          "following": 606,
+          "likes": 110489,
+          "media_count": 328,
+          "statuses": 2356,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 12,
+        "reposts": 0,
+        "likes": 54,
+        "bookmarks": 11,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 07 07:46:25 +0000 2026",
+        "created_timestamp": 1794037585,
+        "views": 5090,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2118974258160517615",
+      "id": "2118974258160517615",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-07T07:50:06.000Z",
+      "created_timestamp": 1794037806000,
+      "text": "The real reason was laziness. Journaling is easy with one trade a day, not so much when you're in and out multiple times daily without thinking deeply about any of them.\n\nAnd a bit of arrogance: thinking I'd get the same depth and lessons without notes.",
+      "url": "https://x.com/SalsaTekila/status/2118974258160517615",
+      "lang": "en",
+      "likes": 17,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 1,
+      "views": 1308,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2118974258160517615",
+        "id": "2118974258160517615",
+        "text": "The real reason was laziness. Journaling is easy with one trade a day, not so much when you're in and out multiple times daily without thinking deeply about any of them.\n\nAnd a bit of arrogance: thinking I'd get the same depth and lessons without notes.",
+        "raw_text": {
+          "text": "The real reason was laziness. Journaling is easy with one trade a day, not so much when you're in and out multiple times daily without thinking deeply about any of them.\n\nAnd a bit of arrogance: thinking I'd get the same depth and lessons without notes.",
+          "display_text_range": [
+            0,
+            253
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227937,
+          "following": 606,
+          "likes": 110489,
+          "media_count": 328,
+          "statuses": 2356,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 0,
+        "likes": 17,
+        "bookmarks": 3,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 07 07:50:06 +0000 2026",
+        "created_timestamp": 1794037806,
+        "views": 1308,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "SalsaTekila",
+          "status": "2118973329562534207",
+          "url": "https://x.com/SalsaTekila/status/2118973329562534207",
+          "profile_url": "https://x.com/SalsaTekila"
+        },
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2118977000568217659",
+      "id": "2118977000568217659",
+      "author": {
+        "screen_name": "DaanCrypto",
+        "name": "Daan Crypto Trades"
+      },
+      "created_at": "2026-11-07T08:01:00.000Z",
+      "created_timestamp": 1794038460000,
+      "text": "Survival first, profits second.\n\nEvery trader who’s been around for a few cycles eventually learns it in that order.",
+      "url": "https://x.com/DaanCrypto/status/2118977000568217659",
+      "lang": "en",
+      "likes": 65,
+      "reposts": 2,
+      "quotes": 0,
+      "replies": 24,
+      "views": 10168,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DaanCrypto/status/2118977000568217659",
+        "id": "2118977000568217659",
+        "text": "Survival first, profits second.\n\nEvery trader who’s been around for a few cycles eventually learns it in that order.",
+        "raw_text": {
+          "text": "Survival first, profits second.\n\nEvery trader who’s been around for a few cycles eventually learns it in that order.",
+          "display_text_range": [
+            0,
+            116
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "DaanCrypto",
+          "url": "https://x.com/DaanCrypto",
+          "id": "918138253617790976",
+          "followers": 414464,
+          "following": 557,
+          "likes": 121077,
+          "media_count": 14096,
+          "statuses": 51681,
+          "name": "Daan Crypto Trades",
+          "description": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.me/DaanCryptoTG | YT: https://www.youtube.com/@daancrypto |",
+          "raw_description": {
+            "text": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.co/j7IcSHcJXs | YT: https://t.co/D1PbYpJroi |",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  76,
+                  99
+                ],
+                "original": "https://t.co/j7IcSHcJXs",
+                "replacement": "https://t.me/DaanCryptoTG",
+                "display": "t.me/DaanCryptoTG"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  106,
+                  129
+                ],
+                "original": "https://t.co/D1PbYpJroi",
+                "replacement": "https://www.youtube.com/@daancrypto",
+                "display": "youtube.com/@daancrypto"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/918138253617790976/1767862068",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1593241078035279874/7ousc-BT_200x200.jpg",
+          "joined": "Wed Oct 11 15:36:32 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.eu/b/daancrypto",
+            "display_url": "partner.bybit.eu/b/daancrypto"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 24,
+        "reposts": 2,
+        "likes": 65,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 07 08:01:00 +0000 2026",
+        "created_timestamp": 1794038460,
+        "views": 10168,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DaanCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2118987173462511646",
+      "id": "2118987173462511646",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-07T08:41:25.000Z",
+      "created_timestamp": 1794040885000,
+      "text": "ETFs sold $1,280,000,000 in $BTC this week.\n\nThe largest outflow since July bottom.",
+      "url": "https://x.com/TedPillows/status/2118987173462511646",
+      "lang": "en",
+      "likes": 246,
+      "reposts": 6,
+      "quotes": 0,
+      "replies": 56,
+      "views": 16651,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2118987173462511646",
+        "id": "2118987173462511646",
+        "text": "ETFs sold $1,280,000,000 in $BTC this week.\n\nThe largest outflow since July bottom.",
+        "raw_text": {
+          "text": "ETFs sold $1,280,000,000 in $BTC this week.\n\nThe largest outflow since July bottom.",
+          "display_text_range": [
+            0,
+            83
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                28,
+                32
+              ],
+              "original": "BTC"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322389,
+          "following": 17051,
+          "likes": 373468,
+          "media_count": 11444,
+          "statuses": 247539,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 56,
+        "reposts": 6,
+        "likes": 246,
+        "bookmarks": 4,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 07 08:41:25 +0000 2026",
+        "created_timestamp": 1794040885,
+        "views": 16651,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2119000429875081587",
+      "id": "2119000429875081587",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-07T09:34:06.000Z",
+      "created_timestamp": 1794044046000,
+      "text": "GM☕️. Bakery in Amsterdam 🇳🇱",
+      "url": "https://x.com/TedPillows/status/2119000429875081587",
+      "lang": "en",
+      "likes": 143,
+      "reposts": 1,
+      "quotes": 0,
+      "replies": 95,
+      "views": 9641,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2119000422304161794",
+            "url": "https://pbs.twimg.com/media/HWgzqDpXoAIahU1.jpg?name=orig",
+            "width": 1152,
+            "height": 2048
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2119000422304161794",
+            "url": "https://pbs.twimg.com/media/HWgzqDpXoAIahU1.jpg?name=orig",
+            "width": 1152,
+            "height": 2048
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2119000429875081587",
+        "id": "2119000429875081587",
+        "text": "GM☕️. Bakery in Amsterdam 🇳🇱",
+        "raw_text": {
+          "text": "GM☕️. Bakery in Amsterdam 🇳🇱 https://t.co/Od1CWk73SR",
+          "display_text_range": [
+            0,
+            28
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                29,
+                52
+              ],
+              "id": "2119000422304161794",
+              "display": "pic.x.com/Od1CWk73SR",
+              "original": "https://t.co/Od1CWk73SR",
+              "replacement": "https://x.com/TedPillows/status/2119000429875081587/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322389,
+          "following": 17051,
+          "likes": 373468,
+          "media_count": 11444,
+          "statuses": 247539,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 95,
+        "reposts": 1,
+        "likes": 143,
+        "bookmarks": 3,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Nov 07 09:34:06 +0000 2026",
+        "created_timestamp": 1794044046,
+        "possibly_sensitive": false,
+        "views": 9641,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2119000422304161794",
+              "url": "https://pbs.twimg.com/media/HWgzqDpXoAIahU1.jpg?name=orig",
+              "width": 1152,
+              "height": 2048
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2119000422304161794",
+              "url": "https://pbs.twimg.com/media/HWgzqDpXoAIahU1.jpg?name=orig",
+              "width": 1152,
+              "height": 2048
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2119002686209282482",
+      "id": "2119002686209282482",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-07T09:43:04.000Z",
+      "created_timestamp": 1794044584000,
+      "text": "$BTC is now heading towards 5 consecutive weekly red close.\n\nNot a good sign, as this hasn't happened during a bull run.",
+      "url": "https://x.com/TedPillows/status/2119002686209282482",
+      "lang": "en",
+      "likes": 219,
+      "reposts": 7,
+      "quotes": 1,
+      "replies": 76,
+      "views": 15302,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2119002413864722432",
+            "url": "https://pbs.twimg.com/media/HWg1d-yaIAAWj5H.jpg?name=orig",
+            "width": 1711,
+            "height": 1789
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2119002413864722432",
+            "url": "https://pbs.twimg.com/media/HWg1d-yaIAAWj5H.jpg?name=orig",
+            "width": 1711,
+            "height": 1789
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2119002686209282482",
+        "id": "2119002686209282482",
+        "text": "$BTC is now heading towards 5 consecutive weekly red close.\n\nNot a good sign, as this hasn't happened during a bull run.",
+        "raw_text": {
+          "text": "$BTC is now heading towards 5 consecutive weekly red close.\n\nNot a good sign, as this hasn't happened during a bull run. https://t.co/JvUbZ5te0Z",
+          "display_text_range": [
+            0,
+            120
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                121,
+                144
+              ],
+              "id": "2119002413864722432",
+              "display": "pic.x.com/JvUbZ5te0Z",
+              "original": "https://t.co/JvUbZ5te0Z",
+              "replacement": "https://x.com/TedPillows/status/2119002686209282482/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322389,
+          "following": 17051,
+          "likes": 373468,
+          "media_count": 11444,
+          "statuses": 247539,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 76,
+        "reposts": 7,
+        "likes": 219,
+        "bookmarks": 9,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Nov 07 09:43:04 +0000 2026",
+        "created_timestamp": 1794044584,
+        "possibly_sensitive": false,
+        "views": 15302,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2119002413864722432",
+              "url": "https://pbs.twimg.com/media/HWg1d-yaIAAWj5H.jpg?name=orig",
+              "width": 1711,
+              "height": 1789
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2119002413864722432",
+              "url": "https://pbs.twimg.com/media/HWg1d-yaIAAWj5H.jpg?name=orig",
+              "width": 1711,
+              "height": 1789
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2119008794026110988",
+      "id": "2119008794026110988",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-07T10:07:20.000Z",
+      "created_timestamp": 1794046040000,
+      "text": "$ETH is still holding at its $2,250 support zone.\n\nBitcoin made a new low recently, but Ethereum didn't, which is a sign of strength.",
+      "url": "https://x.com/TedPillows/status/2119008794026110988",
+      "lang": "en",
+      "likes": 131,
+      "reposts": 5,
+      "quotes": 0,
+      "replies": 45,
+      "views": 9448,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2119008720889782272",
+            "url": "https://pbs.twimg.com/media/HWg7NGSXIAAm2XW.jpg?name=orig",
+            "width": 1721,
+            "height": 1789
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2119008720889782272",
+            "url": "https://pbs.twimg.com/media/HWg7NGSXIAAm2XW.jpg?name=orig",
+            "width": 1721,
+            "height": 1789
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-07T10:37:34.328Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2119008794026110988",
+        "id": "2119008794026110988",
+        "text": "$ETH is still holding at its $2,250 support zone.\n\nBitcoin made a new low recently, but Ethereum didn't, which is a sign of strength.",
+        "raw_text": {
+          "text": "$ETH is still holding at its $2,250 support zone.\n\nBitcoin made a new low recently, but Ethereum didn't, which is a sign of strength. https://t.co/8H6V3tQQ2s",
+          "display_text_range": [
+            0,
+            133
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "ETH"
+            },
+            {
+              "type": "media",
+              "indices": [
+                134,
+                157
+              ],
+              "id": "2119008720889782272",
+              "display": "pic.x.com/8H6V3tQQ2s",
+              "original": "https://t.co/8H6V3tQQ2s",
+              "replacement": "https://x.com/TedPillows/status/2119008794026110988/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322389,
+          "following": 17051,
+          "likes": 373468,
+          "media_count": 11444,
+          "statuses": 247539,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 45,
+        "reposts": 5,
+        "likes": 131,
+        "bookmarks": 5,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sat Nov 07 10:07:20 +0000 2026",
+        "created_timestamp": 1794046040,
+        "possibly_sensitive": false,
+        "views": 9448,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2119008720889782272",
+              "url": "https://pbs.twimg.com/media/HWg7NGSXIAAm2XW.jpg?name=orig",
+              "width": 1721,
+              "height": 1789
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2119008720889782272",
+              "url": "https://pbs.twimg.com/media/HWg7NGSXIAAm2XW.jpg?name=orig",
+              "width": 1721,
+              "height": 1789
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
     }
