@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "count": 33,
+  "count": 34,
   "tweets": [
     {
       "tweet_id": "2119247411696779553",
@@ -2611,6 +2611,152 @@
       "tracked_account": "DeFi_Paanda",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2119430903252537800",
+      "id": "2119430903252537800",
+      "author": {
+        "screen_name": "tim_cook",
+        "name": "Tim Cook"
+      },
+      "created_at": "2026-11-08T14:04:39.000Z",
+      "created_timestamp": 1794146679000,
+      "text": "Merhaba Istanbul! \n\nWhat a stunning view from the Grand Bazaar this morning alongside talented creator Cem Başak. Thrilled to visit this remarkable country!",
+      "url": "https://x.com/tim_cook/status/2119430903252537800",
+      "lang": "en",
+      "likes": 29464,
+      "reposts": 984,
+      "quotes": 323,
+      "replies": 759,
+      "views": 2038364,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2119430670829178880",
+            "url": "https://pbs.twimg.com/media/HWm690TXUAAIzPd.jpg?name=orig",
+            "width": 4096,
+            "height": 3072,
+            "altText": "Tim and Cem Başak take a selfie standing on the rooftop of the Grand Bazaar in Istanbul."
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2119430670829178880",
+            "url": "https://pbs.twimg.com/media/HWm690TXUAAIzPd.jpg?name=orig",
+            "width": 4096,
+            "height": 3072,
+            "altText": "Tim and Cem Başak take a selfie standing on the rooftop of the Grand Bazaar in Istanbul."
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-09T21:00:10.236Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/tim_cook/status/2119430903252537800",
+        "id": "2119430903252537800",
+        "text": "Merhaba Istanbul! \n\nWhat a stunning view from the Grand Bazaar this morning alongside talented creator Cem Başak. Thrilled to visit this remarkable country!",
+        "raw_text": {
+          "text": "Merhaba Istanbul! \n\nWhat a stunning view from the Grand Bazaar this morning alongside talented creator Cem Başak. Thrilled to visit this remarkable country! https://t.co/c4daBBXe1l",
+          "display_text_range": [
+            0,
+            156
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                157,
+                180
+              ],
+              "id": "2119430670829178880",
+              "display": "pic.x.com/c4daBBXe1l",
+              "original": "https://t.co/c4daBBXe1l",
+              "replacement": "https://x.com/tim_cook/status/2119430903252537800/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "tim_cook",
+          "url": "https://x.com/tim_cook",
+          "id": "1636590253",
+          "followers": 20426320,
+          "following": 71,
+          "likes": 1979,
+          "media_count": 885,
+          "statuses": 1970,
+          "name": "Tim Cook",
+          "description": "Apple Executive Chairman",
+          "raw_description": {
+            "text": "Apple Executive Chairman",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1636590253/1788287713",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2094812189299494912/HDF7GRVm_200x200.jpg",
+          "joined": "Wed Jul 31 22:41:25 +0000 2013",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 759,
+        "reposts": 984,
+        "likes": 29464,
+        "bookmarks": 1584,
+        "quotes": 323,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 08 14:04:39 +0000 2026",
+        "created_timestamp": 1794146679,
+        "possibly_sensitive": false,
+        "views": 2038364,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2119430670829178880",
+              "url": "https://pbs.twimg.com/media/HWm690TXUAAIzPd.jpg?name=orig",
+              "width": 4096,
+              "height": 3072,
+              "altText": "Tim and Cem Başak take a selfie standing on the rooftop of the Grand Bazaar in Istanbul."
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2119430670829178880",
+              "url": "https://pbs.twimg.com/media/HWm690TXUAAIzPd.jpg?name=orig",
+              "width": 4096,
+              "height": 3072,
+              "altText": "Tim and Cem Başak take a selfie standing on the rooftop of the Grand Bazaar in Istanbul."
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "tim_cook"
     },
     {
       "tweet_id": "2119448071612362982",
