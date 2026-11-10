@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "count": 53,
+  "count": 56,
   "tweets": [
     {
       "tweet_id": "2119590657018986830",
@@ -8575,6 +8575,778 @@
         "reposted_by": null
       },
       "tracked_account": "DaanCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2119910684909805778",
+      "id": "2119910684909805778",
+      "author": {
+        "screen_name": "DeFi_Paanda",
+        "name": "DeFi PANDA 🐼"
+      },
+      "created_at": "2026-11-09T21:51:07.000Z",
+      "created_timestamp": 1794261067000,
+      "text": "Once market get better $SAPLING will hit 10million+, zec launchpad that truly holding in bad market, @saplingdotcash .\n\nProof of useful traffic, $PoUT is lowcap experimental rust based project around computing/data, @PoUTNetwork last project did 13million.\n\nLet's go.",
+      "url": "https://x.com/DeFi_Paanda/status/2119910684909805778",
+      "lang": "en",
+      "likes": 24,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 6,
+      "views": 1217,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2119910663762108416",
+            "url": "https://pbs.twimg.com/media/HWtvhFUaYAAsD9c.jpg?name=orig",
+            "width": 1080,
+            "height": 1148
+          },
+          {
+            "type": "photo",
+            "id": "2119910674130436096",
+            "url": "https://pbs.twimg.com/media/HWtvhr8agAAYfa0.jpg?name=orig",
+            "width": 1080,
+            "height": 1290
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2119910663762108416",
+            "url": "https://pbs.twimg.com/media/HWtvhFUaYAAsD9c.jpg?name=orig",
+            "width": 1080,
+            "height": 1148
+          },
+          {
+            "type": "photo",
+            "id": "2119910674130436096",
+            "url": "https://pbs.twimg.com/media/HWtvhr8agAAYfa0.jpg?name=orig",
+            "width": 1080,
+            "height": 1290
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2119910684909805778/HWtvhFUaYAAsD9c/HWtvhr8agAAYfa0",
+            "webp": "https://mosaic.fxtwitter.com/webp/2119910684909805778/HWtvhFUaYAAsD9c/HWtvhr8agAAYfa0"
+          }
+        },
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-10T03:23:53.045Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DeFi_Paanda/status/2119910684909805778",
+        "id": "2119910684909805778",
+        "text": "Once market get better $SAPLING will hit 10million+, zec launchpad that truly holding in bad market, @saplingdotcash .\n\nProof of useful traffic, $PoUT is lowcap experimental rust based project around computing/data, @PoUTNetwork last project did 13million.\n\nLet's go.",
+        "raw_text": {
+          "text": "Once market get better $SAPLING will hit 10million+, zec launchpad that truly holding in bad market, @saplingdotcash .\n\nProof of useful traffic, $PoUT is lowcap experimental rust based project around computing/data, @PoUTNetwork last project did 13million.\n\nLet's go. https://t.co/SZ1xfj5Or7",
+          "display_text_range": [
+            0,
+            267
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                23,
+                31
+              ],
+              "original": "SAPLING"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                101,
+                116
+              ],
+              "original": "saplingdotcash",
+              "id": "2102612093665153024"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                145,
+                150
+              ],
+              "original": "PoUT"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                216,
+                228
+              ],
+              "original": "PoUTNetwork",
+              "id": "1515758564425539586"
+            },
+            {
+              "type": "media",
+              "indices": [
+                268,
+                291
+              ],
+              "id": "2119910663762108416",
+              "display": "pic.x.com/SZ1xfj5Or7",
+              "original": "https://t.co/SZ1xfj5Or7",
+              "replacement": "https://x.com/DeFi_Paanda/status/2119910684909805778/photo/1"
+            },
+            {
+              "type": "media",
+              "indices": [
+                268,
+                291
+              ],
+              "id": "2119910674130436096",
+              "display": "pic.x.com/SZ1xfj5Or7",
+              "original": "https://t.co/SZ1xfj5Or7",
+              "replacement": "https://x.com/DeFi_Paanda/status/2119910684909805778/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DeFi_Paanda",
+          "url": "https://x.com/DeFi_Paanda",
+          "id": "1632180126099075077",
+          "followers": 26960,
+          "following": 479,
+          "likes": 44898,
+          "media_count": 3714,
+          "statuses": 20505,
+          "name": "DeFi PANDA 🐼",
+          "description": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.me/PandaPrint1",
+          "raw_description": {
+            "text": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.co/Jdv11vdaJ6",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  83,
+                  106
+                ],
+                "original": "https://t.co/Jdv11vdaJ6",
+                "replacement": "https://t.me/PandaPrint1",
+                "display": "t.me/PandaPrint1"
+              }
+            ]
+          },
+          "location": "Living in PANDA VERSE ~ ",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1632180126099075077/1679340485",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "joined": "Sun Mar 05 00:44:13 +0000 2023",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 6,
+        "reposts": 3,
+        "likes": 24,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Mon Nov 09 21:51:07 +0000 2026",
+        "created_timestamp": 1794261067,
+        "possibly_sensitive": false,
+        "views": 1217,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2119910663762108416",
+              "url": "https://pbs.twimg.com/media/HWtvhFUaYAAsD9c.jpg?name=orig",
+              "width": 1080,
+              "height": 1148
+            },
+            {
+              "type": "photo",
+              "id": "2119910674130436096",
+              "url": "https://pbs.twimg.com/media/HWtvhr8agAAYfa0.jpg?name=orig",
+              "width": 1080,
+              "height": 1290
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2119910663762108416",
+              "url": "https://pbs.twimg.com/media/HWtvhFUaYAAsD9c.jpg?name=orig",
+              "width": 1080,
+              "height": 1148
+            },
+            {
+              "type": "photo",
+              "id": "2119910674130436096",
+              "url": "https://pbs.twimg.com/media/HWtvhr8agAAYfa0.jpg?name=orig",
+              "width": 1080,
+              "height": 1290
+            }
+          ],
+          "mosaic": {
+            "type": "mosaic_photo",
+            "formats": {
+              "jpeg": "https://mosaic.fxtwitter.com/jpeg/2119910684909805778/HWtvhFUaYAAsD9c/HWtvhr8agAAYfa0",
+              "webp": "https://mosaic.fxtwitter.com/webp/2119910684909805778/HWtvhFUaYAAsD9c/HWtvhr8agAAYfa0"
+            }
+          }
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DeFi_Paanda",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2119910842770784296",
+      "id": "2119910842770784296",
+      "author": {
+        "screen_name": "DeFi_Paanda",
+        "name": "DeFi PANDA 🐼"
+      },
+      "created_at": "2026-11-09T21:51:45.000Z",
+      "created_timestamp": 1794261105000,
+      "text": "@saplingdotcash @PoUTNetwork You are in $BORDERLESS ?",
+      "url": "https://x.com/DeFi_Paanda/status/2119910842770784296",
+      "lang": "en",
+      "likes": 0,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 0,
+      "views": 201,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-10T03:23:53.045Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DeFi_Paanda/status/2119910842770784296",
+        "id": "2119910842770784296",
+        "text": "@saplingdotcash @PoUTNetwork You are in $BORDERLESS ?",
+        "raw_text": {
+          "text": "@saplingdotcash @PoUTNetwork You are in $BORDERLESS ?",
+          "display_text_range": [
+            29,
+            53
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                0,
+                15
+              ],
+              "original": "saplingdotcash",
+              "id": "2102612093665153024"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                16,
+                28
+              ],
+              "original": "PoUTNetwork",
+              "id": "1515758564425539586"
+            },
+            {
+              "type": "symbol",
+              "indices": [
+                40,
+                51
+              ],
+              "original": "BORDERLESS"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DeFi_Paanda",
+          "url": "https://x.com/DeFi_Paanda",
+          "id": "1632180126099075077",
+          "followers": 26960,
+          "following": 479,
+          "likes": 44898,
+          "media_count": 3714,
+          "statuses": 20505,
+          "name": "DeFi PANDA 🐼",
+          "description": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.me/PandaPrint1",
+          "raw_description": {
+            "text": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.co/Jdv11vdaJ6",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  83,
+                  106
+                ],
+                "original": "https://t.co/Jdv11vdaJ6",
+                "replacement": "https://t.me/PandaPrint1",
+                "display": "t.me/PandaPrint1"
+              }
+            ]
+          },
+          "location": "Living in PANDA VERSE ~ ",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1632180126099075077/1679340485",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "joined": "Sun Mar 05 00:44:13 +0000 2023",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Mon Nov 09 21:51:45 +0000 2026",
+        "created_timestamp": 1794261105,
+        "views": 201,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "DeFi_Paanda",
+          "status": "2119910684909805778",
+          "url": "https://x.com/DeFi_Paanda/status/2119910684909805778",
+          "profile_url": "https://x.com/DeFi_Paanda"
+        },
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DeFi_Paanda",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2119913434401608074",
+      "id": "2119913434401608074",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-09T22:02:03.000Z",
+      "created_timestamp": 1794261723000,
+      "text": "Bitcoin or gold?",
+      "url": "https://x.com/TedPillows/status/2119913434401608074",
+      "lang": "en",
+      "likes": 197,
+      "reposts": 12,
+      "quotes": 0,
+      "replies": 34,
+      "views": 20277,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2119022063038136666",
+        "id": "2119022063038136666",
+        "text": "Buying BTC now is like buying Gold at $2K in 2023.\n\nThe real pump is yet to happen.",
+        "raw_text": {
+          "text": "Buying BTC now is like buying Gold at $2K in 2023.\n\nThe real pump is yet to happen. https://t.co/SY9zkwomj4",
+          "display_text_range": [
+            0,
+            83
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                84,
+                107
+              ],
+              "id": "2119019074046849024",
+              "display": "pic.x.com/SY9zkwomj4",
+              "original": "https://t.co/SY9zkwomj4",
+              "replacement": "https://x.com/TedPillows/status/2119022063038136666/video/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322922,
+          "following": 17045,
+          "likes": 373615,
+          "media_count": 11475,
+          "statuses": 247789,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 224,
+        "reposts": 318,
+        "likes": 2822,
+        "bookmarks": 257,
+        "quotes": 33,
+        "embed_card": "player",
+        "created_at": "Sat Nov 07 11:00:04 +0000 2026",
+        "created_timestamp": 1794049204,
+        "possibly_sensitive": false,
+        "views": 251327,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "id": "2119019074046849024",
+              "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/1162x1200/7R9JtbZ9cvsZ_NNn.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119019074046849024/img/Fav2pTG6QMTz5eLn.jpg",
+              "duration": 19.661,
+              "width": 1162,
+              "height": 1200,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/pl/koOb-PVNbon-eDEY.m3u8?tag=29&v=cfc",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/320x330/e87a1v3zbJaEF4lw.mp4?tag=29",
+                  "bitrate": 632000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/480x494/n4OdPaQQwrVIHl12.mp4?tag=29",
+                  "bitrate": 950000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/720x742/Dq6N_AvrnhOspQKz.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/1162x1200/7R9JtbZ9cvsZ_NNn.mp4?tag=29",
+                  "bitrate": 10368000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ],
+          "videos": [
+            {
+              "id": "2119019074046849024",
+              "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/1162x1200/7R9JtbZ9cvsZ_NNn.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119019074046849024/img/Fav2pTG6QMTz5eLn.jpg",
+              "duration": 19.661,
+              "width": 1162,
+              "height": 1200,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/pl/koOb-PVNbon-eDEY.m3u8?tag=29&v=cfc",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/320x330/e87a1v3zbJaEF4lw.mp4?tag=29",
+                  "bitrate": 632000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/480x494/n4OdPaQQwrVIHl12.mp4?tag=29",
+                  "bitrate": 950000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/720x742/Dq6N_AvrnhOspQKz.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/1162x1200/7R9JtbZ9cvsZ_NNn.mp4?tag=29",
+                  "bitrate": 10368000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-10T03:23:53.045Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2119913434401608074",
+        "id": "2119913434401608074",
+        "text": "Bitcoin or gold?",
+        "raw_text": {
+          "text": "Bitcoin or gold?",
+          "display_text_range": [
+            0,
+            16
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 322922,
+          "following": 17045,
+          "likes": 373615,
+          "media_count": 11475,
+          "statuses": 247789,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 34,
+        "reposts": 12,
+        "likes": 197,
+        "bookmarks": 12,
+        "quotes": 0,
+        "embed_card": "player",
+        "created_at": "Mon Nov 09 22:02:03 +0000 2026",
+        "created_timestamp": 1794261723,
+        "views": 20277,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/TedPillows/status/2119022063038136666",
+          "id": "2119022063038136666",
+          "text": "Buying BTC now is like buying Gold at $2K in 2023.\n\nThe real pump is yet to happen.",
+          "raw_text": {
+            "text": "Buying BTC now is like buying Gold at $2K in 2023.\n\nThe real pump is yet to happen. https://t.co/SY9zkwomj4",
+            "display_text_range": [
+              0,
+              83
+            ],
+            "facets": [
+              {
+                "type": "media",
+                "indices": [
+                  84,
+                  107
+                ],
+                "id": "2119019074046849024",
+                "display": "pic.x.com/SY9zkwomj4",
+                "original": "https://t.co/SY9zkwomj4",
+                "replacement": "https://x.com/TedPillows/status/2119022063038136666/video/1"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "TedPillows",
+            "url": "https://x.com/TedPillows",
+            "id": "3222562058",
+            "followers": 322922,
+            "following": 17045,
+            "likes": 373615,
+            "media_count": 11475,
+            "statuses": 247789,
+            "name": "Ted",
+            "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "raw_description": {
+              "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+              "facets": []
+            },
+            "location": "",
+            "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+            "joined": "Thu May 21 18:01:13 +0000 2015",
+            "protected": false,
+            "website": {
+              "url": "https://tedpillows.substack.com/",
+              "display_url": "tedpillows.substack.com"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 224,
+          "reposts": 318,
+          "likes": 2822,
+          "bookmarks": 257,
+          "quotes": 33,
+          "embed_card": "player",
+          "created_at": "Sat Nov 07 11:00:04 +0000 2026",
+          "created_timestamp": 1794049204,
+          "possibly_sensitive": false,
+          "views": 251327,
+          "is_note_tweet": false,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {
+            "all": [
+              {
+                "id": "2119019074046849024",
+                "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/1162x1200/7R9JtbZ9cvsZ_NNn.mp4?tag=29",
+                "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119019074046849024/img/Fav2pTG6QMTz5eLn.jpg",
+                "duration": 19.661,
+                "width": 1162,
+                "height": 1200,
+                "format": "video/mp4",
+                "type": "video",
+                "formats": [
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/pl/koOb-PVNbon-eDEY.m3u8?tag=29&v=cfc",
+                    "container": "m3u8"
+                  },
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/320x330/e87a1v3zbJaEF4lw.mp4?tag=29",
+                    "bitrate": 632000,
+                    "container": "mp4",
+                    "codec": "h264"
+                  },
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/480x494/n4OdPaQQwrVIHl12.mp4?tag=29",
+                    "bitrate": 950000,
+                    "container": "mp4",
+                    "codec": "h264"
+                  },
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/720x742/Dq6N_AvrnhOspQKz.mp4?tag=29",
+                    "bitrate": 2176000,
+                    "container": "mp4",
+                    "codec": "h264"
+                  },
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/1162x1200/7R9JtbZ9cvsZ_NNn.mp4?tag=29",
+                    "bitrate": 10368000,
+                    "container": "mp4",
+                    "codec": "h264"
+                  }
+                ],
+                "publisher": null
+              }
+            ],
+            "videos": [
+              {
+                "id": "2119019074046849024",
+                "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/1162x1200/7R9JtbZ9cvsZ_NNn.mp4?tag=29",
+                "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119019074046849024/img/Fav2pTG6QMTz5eLn.jpg",
+                "duration": 19.661,
+                "width": 1162,
+                "height": 1200,
+                "format": "video/mp4",
+                "type": "video",
+                "formats": [
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/pl/koOb-PVNbon-eDEY.m3u8?tag=29&v=cfc",
+                    "container": "m3u8"
+                  },
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/320x330/e87a1v3zbJaEF4lw.mp4?tag=29",
+                    "bitrate": 632000,
+                    "container": "mp4",
+                    "codec": "h264"
+                  },
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/480x494/n4OdPaQQwrVIHl12.mp4?tag=29",
+                    "bitrate": 950000,
+                    "container": "mp4",
+                    "codec": "h264"
+                  },
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/720x742/Dq6N_AvrnhOspQKz.mp4?tag=29",
+                    "bitrate": 2176000,
+                    "container": "mp4",
+                    "codec": "h264"
+                  },
+                  {
+                    "url": "https://video.twimg.com/amplify_video/2119019074046849024/vid/avc1/1162x1200/7R9JtbZ9cvsZ_NNn.mp4?tag=29",
+                    "bitrate": 10368000,
+                    "container": "mp4",
+                    "codec": "h264"
+                  }
+                ],
+                "publisher": null
+              }
+            ]
+          },
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
     }
