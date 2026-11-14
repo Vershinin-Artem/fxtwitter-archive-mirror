@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "count": 56,
+  "count": 57,
   "tweets": [
     {
       "tweet_id": "2121082083452092697",
@@ -9524,6 +9524,151 @@
       "tracked_account": "DonAlt",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2121372777739632754",
+      "id": "2121372777739632754",
+      "author": {
+        "screen_name": "benjamincowen",
+        "name": "Benjamin Cowen"
+      },
+      "created_at": "2026-11-13T22:40:58.000Z",
+      "created_timestamp": 1794609658000,
+      "text": "Bitcoin return after the rate hike in September 2026 compared to the average path after September rate hikes in 2018 and 2022.",
+      "url": "https://x.com/benjamincowen/status/2121372777739632754",
+      "lang": "en",
+      "likes": 1120,
+      "reposts": 43,
+      "quotes": 4,
+      "replies": 55,
+      "views": 126468,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121372511371657216",
+            "url": "https://pbs.twimg.com/media/HXChD0CWAAAxDSj.jpg?name=orig",
+            "width": 2488,
+            "height": 1030
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121372511371657216",
+            "url": "https://pbs.twimg.com/media/HXChD0CWAAAxDSj.jpg?name=orig",
+            "width": 2488,
+            "height": 1030
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-14T15:43:27.453Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/benjamincowen/status/2121372777739632754",
+        "id": "2121372777739632754",
+        "text": "Bitcoin return after the rate hike in September 2026 compared to the average path after September rate hikes in 2018 and 2022.",
+        "raw_text": {
+          "text": "Bitcoin return after the rate hike in September 2026 compared to the average path after September rate hikes in 2018 and 2022. https://t.co/RewKerVa9U",
+          "display_text_range": [
+            0,
+            126
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                127,
+                150
+              ],
+              "id": "2121372511371657216",
+              "display": "pic.x.com/RewKerVa9U",
+              "original": "https://t.co/RewKerVa9U",
+              "replacement": "https://x.com/benjamincowen/status/2121372777739632754/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "benjamincowen",
+          "url": "https://x.com/benjamincowen",
+          "id": "943506806931734528",
+          "followers": 1269841,
+          "following": 1292,
+          "likes": 20801,
+          "media_count": 7929,
+          "statuses": 30302,
+          "name": "Benjamin Cowen",
+          "description": "Founder & CEO, ITC | Macro, commodities & digital assets | Liquidity, labor & risk cycles | PhD Engineering | Former NASA, Sandia National Labs",
+          "raw_description": {
+            "text": "Founder & CEO, ITC | Macro, commodities & digital assets | Liquidity, labor & risk cycles | PhD Engineering | Former NASA, Sandia National Labs",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1661406326709256193/fcLfe0jv_200x200.jpg",
+          "joined": "Wed Dec 20 15:42:07 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://www.benjamincowen.com/",
+            "display_url": "benjamincowen.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 55,
+        "reposts": 43,
+        "likes": 1120,
+        "bookmarks": 112,
+        "quotes": 4,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Nov 13 22:40:58 +0000 2026",
+        "created_timestamp": 1794609658,
+        "possibly_sensitive": false,
+        "views": 126468,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121372511371657216",
+              "url": "https://pbs.twimg.com/media/HXChD0CWAAAxDSj.jpg?name=orig",
+              "width": 2488,
+              "height": 1030
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121372511371657216",
+              "url": "https://pbs.twimg.com/media/HXChD0CWAAAxDSj.jpg?name=orig",
+              "width": 2488,
+              "height": 1030
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "benjamincowen"
     },
     {
       "tweet_id": "2121386520355410033",
