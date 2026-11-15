@@ -1,7 +1,409 @@
 {
   "date": "2026-11-15",
-  "count": 7,
+  "count": 37,
   "tweets": [
+    {
+      "tweet_id": "2121760474916327770",
+      "id": "2121760474916327770",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-15T00:21:32.000Z",
+      "created_timestamp": 1794702092000,
+      "text": "Y…yes",
+      "url": "https://x.com/SalsaTekila/status/2121760474916327770",
+      "lang": "en",
+      "likes": 57,
+      "reposts": 0,
+      "quotes": 4,
+      "replies": 14,
+      "views": 7016,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/CharlieM0nger/status/2121752304659660839",
+        "id": "2121752304659660839",
+        "text": "@SalsaTekila Salsa still bullish?",
+        "raw_text": {
+          "text": "@SalsaTekila Salsa still bullish?",
+          "display_text_range": [
+            13,
+            33
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                0,
+                12
+              ],
+              "original": "SalsaTekila",
+              "id": "1566114613"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "CharlieM0nger",
+          "url": "https://x.com/CharlieM0nger",
+          "id": "1574819209732796416",
+          "followers": 198,
+          "following": 454,
+          "likes": 1008,
+          "media_count": 122,
+          "statuses": 4969,
+          "name": "petpeeve.hl",
+          "description": "",
+          "raw_description": {
+            "text": "",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1574819694812401664/1eOstX_h_200x200.jpg",
+          "joined": "Tue Sep 27 17:52:19 +0000 2022",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": false,
+            "verified_at": null,
+            "type": null
+          },
+          "type": "profile"
+        },
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "bookmarks": 0,
+        "quotes": 1,
+        "embed_card": "tweet",
+        "created_at": "Sat Nov 14 23:49:04 +0000 2026",
+        "created_timestamp": 1794700144,
+        "views": 4817,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2121760474916327770",
+        "id": "2121760474916327770",
+        "text": "Y…yes",
+        "raw_text": {
+          "text": "Y…yes",
+          "display_text_range": [
+            0,
+            5
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227985,
+          "following": 612,
+          "likes": 110457,
+          "media_count": 335,
+          "statuses": 2425,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 14,
+        "reposts": 0,
+        "likes": 57,
+        "bookmarks": 1,
+        "quotes": 4,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 00:21:32 +0000 2026",
+        "created_timestamp": 1794702092,
+        "views": 7016,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/CharlieM0nger/status/2121752304659660839",
+          "id": "2121752304659660839",
+          "text": "@SalsaTekila Salsa still bullish?",
+          "raw_text": {
+            "text": "@SalsaTekila Salsa still bullish?",
+            "display_text_range": [
+              13,
+              33
+            ],
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  0,
+                  12
+                ],
+                "original": "SalsaTekila",
+                "id": "1566114613"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "CharlieM0nger",
+            "url": "https://x.com/CharlieM0nger",
+            "id": "1574819209732796416",
+            "followers": 198,
+            "following": 454,
+            "likes": 1008,
+            "media_count": 122,
+            "statuses": 4969,
+            "name": "petpeeve.hl",
+            "description": "",
+            "raw_description": {
+              "text": "",
+              "facets": []
+            },
+            "location": "",
+            "banner_url": "",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1574819694812401664/1eOstX_h_200x200.jpg",
+            "joined": "Tue Sep 27 17:52:19 +0000 2022",
+            "protected": false,
+            "website": null,
+            "verification": {
+              "verified": false,
+              "verified_at": null,
+              "type": null
+            },
+            "type": "profile"
+          },
+          "replies": 0,
+          "reposts": 0,
+          "likes": 2,
+          "bookmarks": 0,
+          "quotes": 1,
+          "embed_card": "tweet",
+          "created_at": "Sat Nov 14 23:49:04 +0000 2026",
+          "created_timestamp": 1794700144,
+          "views": 4817,
+          "is_note_tweet": false,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121762745003679949",
+      "id": "2121762745003679949",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-15T00:30:33.000Z",
+      "created_timestamp": 1794702633000,
+      "text": "7 coffees\n\n500mg acetaminophen\n\n400mg ibuprofen\n\nReady to buy the dip again 👍👍👍",
+      "url": "https://x.com/SalsaTekila/status/2121762745003679949",
+      "lang": "en",
+      "likes": 89,
+      "reposts": 2,
+      "quotes": 0,
+      "replies": 23,
+      "views": 7245,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2121762745003679949",
+        "id": "2121762745003679949",
+        "text": "7 coffees\n\n500mg acetaminophen\n\n400mg ibuprofen\n\nReady to buy the dip again 👍👍👍",
+        "raw_text": {
+          "text": "7 coffees\n\n500mg acetaminophen\n\n400mg ibuprofen\n\nReady to buy the dip again 👍👍👍",
+          "display_text_range": [
+            0,
+            79
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227985,
+          "following": 612,
+          "likes": 110457,
+          "media_count": 335,
+          "statuses": 2425,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 23,
+        "reposts": 2,
+        "likes": 89,
+        "bookmarks": 1,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 00:30:33 +0000 2026",
+        "created_timestamp": 1794702633,
+        "views": 7245,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121771289774031358",
+      "id": "2121771289774031358",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-15T01:04:30.000Z",
+      "created_timestamp": 1794704670000,
+      "text": "I saw crypto’s relative weakness at ~73k and ignored it due to monthly support and my bias that we were overextended. Stocks rose while BTC fell.\n\nThis is the only good (and traumatizing lesson) I take from this.",
+      "url": "https://x.com/SalsaTekila/status/2121771289774031358",
+      "lang": "en",
+      "likes": 70,
+      "reposts": 1,
+      "quotes": 0,
+      "replies": 12,
+      "views": 8710,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2121771289774031358",
+        "id": "2121771289774031358",
+        "text": "I saw crypto’s relative weakness at ~73k and ignored it due to monthly support and my bias that we were overextended. Stocks rose while BTC fell.\n\nThis is the only good (and traumatizing lesson) I take from this.",
+        "raw_text": {
+          "text": "I saw crypto’s relative weakness at ~73k and ignored it due to monthly support and my bias that we were overextended. Stocks rose while BTC fell.\n\nThis is the only good (and traumatizing lesson) I take from this.",
+          "display_text_range": [
+            0,
+            212
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227985,
+          "following": 612,
+          "likes": 110457,
+          "media_count": 335,
+          "statuses": 2425,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 12,
+        "reposts": 1,
+        "likes": 70,
+        "bookmarks": 1,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 01:04:30 +0000 2026",
+        "created_timestamp": 1794704670,
+        "views": 8710,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
     {
       "tweet_id": "2121773998438527228",
       "id": "2121773998438527228",
@@ -98,6 +500,236 @@
         "reposted_by": null
       },
       "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121776069590290764",
+      "id": "2121776069590290764",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-15T01:23:30.000Z",
+      "created_timestamp": 1794705810000,
+      "text": "BTW, if this isn't you, you'll statistically always get completely wiped out. Just a matter of time.",
+      "url": "https://x.com/SalsaTekila/status/2121776069590290764",
+      "lang": "en",
+      "likes": 26,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 3,
+      "views": 5892,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2121775257476571149",
+        "id": "2121775257476571149",
+        "text": "@Cyphersnyth I keep the vast majority of my pf unleveraged",
+        "raw_text": {
+          "text": "@Cyphersnyth I keep the vast majority of my pf unleveraged",
+          "display_text_range": [
+            13,
+            58
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                0,
+                12
+              ],
+              "original": "Cyphersnyth",
+              "id": "1848187550793666560"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227985,
+          "following": 612,
+          "likes": 110457,
+          "media_count": 335,
+          "statuses": 2425,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4,
+        "bookmarks": 1,
+        "quotes": 1,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 01:20:16 +0000 2026",
+        "created_timestamp": 1794705616,
+        "views": 4419,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2121776069590290764",
+        "id": "2121776069590290764",
+        "text": "BTW, if this isn't you, you'll statistically always get completely wiped out. Just a matter of time.",
+        "raw_text": {
+          "text": "BTW, if this isn't you, you'll statistically always get completely wiped out. Just a matter of time.",
+          "display_text_range": [
+            0,
+            100
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227985,
+          "following": 612,
+          "likes": 110457,
+          "media_count": 335,
+          "statuses": 2425,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 3,
+        "reposts": 0,
+        "likes": 26,
+        "bookmarks": 3,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 01:23:30 +0000 2026",
+        "created_timestamp": 1794705810,
+        "views": 5892,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/SalsaTekila/status/2121775257476571149",
+          "id": "2121775257476571149",
+          "text": "@Cyphersnyth I keep the vast majority of my pf unleveraged",
+          "raw_text": {
+            "text": "@Cyphersnyth I keep the vast majority of my pf unleveraged",
+            "display_text_range": [
+              13,
+              58
+            ],
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  0,
+                  12
+                ],
+                "original": "Cyphersnyth",
+                "id": "1848187550793666560"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "SalsaTekila",
+            "url": "https://x.com/SalsaTekila",
+            "id": "1566114613",
+            "followers": 227985,
+            "following": 612,
+            "likes": 110457,
+            "media_count": 335,
+            "statuses": 2425,
+            "name": "SalsaTekila",
+            "description": "HODLer of BTC.",
+            "raw_description": {
+              "text": "HODLer of BTC.",
+              "facets": []
+            },
+            "location": "Sombrero",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+            "joined": "Wed Jul 03 15:53:22 +0000 2013",
+            "protected": false,
+            "website": {
+              "url": "https://partner.bybit.com/b/tekila",
+              "display_url": "partner.bybit.com/b/tekila"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 0,
+          "reposts": 0,
+          "likes": 4,
+          "bookmarks": 1,
+          "quotes": 1,
+          "embed_card": "tweet",
+          "created_at": "Sun Nov 15 01:20:16 +0000 2026",
+          "created_timestamp": 1794705616,
+          "views": 4419,
+          "is_note_tweet": false,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
       "is_repost": false,
       "post_type": "original"
     },
@@ -1039,6 +1671,3833 @@
         "reposted_by": null
       },
       "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121876103824318536",
+      "id": "2121876103824318536",
+      "author": {
+        "screen_name": "DaanCrypto",
+        "name": "Daan Crypto Trades"
+      },
+      "created_at": "2026-11-15T08:01:00.000Z",
+      "created_timestamp": 1794729660000,
+      "text": "The more often you need to check a position, the more likely it’s too big.\n\nSizing should let you sleep, not keep you glued to the screen.",
+      "url": "https://x.com/DaanCrypto/status/2121876103824318536",
+      "lang": "en",
+      "likes": 118,
+      "reposts": 4,
+      "quotes": 1,
+      "replies": 26,
+      "views": 15549,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DaanCrypto/status/2121876103824318536",
+        "id": "2121876103824318536",
+        "text": "The more often you need to check a position, the more likely it’s too big.\n\nSizing should let you sleep, not keep you glued to the screen.",
+        "raw_text": {
+          "text": "The more often you need to check a position, the more likely it’s too big.\n\nSizing should let you sleep, not keep you glued to the screen.",
+          "display_text_range": [
+            0,
+            138
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "DaanCrypto",
+          "url": "https://x.com/DaanCrypto",
+          "id": "918138253617790976",
+          "followers": 414556,
+          "following": 561,
+          "likes": 121139,
+          "media_count": 14149,
+          "statuses": 51762,
+          "name": "Daan Crypto Trades",
+          "description": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.me/DaanCryptoTG | YT: https://www.youtube.com/@daancrypto |",
+          "raw_description": {
+            "text": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.co/j7IcSHcJXs | YT: https://t.co/D1PbYpJroi |",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  76,
+                  99
+                ],
+                "original": "https://t.co/j7IcSHcJXs",
+                "replacement": "https://t.me/DaanCryptoTG",
+                "display": "t.me/DaanCryptoTG"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  106,
+                  129
+                ],
+                "original": "https://t.co/D1PbYpJroi",
+                "replacement": "https://www.youtube.com/@daancrypto",
+                "display": "youtube.com/@daancrypto"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/918138253617790976/1767862068",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1593241078035279874/7ousc-BT_200x200.jpg",
+          "joined": "Wed Oct 11 15:36:32 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.eu/b/daancrypto",
+            "display_url": "partner.bybit.eu/b/daancrypto"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 26,
+        "reposts": 4,
+        "likes": 118,
+        "bookmarks": 6,
+        "quotes": 1,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 08:01:00 +0000 2026",
+        "created_timestamp": 1794729660,
+        "views": 15549,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DaanCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121881791728595278",
+      "id": "2121881791728595278",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-15T08:23:36.000Z",
+      "created_timestamp": 1794731016000,
+      "text": "I feel motivated. I have to grind myself into obsession to learn a new craft rather than being bullish as my personality.",
+      "url": "https://x.com/SalsaTekila/status/2121881791728595278",
+      "lang": "en",
+      "likes": 97,
+      "reposts": 2,
+      "quotes": 0,
+      "replies": 22,
+      "views": 8362,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2121881791728595278",
+        "id": "2121881791728595278",
+        "text": "I feel motivated. I have to grind myself into obsession to learn a new craft rather than being bullish as my personality.",
+        "raw_text": {
+          "text": "I feel motivated. I have to grind myself into obsession to learn a new craft rather than being bullish as my personality.",
+          "display_text_range": [
+            0,
+            121
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227985,
+          "following": 612,
+          "likes": 110457,
+          "media_count": 335,
+          "statuses": 2425,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 22,
+        "reposts": 2,
+        "likes": 97,
+        "bookmarks": 5,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 08:23:36 +0000 2026",
+        "created_timestamp": 1794731016,
+        "views": 8362,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121894256574963902",
+      "id": "2121894256574963902",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-11-15T09:13:08.000Z",
+      "created_timestamp": 1794733988000,
+      "text": "I’ve started to see people calling for the $9,000 CME gap now 🤣\n\nHUGE bullish sign.",
+      "url": "https://x.com/CryptoKid/status/2121894256574963902",
+      "lang": "en",
+      "likes": 45,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 3,
+      "views": 3205,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2121894256574963902",
+        "id": "2121894256574963902",
+        "text": "I’ve started to see people calling for the $9,000 CME gap now 🤣\n\nHUGE bullish sign.",
+        "raw_text": {
+          "text": "I’ve started to see people calling for the $9,000 CME gap now 🤣\n\nHUGE bullish sign.",
+          "display_text_range": [
+            0,
+            83
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47688,
+          "following": 1395,
+          "likes": 8055,
+          "media_count": 1685,
+          "statuses": 8954,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 3,
+        "reposts": 0,
+        "likes": 45,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 09:13:08 +0000 2026",
+        "created_timestamp": 1794733988,
+        "views": 3205,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121895969994445284",
+      "id": "2121895969994445284",
+      "author": {
+        "screen_name": "MMCrypto",
+        "name": "MMCrypto"
+      },
+      "created_at": "2026-11-15T09:19:56.000Z",
+      "created_timestamp": 1794734396000,
+      "text": "If someone asked me 5 years ago where Bitcoin would be today, I’d never have guessed that we will not have moved a Dollar! 🤣🫠",
+      "url": "https://x.com/MMCrypto/status/2121895969994445284",
+      "lang": "en",
+      "likes": 553,
+      "reposts": 16,
+      "quotes": 0,
+      "replies": 68,
+      "views": 58929,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/MMCrypto/status/2121895969994445284",
+        "id": "2121895969994445284",
+        "text": "If someone asked me 5 years ago where Bitcoin would be today, I’d never have guessed that we will not have moved a Dollar! 🤣🫠",
+        "raw_text": {
+          "text": "If someone asked me 5 years ago where Bitcoin would be today, I’d never have guessed that we will not have moved a Dollar! 🤣🫠",
+          "display_text_range": [
+            0,
+            125
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "MMCrypto",
+          "url": "https://x.com/MMCrypto",
+          "id": "904700529988820992",
+          "followers": 1761463,
+          "following": 2790,
+          "likes": 12370,
+          "media_count": 4993,
+          "statuses": 15640,
+          "name": "MMCrypto",
+          "description": "for #Bitcoin, #BTC, $BTC; for Health: @ChrisMMHealth",
+          "raw_description": {
+            "text": "for #Bitcoin, #BTC, $BTC; for Health: @ChrisMMHealth",
+            "facets": [
+              {
+                "type": "hashtag",
+                "indices": [
+                  4,
+                  12
+                ],
+                "original": "Bitcoin"
+              },
+              {
+                "type": "hashtag",
+                "indices": [
+                  14,
+                  18
+                ],
+                "original": "BTC"
+              },
+              {
+                "type": "symbol",
+                "indices": [
+                  20,
+                  24
+                ],
+                "original": "BTC"
+              },
+              {
+                "type": "mention",
+                "indices": [
+                  38,
+                  52
+                ],
+                "original": "ChrisMMHealth",
+                "id": ""
+              }
+            ]
+          },
+          "location": "United Arab Emirates",
+          "banner_url": "https://pbs.twimg.com/profile_banners/904700529988820992/1563496525",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1961007339777208320/jscP_kQg_200x200.jpg",
+          "joined": "Mon Sep 04 13:39:49 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "http://youtube.com/mmcryptotube",
+            "display_url": "youtube.com/mmcryptotube"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 68,
+        "reposts": 16,
+        "likes": 553,
+        "bookmarks": 5,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 09:19:56 +0000 2026",
+        "created_timestamp": 1794734396,
+        "views": 58929,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "MMCrypto"
+    },
+    {
+      "tweet_id": "2121901347360362689",
+      "id": "2121901347360362689",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-11-15T09:41:18.000Z",
+      "created_timestamp": 1794735678000,
+      "text": "Bitcoin was briefly closer to zero than to its ATH today 😆",
+      "url": "https://x.com/CryptoKid/status/2121901347360362689",
+      "lang": "en",
+      "likes": 16,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 0,
+      "views": 2687,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/PeterSchiff/status/2121787028186497481",
+        "id": "2121787028186497481",
+        "text": "@natbrunell At it just needs to fall 100% to get back to zero.",
+        "raw_text": {
+          "text": "@natbrunell At it just needs to fall 100% to get back to zero.",
+          "display_text_range": [
+            12,
+            62
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                0,
+                11
+              ],
+              "original": "natbrunell",
+              "id": "543483223"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "PeterSchiff",
+          "url": "https://x.com/PeterSchiff",
+          "id": "56562803",
+          "followers": 1782727,
+          "following": 319,
+          "likes": 1019,
+          "media_count": 2041,
+          "statuses": 43232,
+          "name": "Peter Schiff",
+          "description": "Chief Economist & Global Strategist http://www.Europac.com, Chairman http://www.SchiffGold.com, Founder http://www.SchiffSovereign.com, Host http://www.SchiffRadio.com, Best-selling Author",
+          "raw_description": {
+            "text": "Chief Economist & Global Strategist https://t.co/X35usGhhgW, Chairman https://t.co/ulhU3vptUb, Founder https://t.co/zB1vZlRBGh, Host https://t.co/XazFnrIREg, Best-selling Author",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  36,
+                  59
+                ],
+                "original": "https://t.co/X35usGhhgW",
+                "replacement": "http://www.Europac.com",
+                "display": "Europac.com"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  70,
+                  93
+                ],
+                "original": "https://t.co/ulhU3vptUb",
+                "replacement": "http://www.SchiffGold.com",
+                "display": "SchiffGold.com"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  103,
+                  126
+                ],
+                "original": "https://t.co/zB1vZlRBGh",
+                "replacement": "http://www.SchiffSovereign.com",
+                "display": "SchiffSovereign.com"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  133,
+                  156
+                ],
+                "original": "https://t.co/XazFnrIREg",
+                "replacement": "http://www.SchiffRadio.com",
+                "display": "SchiffRadio.com"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/56562803/1600369965",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1679540487743496205/LcNCN4tX_200x200.jpg",
+          "joined": "Tue Jul 14 01:28:42 +0000 2009",
+          "protected": false,
+          "website": {
+            "url": "http://amzn.to/1nDylDr",
+            "display_url": "amzn.to/1nDylDr"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 57,
+        "reposts": 10,
+        "likes": 340,
+        "bookmarks": 6,
+        "quotes": 3,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 02:07:03 +0000 2026",
+        "created_timestamp": 1794708423,
+        "views": 26323,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2121901347360362689",
+        "id": "2121901347360362689",
+        "text": "Bitcoin was briefly closer to zero than to its ATH today 😆",
+        "raw_text": {
+          "text": "Bitcoin was briefly closer to zero than to its ATH today 😆",
+          "display_text_range": [
+            0,
+            58
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47688,
+          "following": 1395,
+          "likes": 8055,
+          "media_count": 1685,
+          "statuses": 8954,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 0,
+        "reposts": 0,
+        "likes": 16,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 09:41:18 +0000 2026",
+        "created_timestamp": 1794735678,
+        "views": 2687,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/PeterSchiff/status/2121787028186497481",
+          "id": "2121787028186497481",
+          "text": "@natbrunell At it just needs to fall 100% to get back to zero.",
+          "raw_text": {
+            "text": "@natbrunell At it just needs to fall 100% to get back to zero.",
+            "display_text_range": [
+              12,
+              62
+            ],
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  0,
+                  11
+                ],
+                "original": "natbrunell",
+                "id": "543483223"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "PeterSchiff",
+            "url": "https://x.com/PeterSchiff",
+            "id": "56562803",
+            "followers": 1782727,
+            "following": 319,
+            "likes": 1019,
+            "media_count": 2041,
+            "statuses": 43232,
+            "name": "Peter Schiff",
+            "description": "Chief Economist & Global Strategist http://www.Europac.com, Chairman http://www.SchiffGold.com, Founder http://www.SchiffSovereign.com, Host http://www.SchiffRadio.com, Best-selling Author",
+            "raw_description": {
+              "text": "Chief Economist & Global Strategist https://t.co/X35usGhhgW, Chairman https://t.co/ulhU3vptUb, Founder https://t.co/zB1vZlRBGh, Host https://t.co/XazFnrIREg, Best-selling Author",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    36,
+                    59
+                  ],
+                  "original": "https://t.co/X35usGhhgW",
+                  "replacement": "http://www.Europac.com",
+                  "display": "Europac.com"
+                },
+                {
+                  "type": "url",
+                  "indices": [
+                    70,
+                    93
+                  ],
+                  "original": "https://t.co/ulhU3vptUb",
+                  "replacement": "http://www.SchiffGold.com",
+                  "display": "SchiffGold.com"
+                },
+                {
+                  "type": "url",
+                  "indices": [
+                    103,
+                    126
+                  ],
+                  "original": "https://t.co/zB1vZlRBGh",
+                  "replacement": "http://www.SchiffSovereign.com",
+                  "display": "SchiffSovereign.com"
+                },
+                {
+                  "type": "url",
+                  "indices": [
+                    133,
+                    156
+                  ],
+                  "original": "https://t.co/XazFnrIREg",
+                  "replacement": "http://www.SchiffRadio.com",
+                  "display": "SchiffRadio.com"
+                }
+              ]
+            },
+            "location": "",
+            "banner_url": "https://pbs.twimg.com/profile_banners/56562803/1600369965",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1679540487743496205/LcNCN4tX_200x200.jpg",
+            "joined": "Tue Jul 14 01:28:42 +0000 2009",
+            "protected": false,
+            "website": {
+              "url": "http://amzn.to/1nDylDr",
+              "display_url": "amzn.to/1nDylDr"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 57,
+          "reposts": 10,
+          "likes": 340,
+          "bookmarks": 6,
+          "quotes": 3,
+          "embed_card": "tweet",
+          "created_at": "Sun Nov 15 02:07:03 +0000 2026",
+          "created_timestamp": 1794708423,
+          "views": 26323,
+          "is_note_tweet": false,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121903680823975956",
+      "id": "2121903680823975956",
+      "author": {
+        "screen_name": "DeFi_Paanda",
+        "name": "DeFi PANDA 🐼"
+      },
+      "created_at": "2026-11-15T09:50:35.000Z",
+      "created_timestamp": 1794736235000,
+      "text": "I never shilled my FOMO trades on X except two or three.",
+      "url": "https://x.com/DeFi_Paanda/status/2121903680823975956",
+      "lang": "en",
+      "likes": 2,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 0,
+      "views": 181,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DeFi_Paanda/status/2121903680823975956",
+        "id": "2121903680823975956",
+        "text": "I never shilled my FOMO trades on X except two or three.",
+        "raw_text": {
+          "text": "I never shilled my FOMO trades on X except two or three.",
+          "display_text_range": [
+            0,
+            56
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "DeFi_Paanda",
+          "url": "https://x.com/DeFi_Paanda",
+          "id": "1632180126099075077",
+          "followers": 26928,
+          "following": 480,
+          "likes": 44927,
+          "media_count": 3717,
+          "statuses": 20532,
+          "name": "DeFi PANDA 🐼",
+          "description": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.me/PandaPrint1",
+          "raw_description": {
+            "text": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.co/Jdv11vdaJ6",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  83,
+                  106
+                ],
+                "original": "https://t.co/Jdv11vdaJ6",
+                "replacement": "https://t.me/PandaPrint1",
+                "display": "t.me/PandaPrint1"
+              }
+            ]
+          },
+          "location": "Living in PANDA VERSE ~ ",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1632180126099075077/1679340485",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "joined": "Sun Mar 05 00:44:13 +0000 2023",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 09:50:35 +0000 2026",
+        "created_timestamp": 1794736235,
+        "views": 181,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "DeFi_Paanda",
+          "status": "2121903214136275152",
+          "url": "https://x.com/DeFi_Paanda/status/2121903214136275152",
+          "profile_url": "https://x.com/DeFi_Paanda"
+        },
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DeFi_Paanda",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121905336567173304",
+      "id": "2121905336567173304",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T09:57:09.000Z",
+      "created_timestamp": 1794736629000,
+      "text": "GM☕️. Coffee is needed today, let's analyse the market.",
+      "url": "https://x.com/TedPillows/status/2121905336567173304",
+      "lang": "en",
+      "likes": 239,
+      "reposts": 8,
+      "quotes": 0,
+      "replies": 122,
+      "views": 17060,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121905331374583809",
+            "url": "https://pbs.twimg.com/media/HXKFqBOW8AEmATA.jpg?name=orig",
+            "width": 1536,
+            "height": 2048
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121905331374583809",
+            "url": "https://pbs.twimg.com/media/HXKFqBOW8AEmATA.jpg?name=orig",
+            "width": 1536,
+            "height": 2048
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121905336567173304",
+        "id": "2121905336567173304",
+        "text": "GM☕️. Coffee is needed today, let's analyse the market.",
+        "raw_text": {
+          "text": "GM☕️. Coffee is needed today, let's analyse the market. https://t.co/41gdBFgjCA",
+          "display_text_range": [
+            0,
+            55
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                56,
+                79
+              ],
+              "id": "2121905331374583809",
+              "display": "pic.x.com/41gdBFgjCA",
+              "original": "https://t.co/41gdBFgjCA",
+              "replacement": "https://x.com/TedPillows/status/2121905336567173304/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 122,
+        "reposts": 8,
+        "likes": 239,
+        "bookmarks": 3,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 09:57:09 +0000 2026",
+        "created_timestamp": 1794736629,
+        "possibly_sensitive": false,
+        "views": 17060,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121905331374583809",
+              "url": "https://pbs.twimg.com/media/HXKFqBOW8AEmATA.jpg?name=orig",
+              "width": 1536,
+              "height": 2048
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121905331374583809",
+              "url": "https://pbs.twimg.com/media/HXKFqBOW8AEmATA.jpg?name=orig",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121907651265122560",
+      "id": "2121907651265122560",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T10:06:21.000Z",
+      "created_timestamp": 1794737181000,
+      "text": "Everyone’s asking the same question: Why the dump? What actually happened?\n\nI’m putting together a detailed article today, sharing my thoughts and breaking down the market move.\n\nLink in bio.",
+      "url": "https://x.com/TedPillows/status/2121907651265122560",
+      "lang": "en",
+      "likes": 272,
+      "reposts": 6,
+      "quotes": 2,
+      "replies": 55,
+      "views": 54759,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121907651265122560",
+        "id": "2121907651265122560",
+        "text": "Everyone’s asking the same question: Why the dump? What actually happened?\n\nI’m putting together a detailed article today, sharing my thoughts and breaking down the market move.\n\nLink in bio.",
+        "raw_text": {
+          "text": "Everyone’s asking the same question: Why the dump? What actually happened?\n\nI’m putting together a detailed article today, sharing my thoughts and breaking down the market move.\n\nLink in bio.",
+          "display_text_range": [
+            0,
+            191
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 55,
+        "reposts": 6,
+        "likes": 272,
+        "bookmarks": 3,
+        "quotes": 2,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:06:21 +0000 2026",
+        "created_timestamp": 1794737181,
+        "views": 54759,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121908450800312541",
+      "id": "2121908450800312541",
+      "author": {
+        "screen_name": "DeFi_Paanda",
+        "name": "DeFi PANDA 🐼"
+      },
+      "created_at": "2026-11-15T10:09:32.000Z",
+      "created_timestamp": 1794737372000,
+      "text": "Ok CZ & Binance recovered the losses, now they'll resume the pump.\n\nBottom is in, next lowcap season will be on Elysium.",
+      "url": "https://x.com/DeFi_Paanda/status/2121908450800312541",
+      "lang": "en",
+      "likes": 19,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 7,
+      "views": 1724,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DeFi_Paanda/status/2121908450800312541",
+        "id": "2121908450800312541",
+        "text": "Ok CZ & Binance recovered the losses, now they'll resume the pump.\n\nBottom is in, next lowcap season will be on Elysium.",
+        "raw_text": {
+          "text": "Ok CZ &amp; Binance recovered the losses, now they'll resume the pump.\n\nBottom is in, next lowcap season will be on Elysium.",
+          "display_text_range": [
+            0,
+            124
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "DeFi_Paanda",
+          "url": "https://x.com/DeFi_Paanda",
+          "id": "1632180126099075077",
+          "followers": 26928,
+          "following": 480,
+          "likes": 44927,
+          "media_count": 3717,
+          "statuses": 20532,
+          "name": "DeFi PANDA 🐼",
+          "description": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.me/PandaPrint1",
+          "raw_description": {
+            "text": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.co/Jdv11vdaJ6",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  83,
+                  106
+                ],
+                "original": "https://t.co/Jdv11vdaJ6",
+                "replacement": "https://t.me/PandaPrint1",
+                "display": "t.me/PandaPrint1"
+              }
+            ]
+          },
+          "location": "Living in PANDA VERSE ~ ",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1632180126099075077/1679340485",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "joined": "Sun Mar 05 00:44:13 +0000 2023",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 7,
+        "reposts": 3,
+        "likes": 19,
+        "bookmarks": 1,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:09:32 +0000 2026",
+        "created_timestamp": 1794737372,
+        "views": 1724,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1632180126099075077",
+          "name": "DeFi PANDA 🐼",
+          "screen_name": "DeFi_Paanda",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "url": "https://x.com/DeFi_Paanda"
+        }
+      },
+      "tracked_account": "DeFi_Paanda",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "DeFi_Paanda"
+    },
+    {
+      "tweet_id": "2121909789433233595",
+      "id": "2121909789433233595",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T10:14:51.000Z",
+      "created_timestamp": 1794737691000,
+      "text": "Did this brutal dump feel like a bottom to you?",
+      "url": "https://x.com/TedPillows/status/2121909789433233595",
+      "lang": "en",
+      "likes": 91,
+      "reposts": 2,
+      "quotes": 2,
+      "replies": 63,
+      "views": 25396,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121909789433233595",
+        "id": "2121909789433233595",
+        "text": "Did this brutal dump feel like a bottom to you?",
+        "raw_text": {
+          "text": "Did this brutal dump feel like a bottom to you?",
+          "display_text_range": [
+            0,
+            47
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 63,
+        "reposts": 2,
+        "likes": 91,
+        "bookmarks": 3,
+        "quotes": 2,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:14:51 +0000 2026",
+        "created_timestamp": 1794737691,
+        "views": 25396,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "poll": {
+          "ends_at": "2026-11-16T10:14:51Z",
+          "time_left_en": "19 hours",
+          "total_votes": 4041,
+          "choices": [
+            {
+              "label": "Yes",
+              "count": 1726,
+              "percentage": 42.7
+            },
+            {
+              "label": "No",
+              "count": 2315,
+              "percentage": 57.3
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121911180163961336",
+      "id": "2121911180163961336",
+      "author": {
+        "screen_name": "DeFi_Paanda",
+        "name": "DeFi PANDA 🐼"
+      },
+      "created_at": "2026-11-15T10:20:23.000Z",
+      "created_timestamp": 1794738023000,
+      "text": "Let's see I'll share my Pumpfun profile.....\n\nI'll hit 6figure+ on pumpfun or not with same 1k$?",
+      "url": "https://x.com/DeFi_Paanda/status/2121911180163961336",
+      "lang": "en",
+      "likes": 1,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 1,
+      "views": 187,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DeFi_Paanda/status/2121911180163961336",
+        "id": "2121911180163961336",
+        "text": "Let's see I'll share my Pumpfun profile.....\n\nI'll hit 6figure+ on pumpfun or not with same 1k$?",
+        "raw_text": {
+          "text": "Let's see I'll share my Pumpfun profile.....\n\nI'll hit 6figure+ on pumpfun or not with same 1k$?",
+          "display_text_range": [
+            0,
+            96
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "DeFi_Paanda",
+          "url": "https://x.com/DeFi_Paanda",
+          "id": "1632180126099075077",
+          "followers": 26928,
+          "following": 480,
+          "likes": 44927,
+          "media_count": 3717,
+          "statuses": 20532,
+          "name": "DeFi PANDA 🐼",
+          "description": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.me/PandaPrint1",
+          "raw_description": {
+            "text": "Narrative base Trader | In Crypto since WWII 🐼 | 🔎 LowCaps gem & shitcoin hunter | https://t.co/Jdv11vdaJ6",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  83,
+                  106
+                ],
+                "original": "https://t.co/Jdv11vdaJ6",
+                "replacement": "https://t.me/PandaPrint1",
+                "display": "t.me/PandaPrint1"
+              }
+            ]
+          },
+          "location": "Living in PANDA VERSE ~ ",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1632180126099075077/1679340485",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1632191928937725952/drp_0wBj_200x200.jpg",
+          "joined": "Sun Mar 05 00:44:13 +0000 2023",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:20:23 +0000 2026",
+        "created_timestamp": 1794738023,
+        "views": 187,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "DeFi_Paanda",
+          "status": "2121903214136275152",
+          "url": "https://x.com/DeFi_Paanda/status/2121903214136275152",
+          "profile_url": "https://x.com/DeFi_Paanda"
+        },
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DeFi_Paanda",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121911466798252483",
+      "id": "2121911466798252483",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T10:21:31.000Z",
+      "created_timestamp": 1794738091000,
+      "text": "$BTC tapped the $62,000 level.\n\nNow, Bitcoin is at its most important demand zone.\n\nIf Bitcoin loses $60K from here, things could get even more ugly.",
+      "url": "https://x.com/TedPillows/status/2121911466798252483",
+      "lang": "en",
+      "likes": 462,
+      "reposts": 35,
+      "quotes": 4,
+      "replies": 92,
+      "views": 32346,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121911444954370048",
+            "url": "https://pbs.twimg.com/media/HXKLN4FXUAAMv8Q.jpg?name=orig",
+            "width": 1761,
+            "height": 1792
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121911444954370048",
+            "url": "https://pbs.twimg.com/media/HXKLN4FXUAAMv8Q.jpg?name=orig",
+            "width": 1761,
+            "height": 1792
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121911466798252483",
+        "id": "2121911466798252483",
+        "text": "$BTC tapped the $62,000 level.\n\nNow, Bitcoin is at its most important demand zone.\n\nIf Bitcoin loses $60K from here, things could get even more ugly.",
+        "raw_text": {
+          "text": "$BTC tapped the $62,000 level.\n\nNow, Bitcoin is at its most important demand zone.\n\nIf Bitcoin loses $60K from here, things could get even more ugly. https://t.co/BnyjShAtWs",
+          "display_text_range": [
+            0,
+            149
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                150,
+                173
+              ],
+              "id": "2121911444954370048",
+              "display": "pic.x.com/BnyjShAtWs",
+              "original": "https://t.co/BnyjShAtWs",
+              "replacement": "https://x.com/TedPillows/status/2121911466798252483/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 92,
+        "reposts": 35,
+        "likes": 462,
+        "bookmarks": 8,
+        "quotes": 4,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 10:21:31 +0000 2026",
+        "created_timestamp": 1794738091,
+        "possibly_sensitive": false,
+        "views": 32346,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121911444954370048",
+              "url": "https://pbs.twimg.com/media/HXKLN4FXUAAMv8Q.jpg?name=orig",
+              "width": 1761,
+              "height": 1792
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121911444954370048",
+              "url": "https://pbs.twimg.com/media/HXKLN4FXUAAMv8Q.jpg?name=orig",
+              "width": 1761,
+              "height": 1792
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121915883077431599",
+      "id": "2121915883077431599",
+      "author": {
+        "screen_name": "Alejandro_XBT",
+        "name": "Alejandro₿TC"
+      },
+      "created_at": "2026-11-15T10:39:04.000Z",
+      "created_timestamp": 1794739144000,
+      "text": "A few weeks ago, when everything was pumping and people were constantly pressuring me, I kept getting the same question:\n\n\"What's your price invalidation?\"\n\nHere's what most people don't understand.\n\nI don't have a price invalidation. I have a STRUCTURAL invalidation.\n\nAnd yes, I know exactly what would invalidate my thesis.\n\nBut none of those conditions have been met.\n\nI'm perfectly willing to change my perspective when the market confirms I'm wrong. I have absolutely no problem with that.\n\nFor now, I'll continue focusing on the scenarios I believe have the highest probability of playing out.\n\nI don't have a crystal ball. Nobody does.\n\nBut I know how to read market structure, identify probabilities, and anticipate what could come next.\n\nThat's what I've been doing all along.\n\nHope you understand.",
+      "url": "https://x.com/Alejandro_XBT/status/2121915883077431599",
+      "lang": "en",
+      "likes": 66,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 13,
+      "views": 5535,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Alejandro_XBT/status/2121915883077431599",
+        "id": "2121915883077431599",
+        "text": "A few weeks ago, when everything was pumping and people were constantly pressuring me, I kept getting the same question:\n\n\"What's your price invalidation?\"\n\nHere's what most people don't understand.\n\nI don't have a price invalidation. I have a STRUCTURAL invalidation.\n\nAnd yes, I know exactly what would invalidate my thesis.\n\nBut none of those conditions have been met.\n\nI'm perfectly willing to change my perspective when the market confirms I'm wrong. I have absolutely no problem with that.\n\nFor now, I'll continue focusing on the scenarios I believe have the highest probability of playing out.\n\nI don't have a crystal ball. Nobody does.\n\nBut I know how to read market structure, identify probabilities, and anticipate what could come next.\n\nThat's what I've been doing all along.\n\nHope you understand.",
+        "raw_text": {
+          "text": "A few weeks ago, when everything was pumping and people were constantly pressuring me, I kept getting the same question:\n\n\"What's your price invalidation?\"\n\nHere's what most people don't understand.\n\nI don't have a price invalidation. I have a STRUCTURAL invalidation.\n\nAnd yes, I know exactly what would invalidate my thesis.\n\nBut none of those conditions have been met.\n\nI'm perfectly willing to change my perspective when the market confirms I'm wrong. I have absolutely no problem with that.\n\nFor now, I'll continue focusing on the scenarios I believe have the highest probability of playing out.\n\nI don't have a crystal ball. Nobody does.\n\nBut I know how to read market structure, identify probabilities, and anticipate what could come next.\n\nThat's what I've been doing all along.\n\nHope you understand.",
+          "display_text_range": [
+            0,
+            808
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "Alejandro_XBT",
+          "url": "https://x.com/Alejandro_XBT",
+          "id": "4001513242",
+          "followers": 112291,
+          "following": 802,
+          "likes": 49258,
+          "media_count": 7330,
+          "statuses": 29190,
+          "name": "Alejandro₿TC",
+          "description": "Crypto since 2017 | Helping Investors Navigate Markets | All Posts NFA + DYOR",
+          "raw_description": {
+            "text": "Crypto since 2017 | Helping Investors Navigate Markets | All Posts NFA + DYOR",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/4001513242/1710804146",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2031689596036071424/NBcARcg5_200x200.jpg",
+          "joined": "Tue Oct 20 10:56:32 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://alphadoctrine.io/",
+            "display_url": "alphadoctrine.io"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 13,
+        "reposts": 3,
+        "likes": 66,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:39:04 +0000 2026",
+        "created_timestamp": 1794739144,
+        "views": 5535,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "Alejandro_XBT",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121916117027377474",
+      "id": "2121916117027377474",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T10:40:00.000Z",
+      "created_timestamp": 1794739200000,
+      "text": "$ETH tapped the $1,700-$1,720 support zone before bounceback.\n\nThis is a major level for Ethereum, and losing this could push it down to 2018 highs.",
+      "url": "https://x.com/TedPillows/status/2121916117027377474",
+      "lang": "en",
+      "likes": 237,
+      "reposts": 12,
+      "quotes": 2,
+      "replies": 43,
+      "views": 26834,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121911600000946176",
+            "url": "https://pbs.twimg.com/media/HXKLW5rWUAAT5cD.jpg?name=orig",
+            "width": 1769,
+            "height": 1788
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121911600000946176",
+            "url": "https://pbs.twimg.com/media/HXKLW5rWUAAT5cD.jpg?name=orig",
+            "width": 1769,
+            "height": 1788
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121916117027377474",
+        "id": "2121916117027377474",
+        "text": "$ETH tapped the $1,700-$1,720 support zone before bounceback.\n\nThis is a major level for Ethereum, and losing this could push it down to 2018 highs.",
+        "raw_text": {
+          "text": "$ETH tapped the $1,700-$1,720 support zone before bounceback.\n\nThis is a major level for Ethereum, and losing this could push it down to 2018 highs. https://t.co/n1QJIPs74s",
+          "display_text_range": [
+            0,
+            148
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "ETH"
+            },
+            {
+              "type": "media",
+              "indices": [
+                149,
+                172
+              ],
+              "id": "2121911600000946176",
+              "display": "pic.x.com/n1QJIPs74s",
+              "original": "https://t.co/n1QJIPs74s",
+              "replacement": "https://x.com/TedPillows/status/2121916117027377474/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 43,
+        "reposts": 12,
+        "likes": 237,
+        "bookmarks": 9,
+        "quotes": 2,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 10:40:00 +0000 2026",
+        "created_timestamp": 1794739200,
+        "possibly_sensitive": false,
+        "views": 26834,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121911600000946176",
+              "url": "https://pbs.twimg.com/media/HXKLW5rWUAAT5cD.jpg?name=orig",
+              "width": 1769,
+              "height": 1788
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121911600000946176",
+              "url": "https://pbs.twimg.com/media/HXKLW5rWUAAT5cD.jpg?name=orig",
+              "width": 1769,
+              "height": 1788
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121916943913660772",
+      "id": "2121916943913660772",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-11-15T10:43:17.000Z",
+      "created_timestamp": 1794739397000,
+      "text": "I still fully believe in this until/unless $57,700 is taken out.\n\nThat doesn’t mean I will sell my bitcoin if we go below.\n\nI’ve accumulated a holding that I’m now finally happy with.\n\nWill HODL my BTC for the next 15 months.",
+      "url": "https://x.com/CryptoKid/status/2121916943913660772",
+      "lang": "en",
+      "likes": 26,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 7,
+      "views": 3236,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2119770099225874773",
+        "id": "2119770099225874773",
+        "text": "Kind reminder that Bitcoin is in a bull market and that all dips are for buying.\n\nThank you for your attention to this matter! - CK",
+        "raw_text": {
+          "text": "Kind reminder that Bitcoin is in a bull market and that all dips are for buying.\n\nThank you for your attention to this matter! - CK",
+          "display_text_range": [
+            0,
+            131
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47688,
+          "following": 1395,
+          "likes": 8055,
+          "media_count": 1685,
+          "statuses": 8954,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 33,
+        "reposts": 8,
+        "likes": 200,
+        "bookmarks": 5,
+        "quotes": 2,
+        "embed_card": "tweet",
+        "created_at": "Mon Nov 09 12:32:29 +0000 2026",
+        "created_timestamp": 1794227549,
+        "views": 9263,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2121916943913660772",
+        "id": "2121916943913660772",
+        "text": "I still fully believe in this until/unless $57,700 is taken out.\n\nThat doesn’t mean I will sell my bitcoin if we go below.\n\nI’ve accumulated a holding that I’m now finally happy with.\n\nWill HODL my BTC for the next 15 months.",
+        "raw_text": {
+          "text": "I still fully believe in this until/unless $57,700 is taken out.\n\nThat doesn’t mean I will sell my bitcoin if we go below.\n\nI’ve accumulated a holding that I’m now finally happy with.\n\nWill HODL my BTC for the next 15 months.",
+          "display_text_range": [
+            0,
+            225
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47688,
+          "following": 1395,
+          "likes": 8055,
+          "media_count": 1685,
+          "statuses": 8954,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 7,
+        "reposts": 0,
+        "likes": 26,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:43:17 +0000 2026",
+        "created_timestamp": 1794739397,
+        "views": 3236,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/CryptoKid/status/2119770099225874773",
+          "id": "2119770099225874773",
+          "text": "Kind reminder that Bitcoin is in a bull market and that all dips are for buying.\n\nThank you for your attention to this matter! - CK",
+          "raw_text": {
+            "text": "Kind reminder that Bitcoin is in a bull market and that all dips are for buying.\n\nThank you for your attention to this matter! - CK",
+            "display_text_range": [
+              0,
+              131
+            ],
+            "facets": []
+          },
+          "author": {
+            "screen_name": "CryptoKid",
+            "url": "https://x.com/CryptoKid",
+            "id": "1443582062963822599",
+            "followers": 47688,
+            "following": 1395,
+            "likes": 8055,
+            "media_count": 1685,
+            "statuses": 8954,
+            "name": "Crypto Kid",
+            "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "raw_description": {
+              "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+              "facets": [
+                {
+                  "type": "mention",
+                  "indices": [
+                    36,
+                    48
+                  ],
+                  "original": "TheMoonShow",
+                  "id": ""
+                }
+              ]
+            },
+            "location": "The Moon",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+            "joined": "Thu Sep 30 14:22:51 +0000 2021",
+            "protected": false,
+            "website": {
+              "url": "https://www.CryptoKid.com",
+              "display_url": "CryptoKid.com"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 33,
+          "reposts": 8,
+          "likes": 200,
+          "bookmarks": 5,
+          "quotes": 2,
+          "embed_card": "tweet",
+          "created_at": "Mon Nov 09 12:32:29 +0000 2026",
+          "created_timestamp": 1794227549,
+          "views": 9263,
+          "is_note_tweet": false,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121917438094967124",
+      "id": "2121917438094967124",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-11-15T10:45:15.000Z",
+      "created_timestamp": 1794739515000,
+      "text": "Back inside the falling wedge, altcoins in my view have not experienced their capitulation relative to Bitcoin yet.\n\nMaintaining spot holdings, adding at 20-30% discounts.",
+      "url": "https://x.com/CryptoKid/status/2121917438094967124",
+      "lang": "en",
+      "likes": 1,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 0,
+      "views": 503,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2121917438094967124",
+        "id": "2121917438094967124",
+        "text": "Back inside the falling wedge, altcoins in my view have not experienced their capitulation relative to Bitcoin yet.\n\nMaintaining spot holdings, adding at 20-30% discounts.",
+        "raw_text": {
+          "text": "Back inside the falling wedge, altcoins in my view have not experienced their capitulation relative to Bitcoin yet.\n\nMaintaining spot holdings, adding at 20-30% discounts.",
+          "display_text_range": [
+            0,
+            171
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47688,
+          "following": 1395,
+          "likes": 8055,
+          "media_count": 1685,
+          "statuses": 8954,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:45:15 +0000 2026",
+        "created_timestamp": 1794739515,
+        "views": 503,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "CryptoKid",
+          "status": "2116181188398514682",
+          "url": "https://x.com/CryptoKid/status/2116181188398514682",
+          "profile_url": "https://x.com/CryptoKid"
+        },
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121917623872995331",
+      "id": "2121917623872995331",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T10:45:59.000Z",
+      "created_timestamp": 1794739559000,
+      "text": "Bitcoin crashed.\n\nI spent my entire morning putting my thoughts, analysis, and perspective into this article.\n\nhttps://tedpillows.substack.com/p/bitcoin-crashed-from-81k-to-62k-heres\n\nIf you find it valuable, please consider subscribing. Your support would mean a lot and help me keep sharing my insights.",
+      "url": "https://x.com/TedPillows/status/2121917623872995331",
+      "lang": "en",
+      "likes": 348,
+      "reposts": 16,
+      "quotes": 1,
+      "replies": 40,
+      "views": 40063,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121907651265122560",
+        "id": "2121907651265122560",
+        "text": "Everyone’s asking the same question: Why the dump? What actually happened?\n\nI’m putting together a detailed article today, sharing my thoughts and breaking down the market move.\n\nLink in bio.",
+        "raw_text": {
+          "text": "Everyone’s asking the same question: Why the dump? What actually happened?\n\nI’m putting together a detailed article today, sharing my thoughts and breaking down the market move.\n\nLink in bio.",
+          "display_text_range": [
+            0,
+            191
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 55,
+        "reposts": 6,
+        "likes": 272,
+        "bookmarks": 3,
+        "quotes": 2,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:06:21 +0000 2026",
+        "created_timestamp": 1794737181,
+        "views": 54759,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121917563797975040",
+            "url": "https://pbs.twimg.com/media/HXKQyCjXMAAxfBm.jpg?name=orig",
+            "width": 3200,
+            "height": 1800
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121917563797975040",
+            "url": "https://pbs.twimg.com/media/HXKQyCjXMAAxfBm.jpg?name=orig",
+            "width": 3200,
+            "height": 1800
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121917623872995331",
+        "id": "2121917623872995331",
+        "text": "Bitcoin crashed.\n\nI spent my entire morning putting my thoughts, analysis, and perspective into this article.\n\nhttps://tedpillows.substack.com/p/bitcoin-crashed-from-81k-to-62k-heres\n\nIf you find it valuable, please consider subscribing. Your support would mean a lot and help me keep sharing my insights.",
+        "raw_text": {
+          "text": "Bitcoin crashed.\n\nI spent my entire morning putting my thoughts, analysis, and perspective into this article.\n\nhttps://t.co/rnr27Goc3z\n\nIf you find it valuable, please consider subscribing. Your support would mean a lot and help me keep sharing my insights. https://t.co/bLLD0ExVqt",
+          "display_text_range": [
+            0,
+            257
+          ],
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                111,
+                134
+              ],
+              "original": "https://t.co/rnr27Goc3z",
+              "replacement": "https://tedpillows.substack.com/p/bitcoin-crashed-from-81k-to-62k-heres",
+              "display": "tedpillows.substack.com/p/bitcoin-cras…"
+            },
+            {
+              "type": "media",
+              "indices": [
+                258,
+                281
+              ],
+              "id": "2121917563797975040",
+              "display": "pic.x.com/bLLD0ExVqt",
+              "original": "https://t.co/bLLD0ExVqt",
+              "replacement": "https://x.com/TedPillows/status/2121917623872995331/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 40,
+        "reposts": 16,
+        "likes": 348,
+        "bookmarks": 43,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 10:45:59 +0000 2026",
+        "created_timestamp": 1794739559,
+        "possibly_sensitive": false,
+        "views": 40063,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121917563797975040",
+              "url": "https://pbs.twimg.com/media/HXKQyCjXMAAxfBm.jpg?name=orig",
+              "width": 3200,
+              "height": 1800
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121917563797975040",
+              "url": "https://pbs.twimg.com/media/HXKQyCjXMAAxfBm.jpg?name=orig",
+              "width": 3200,
+              "height": 1800
+            }
+          ]
+        },
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/TedPillows/status/2121907651265122560",
+          "id": "2121907651265122560",
+          "text": "Everyone’s asking the same question: Why the dump? What actually happened?\n\nI’m putting together a detailed article today, sharing my thoughts and breaking down the market move.\n\nLink in bio.",
+          "raw_text": {
+            "text": "Everyone’s asking the same question: Why the dump? What actually happened?\n\nI’m putting together a detailed article today, sharing my thoughts and breaking down the market move.\n\nLink in bio.",
+            "display_text_range": [
+              0,
+              191
+            ],
+            "facets": []
+          },
+          "author": {
+            "screen_name": "TedPillows",
+            "url": "https://x.com/TedPillows",
+            "id": "3222562058",
+            "followers": 323701,
+            "following": 17049,
+            "likes": 374256,
+            "media_count": 11555,
+            "statuses": 248630,
+            "name": "Ted",
+            "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "raw_description": {
+              "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+              "facets": []
+            },
+            "location": "",
+            "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+            "joined": "Thu May 21 18:01:13 +0000 2015",
+            "protected": false,
+            "website": {
+              "url": "https://tedpillows.substack.com/",
+              "display_url": "tedpillows.substack.com"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "replies": 55,
+          "reposts": 6,
+          "likes": 272,
+          "bookmarks": 3,
+          "quotes": 2,
+          "embed_card": "tweet",
+          "created_at": "Sun Nov 15 10:06:21 +0000 2026",
+          "created_timestamp": 1794737181,
+          "views": 54759,
+          "is_note_tweet": false,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "3222562058",
+          "name": "Ted",
+          "screen_name": "TedPillows",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "url": "https://x.com/TedPillows"
+        }
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "TedPillows"
+    },
+    {
+      "tweet_id": "2121919386244268435",
+      "id": "2121919386244268435",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-11-15T10:52:59.000Z",
+      "created_timestamp": 1794739979000,
+      "text": "Multi-cycle $DOGE double top? 😳",
+      "url": "https://x.com/CryptoKid/status/2121919386244268435",
+      "lang": "en",
+      "likes": 39,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 11,
+      "views": 4720,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121919382448148480",
+            "url": "https://pbs.twimg.com/media/HXKSb5jWkAAxjAS.jpg?name=orig",
+            "width": 1266,
+            "height": 2499
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121919382448148480",
+            "url": "https://pbs.twimg.com/media/HXKSb5jWkAAxjAS.jpg?name=orig",
+            "width": 1266,
+            "height": 2499
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2121919386244268435",
+        "id": "2121919386244268435",
+        "text": "Multi-cycle $DOGE double top? 😳",
+        "raw_text": {
+          "text": "Multi-cycle $DOGE double top? 😳 https://t.co/9SPvSahweS",
+          "display_text_range": [
+            0,
+            31
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                12,
+                17
+              ],
+              "original": "DOGE"
+            },
+            {
+              "type": "media",
+              "indices": [
+                32,
+                55
+              ],
+              "id": "2121919382448148480",
+              "display": "pic.x.com/9SPvSahweS",
+              "original": "https://t.co/9SPvSahweS",
+              "replacement": "https://x.com/CryptoKid/status/2121919386244268435/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47688,
+          "following": 1395,
+          "likes": 8055,
+          "media_count": 1685,
+          "statuses": 8954,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 11,
+        "reposts": 0,
+        "likes": 39,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 10:52:59 +0000 2026",
+        "created_timestamp": 1794739979,
+        "possibly_sensitive": false,
+        "views": 4720,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121919382448148480",
+              "url": "https://pbs.twimg.com/media/HXKSb5jWkAAxjAS.jpg?name=orig",
+              "width": 1266,
+              "height": 2499
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121919382448148480",
+              "url": "https://pbs.twimg.com/media/HXKSb5jWkAAxjAS.jpg?name=orig",
+              "width": 1266,
+              "height": 2499
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121919390694408458",
+      "id": "2121919390694408458",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-11-15T10:53:00.000Z",
+      "created_timestamp": 1794739980000,
+      "text": "P.S - I’m not selling…",
+      "url": "https://x.com/CryptoKid/status/2121919390694408458",
+      "lang": "en",
+      "likes": 4,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 1,
+      "views": 924,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2121919390694408458",
+        "id": "2121919390694408458",
+        "text": "P.S - I’m not selling…",
+        "raw_text": {
+          "text": "P.S - I’m not selling…",
+          "display_text_range": [
+            0,
+            22
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47688,
+          "following": 1395,
+          "likes": 8055,
+          "media_count": 1685,
+          "statuses": 8954,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Sun Nov 15 10:53:00 +0000 2026",
+        "created_timestamp": 1794739980,
+        "views": 924,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "CryptoKid",
+          "status": "2121919386244268435",
+          "url": "https://x.com/CryptoKid/status/2121919386244268435",
+          "profile_url": "https://x.com/CryptoKid"
+        },
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121922911858520284",
+      "id": "2121922911858520284",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T11:07:00.000Z",
+      "created_timestamp": 1794740820000,
+      "text": "$BTC longs have been fully hunted.\n\nA $18,000 drop in 17 days with total liquidations over $13 Billion.\n\nRight now, the long liquidation cluster is only $1B, while the short side liquidity is $16B.\n\nIt's clear which side will get hunted next.",
+      "url": "https://x.com/TedPillows/status/2121922911858520284",
+      "lang": "en",
+      "likes": 772,
+      "reposts": 58,
+      "quotes": 4,
+      "replies": 123,
+      "views": 51802,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "id": "2121919518603677696",
+            "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/1272x514/S4nwh84Au6q6RClF.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121919518603677696/img/ZfBGbb8aOXWfgX6v.jpg",
+            "duration": 9.566,
+            "width": 1272,
+            "height": 514,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2121919518603677696/pl/qhatMou06mH_lLjk.m3u8?tag=29",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/668x270/EJs3VkkHF4UYeAMj.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/890x360/ulYaHbeDdpHBoQFR.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/1272x514/S4nwh84Au6q6RClF.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null
+          }
+        ],
+        "videos": [
+          {
+            "id": "2121919518603677696",
+            "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/1272x514/S4nwh84Au6q6RClF.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121919518603677696/img/ZfBGbb8aOXWfgX6v.jpg",
+            "duration": 9.566,
+            "width": 1272,
+            "height": 514,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2121919518603677696/pl/qhatMou06mH_lLjk.m3u8?tag=29",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/668x270/EJs3VkkHF4UYeAMj.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/890x360/ulYaHbeDdpHBoQFR.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/1272x514/S4nwh84Au6q6RClF.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null
+          }
+        ],
+        "photos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121922911858520284",
+        "id": "2121922911858520284",
+        "text": "$BTC longs have been fully hunted.\n\nA $18,000 drop in 17 days with total liquidations over $13 Billion.\n\nRight now, the long liquidation cluster is only $1B, while the short side liquidity is $16B.\n\nIt's clear which side will get hunted next.",
+        "raw_text": {
+          "text": "$BTC longs have been fully hunted.\n\nA $18,000 drop in 17 days with total liquidations over $13 Billion.\n\nRight now, the long liquidation cluster is only $1B, while the short side liquidity is $16B.\n\nIt's clear which side will get hunted next. https://t.co/D263WerE1f",
+          "display_text_range": [
+            0,
+            242
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                243,
+                266
+              ],
+              "id": "2121919518603677696",
+              "display": "pic.x.com/D263WerE1f",
+              "original": "https://t.co/D263WerE1f",
+              "replacement": "https://x.com/TedPillows/status/2121922911858520284/video/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 123,
+        "reposts": 58,
+        "likes": 772,
+        "bookmarks": 42,
+        "quotes": 4,
+        "embed_card": "player",
+        "created_at": "Sun Nov 15 11:07:00 +0000 2026",
+        "created_timestamp": 1794740820,
+        "possibly_sensitive": false,
+        "views": 51802,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "id": "2121919518603677696",
+              "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/1272x514/S4nwh84Au6q6RClF.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121919518603677696/img/ZfBGbb8aOXWfgX6v.jpg",
+              "duration": 9.566,
+              "width": 1272,
+              "height": 514,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2121919518603677696/pl/qhatMou06mH_lLjk.m3u8?tag=29",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/668x270/EJs3VkkHF4UYeAMj.mp4?tag=29",
+                  "bitrate": 256000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/890x360/ulYaHbeDdpHBoQFR.mp4?tag=29",
+                  "bitrate": 832000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/1272x514/S4nwh84Au6q6RClF.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ],
+          "videos": [
+            {
+              "id": "2121919518603677696",
+              "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/1272x514/S4nwh84Au6q6RClF.mp4?tag=29",
+              "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121919518603677696/img/ZfBGbb8aOXWfgX6v.jpg",
+              "duration": 9.566,
+              "width": 1272,
+              "height": 514,
+              "format": "video/mp4",
+              "type": "video",
+              "formats": [
+                {
+                  "url": "https://video.twimg.com/amplify_video/2121919518603677696/pl/qhatMou06mH_lLjk.m3u8?tag=29",
+                  "container": "m3u8"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/668x270/EJs3VkkHF4UYeAMj.mp4?tag=29",
+                  "bitrate": 256000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/890x360/ulYaHbeDdpHBoQFR.mp4?tag=29",
+                  "bitrate": 832000,
+                  "container": "mp4",
+                  "codec": "h264"
+                },
+                {
+                  "url": "https://video.twimg.com/amplify_video/2121919518603677696/vid/avc1/1272x514/S4nwh84Au6q6RClF.mp4?tag=29",
+                  "bitrate": 2176000,
+                  "container": "mp4",
+                  "codec": "h264"
+                }
+              ],
+              "publisher": null
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121929958344032469",
+      "id": "2121929958344032469",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T11:35:00.000Z",
+      "created_timestamp": 1794742500000,
+      "text": "Binance and Coinbase have been the biggest $BTC sellers this month.\n\nThis is why we had such an aggressive dump without a single relief rally.",
+      "url": "https://x.com/TedPillows/status/2121929958344032469",
+      "lang": "en",
+      "likes": 407,
+      "reposts": 26,
+      "quotes": 2,
+      "replies": 67,
+      "views": 25915,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121920245744971776",
+            "url": "https://pbs.twimg.com/media/HXKTOJlWsAAqiHM.jpg?name=orig",
+            "width": 3040,
+            "height": 1220
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121920245744971776",
+            "url": "https://pbs.twimg.com/media/HXKTOJlWsAAqiHM.jpg?name=orig",
+            "width": 3040,
+            "height": 1220
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121929958344032469",
+        "id": "2121929958344032469",
+        "text": "Binance and Coinbase have been the biggest $BTC sellers this month.\n\nThis is why we had such an aggressive dump without a single relief rally.",
+        "raw_text": {
+          "text": "Binance and Coinbase have been the biggest $BTC sellers this month.\n\nThis is why we had such an aggressive dump without a single relief rally. https://t.co/qlVjoFmFu1",
+          "display_text_range": [
+            0,
+            142
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                43,
+                47
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                143,
+                166
+              ],
+              "id": "2121920245744971776",
+              "display": "pic.x.com/qlVjoFmFu1",
+              "original": "https://t.co/qlVjoFmFu1",
+              "replacement": "https://x.com/TedPillows/status/2121929958344032469/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 67,
+        "reposts": 26,
+        "likes": 407,
+        "bookmarks": 9,
+        "quotes": 2,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 11:35:00 +0000 2026",
+        "created_timestamp": 1794742500,
+        "possibly_sensitive": false,
+        "views": 25915,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121920245744971776",
+              "url": "https://pbs.twimg.com/media/HXKTOJlWsAAqiHM.jpg?name=orig",
+              "width": 3040,
+              "height": 1220
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121920245744971776",
+              "url": "https://pbs.twimg.com/media/HXKTOJlWsAAqiHM.jpg?name=orig",
+              "width": 3040,
+              "height": 1220
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121931173022650645",
+      "id": "2121931173022650645",
+      "author": {
+        "screen_name": "DaanCrypto",
+        "name": "Daan Crypto Trades"
+      },
+      "created_at": "2026-11-15T11:39:49.000Z",
+      "created_timestamp": 1794742789000,
+      "text": "$BTC Full retrace of the entire august pump done with that wick.\n\nIt does look like the weekly candle will likely lose the 200MA/EMA which is something to be wary of, especially if it's not retaken soon after.\n\nFrom here I'll be watching for a range to be formed locally and go from there.",
+      "url": "https://x.com/DaanCrypto/status/2121931173022650645",
+      "lang": "en",
+      "likes": 144,
+      "reposts": 12,
+      "quotes": 0,
+      "replies": 33,
+      "views": 17967,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121930789159927808",
+            "url": "https://pbs.twimg.com/media/HXKcz23XgAAUKrI.jpg?name=orig",
+            "width": 1400,
+            "height": 918
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121930789159927808",
+            "url": "https://pbs.twimg.com/media/HXKcz23XgAAUKrI.jpg?name=orig",
+            "width": 1400,
+            "height": 918
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DaanCrypto/status/2121931173022650645",
+        "id": "2121931173022650645",
+        "text": "$BTC Full retrace of the entire august pump done with that wick.\n\nIt does look like the weekly candle will likely lose the 200MA/EMA which is something to be wary of, especially if it's not retaken soon after.\n\nFrom here I'll be watching for a range to be formed locally and go from there.",
+        "raw_text": {
+          "text": "$BTC Full retrace of the entire august pump done with that wick.\n\nIt does look like the weekly candle will likely lose the 200MA/EMA which is something to be wary of, especially if it's not retaken soon after.\n\nFrom here I'll be watching for a range to be formed locally and go from there.",
+          "display_text_range": [
+            0,
+            289
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                278,
+                301
+              ],
+              "id": "2121930789159927808",
+              "display": "pic.x.com/UmlTxFYH2L",
+              "original": "https://t.co/UmlTxFYH2L",
+              "replacement": "https://x.com/DaanCrypto/status/2121931173022650645/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DaanCrypto",
+          "url": "https://x.com/DaanCrypto",
+          "id": "918138253617790976",
+          "followers": 414556,
+          "following": 561,
+          "likes": 121139,
+          "media_count": 14149,
+          "statuses": 51762,
+          "name": "Daan Crypto Trades",
+          "description": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.me/DaanCryptoTG | YT: https://www.youtube.com/@daancrypto |",
+          "raw_description": {
+            "text": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.co/j7IcSHcJXs | YT: https://t.co/D1PbYpJroi |",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  76,
+                  99
+                ],
+                "original": "https://t.co/j7IcSHcJXs",
+                "replacement": "https://t.me/DaanCryptoTG",
+                "display": "t.me/DaanCryptoTG"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  106,
+                  129
+                ],
+                "original": "https://t.co/D1PbYpJroi",
+                "replacement": "https://www.youtube.com/@daancrypto",
+                "display": "youtube.com/@daancrypto"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/918138253617790976/1767862068",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1593241078035279874/7ousc-BT_200x200.jpg",
+          "joined": "Wed Oct 11 15:36:32 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.eu/b/daancrypto",
+            "display_url": "partner.bybit.eu/b/daancrypto"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 33,
+        "reposts": 12,
+        "likes": 144,
+        "bookmarks": 13,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 11:39:49 +0000 2026",
+        "created_timestamp": 1794742789,
+        "possibly_sensitive": false,
+        "views": 17967,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121930789159927808",
+              "url": "https://pbs.twimg.com/media/HXKcz23XgAAUKrI.jpg?name=orig",
+              "width": 1400,
+              "height": 918
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121930789159927808",
+              "url": "https://pbs.twimg.com/media/HXKcz23XgAAUKrI.jpg?name=orig",
+              "width": 1400,
+              "height": 918
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DaanCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121941087489069097",
+      "id": "2121941087489069097",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T12:19:13.000Z",
+      "created_timestamp": 1794745153000,
+      "text": "$BTC has lost all its key support levels.\n\nA reclaim of the 200W MA is needed from here, or there's a decent chance of dropping to $60K or lower.\n\nWith that being said, I think we are in the absolute last phase of the dump, and there's a decent chance a low will be put in within the next 5-7 days.\n\nI’ve got a special deal for my community: trade with me and get a $25 bonus when you trade $50: https://kalshi.com/p/tedpillows",
+      "url": "https://x.com/TedPillows/status/2121941087489069097",
+      "lang": "en",
+      "likes": 260,
+      "reposts": 12,
+      "quotes": 1,
+      "replies": 66,
+      "views": 26172,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121940320921194498",
+            "url": "https://pbs.twimg.com/media/HXKlercWEAIb7SF.jpg?name=orig",
+            "width": 1135,
+            "height": 646
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121940320921194498",
+            "url": "https://pbs.twimg.com/media/HXKlercWEAIb7SF.jpg?name=orig",
+            "width": 1135,
+            "height": 646
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121941087489069097",
+        "id": "2121941087489069097",
+        "text": "$BTC has lost all its key support levels.\n\nA reclaim of the 200W MA is needed from here, or there's a decent chance of dropping to $60K or lower.\n\nWith that being said, I think we are in the absolute last phase of the dump, and there's a decent chance a low will be put in within the next 5-7 days.\n\nI’ve got a special deal for my community: trade with me and get a $25 bonus when you trade $50: https://kalshi.com/p/tedpillows",
+        "raw_text": {
+          "text": "$BTC has lost all its key support levels.\n\nA reclaim of the 200W MA is needed from here, or there's a decent chance of dropping to $60K or lower.\n\nWith that being said, I think we are in the absolute last phase of the dump, and there's a decent chance a low will be put in within the next 5-7 days.\n\nI’ve got a special deal for my community: trade with me and get a $25 bonus when you trade $50: https://t.co/lYoCz79blv",
+          "display_text_range": [
+            0,
+            419
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                4
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                280,
+                303
+              ],
+              "id": "2121940320921194498",
+              "display": "pic.x.com/asincqN4lQ",
+              "original": "https://t.co/asincqN4lQ",
+              "replacement": "https://x.com/TedPillows/status/2121941087489069097/photo/1"
+            },
+            {
+              "type": "url",
+              "indices": [
+                396,
+                419
+              ],
+              "original": "https://t.co/lYoCz79blv",
+              "replacement": "https://kalshi.com/p/tedpillows",
+              "display": "kalshi.com/p/tedpillows"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 66,
+        "reposts": 12,
+        "likes": 260,
+        "bookmarks": 13,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 12:19:13 +0000 2026",
+        "created_timestamp": 1794745153,
+        "possibly_sensitive": false,
+        "views": 26172,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121940320921194498",
+              "url": "https://pbs.twimg.com/media/HXKlercWEAIb7SF.jpg?name=orig",
+              "width": 1135,
+              "height": 646
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121940320921194498",
+              "url": "https://pbs.twimg.com/media/HXKlercWEAIb7SF.jpg?name=orig",
+              "width": 1135,
+              "height": 646
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121951359133954474",
+      "id": "2121951359133954474",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T13:00:02.000Z",
+      "created_timestamp": 1794747602000,
+      "text": "August 17 to August 28\n\n▫️ Bitcoin rallied $18,700 in 12 days.\n\nNovember 4th to November 15th\n\n▫️ $BTC dumped $18,700 in 12 days.\n\nWhat a crazy coincidence.",
+      "url": "https://x.com/TedPillows/status/2121951359133954474",
+      "lang": "en",
+      "likes": 811,
+      "reposts": 67,
+      "quotes": 8,
+      "replies": 114,
+      "views": 41382,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121945699705036800",
+            "url": "https://pbs.twimg.com/media/HXKqXw-WIAAguza.png?name=orig",
+            "width": 932,
+            "height": 772
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121945699705036800",
+            "url": "https://pbs.twimg.com/media/HXKqXw-WIAAguza.png?name=orig",
+            "width": 932,
+            "height": 772
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121951359133954474",
+        "id": "2121951359133954474",
+        "text": "August 17 to August 28\n\n▫️ Bitcoin rallied $18,700 in 12 days.\n\nNovember 4th to November 15th\n\n▫️ $BTC dumped $18,700 in 12 days.\n\nWhat a crazy coincidence.",
+        "raw_text": {
+          "text": "August 17 to August 28\n\n▫️ Bitcoin rallied $18,700 in 12 days.\n\nNovember 4th to November 15th\n\n▫️ $BTC dumped $18,700 in 12 days.\n\nWhat a crazy coincidence. https://t.co/iG1JYSKmrW",
+          "display_text_range": [
+            0,
+            156
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                98,
+                102
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                157,
+                180
+              ],
+              "id": "2121945699705036800",
+              "display": "pic.x.com/iG1JYSKmrW",
+              "original": "https://t.co/iG1JYSKmrW",
+              "replacement": "https://x.com/TedPillows/status/2121951359133954474/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 114,
+        "reposts": 67,
+        "likes": 811,
+        "bookmarks": 40,
+        "quotes": 8,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 13:00:02 +0000 2026",
+        "created_timestamp": 1794747602,
+        "possibly_sensitive": false,
+        "views": 41382,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121945699705036800",
+              "url": "https://pbs.twimg.com/media/HXKqXw-WIAAguza.png?name=orig",
+              "width": 932,
+              "height": 772
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121945699705036800",
+              "url": "https://pbs.twimg.com/media/HXKqXw-WIAAguza.png?name=orig",
+              "width": 932,
+              "height": 772
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121965564012732841",
+      "id": "2121965564012732841",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-15T13:56:29.000Z",
+      "created_timestamp": 1794750989000,
+      "text": "A whale has opened a $130,900,000 $BTC long with 40x leverage.\n\nIn the last few days, this whale has made $7,000,000+ in profits by shorting the market and has now flipped long.\n\nDoes he know something?",
+      "url": "https://x.com/TedPillows/status/2121965564012732841",
+      "lang": "en",
+      "likes": 317,
+      "reposts": 18,
+      "quotes": 1,
+      "replies": 60,
+      "views": 18027,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121965153243574272",
+            "url": "https://pbs.twimg.com/media/HXK8EHDXMAATIIx.jpg?name=orig",
+            "width": 1441,
+            "height": 597
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121965153243574272",
+            "url": "https://pbs.twimg.com/media/HXK8EHDXMAATIIx.jpg?name=orig",
+            "width": 1441,
+            "height": 597
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2121965564012732841",
+        "id": "2121965564012732841",
+        "text": "A whale has opened a $130,900,000 $BTC long with 40x leverage.\n\nIn the last few days, this whale has made $7,000,000+ in profits by shorting the market and has now flipped long.\n\nDoes he know something?",
+        "raw_text": {
+          "text": "A whale has opened a $130,900,000 $BTC long with 40x leverage.\n\nIn the last few days, this whale has made $7,000,000+ in profits by shorting the market and has now flipped long.\n\nDoes he know something? https://t.co/vvUHfoyR15",
+          "display_text_range": [
+            0,
+            202
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                34,
+                38
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                203,
+                226
+              ],
+              "id": "2121965153243574272",
+              "display": "pic.x.com/vvUHfoyR15",
+              "original": "https://t.co/vvUHfoyR15",
+              "replacement": "https://x.com/TedPillows/status/2121965564012732841/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 323701,
+          "following": 17049,
+          "likes": 374256,
+          "media_count": 11555,
+          "statuses": 248630,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 60,
+        "reposts": 18,
+        "likes": 317,
+        "bookmarks": 14,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 13:56:29 +0000 2026",
+        "created_timestamp": 1794750989,
+        "possibly_sensitive": false,
+        "views": 18027,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121965153243574272",
+              "url": "https://pbs.twimg.com/media/HXK8EHDXMAATIIx.jpg?name=orig",
+              "width": 1441,
+              "height": 597
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121965153243574272",
+              "url": "https://pbs.twimg.com/media/HXK8EHDXMAATIIx.jpg?name=orig",
+              "width": 1441,
+              "height": 597
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121967236441047182",
+      "id": "2121967236441047182",
+      "author": {
+        "screen_name": "inmortalcrypto",
+        "name": "Inmortal"
+      },
+      "created_at": "2026-11-15T14:03:08.000Z",
+      "created_timestamp": 1794751388000,
+      "text": "The last two times we hit -30 RSI, it was the bottom\n\n$HYPE",
+      "url": "https://x.com/inmortalcrypto/status/2121967236441047182",
+      "lang": "en",
+      "likes": 43,
+      "reposts": 1,
+      "quotes": 1,
+      "replies": 9,
+      "views": 7489,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121966621283500032",
+            "url": "https://pbs.twimg.com/media/HXK9Zj7WwAA78Va.png?name=orig",
+            "width": 2475,
+            "height": 1311
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121966621283500032",
+            "url": "https://pbs.twimg.com/media/HXK9Zj7WwAA78Va.png?name=orig",
+            "width": 2475,
+            "height": 1311
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-15T14:40:46.848Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/inmortalcrypto/status/2121967236441047182",
+        "id": "2121967236441047182",
+        "text": "The last two times we hit -30 RSI, it was the bottom\n\n$HYPE",
+        "raw_text": {
+          "text": "The last two times we hit -30 RSI, it was the bottom\n\n$HYPE https://t.co/1kJ3sJdats",
+          "display_text_range": [
+            0,
+            59
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                54,
+                59
+              ],
+              "original": "HYPE"
+            },
+            {
+              "type": "media",
+              "indices": [
+                60,
+                83
+              ],
+              "id": "2121966621283500032",
+              "display": "pic.x.com/1kJ3sJdats",
+              "original": "https://t.co/1kJ3sJdats",
+              "replacement": "https://x.com/inmortalcrypto/status/2121967236441047182/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "inmortalcrypto",
+          "url": "https://x.com/inmortalcrypto",
+          "id": "571771109",
+          "followers": 231734,
+          "following": 212,
+          "likes": 31994,
+          "media_count": 5872,
+          "statuses": 13449,
+          "name": "Inmortal",
+          "description": "| Being the best at something is a very rare thing, dont squander that potential\n| Building @simetriagroup",
+          "raw_description": {
+            "text": "| Being the best at something is a very rare thing, dont squander that potential\n| Building @simetriagroup",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  92,
+                  106
+                ],
+                "original": "simetriagroup",
+                "id": ""
+              }
+            ]
+          },
+          "location": "Not financial advice",
+          "banner_url": "https://pbs.twimg.com/profile_banners/571771109/1676226998",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1623149338741379074/RGmfMugt_200x200.jpg",
+          "joined": "Sat May 05 14:03:05 +0000 2012",
+          "protected": false,
+          "website": {
+            "url": "https://t.me/InmortalTA",
+            "display_url": "t.me/InmortalTA"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 9,
+        "reposts": 1,
+        "likes": 43,
+        "bookmarks": 3,
+        "quotes": 1,
+        "embed_card": "summary_large_image",
+        "created_at": "Sun Nov 15 14:03:08 +0000 2026",
+        "created_timestamp": 1794751388,
+        "possibly_sensitive": false,
+        "views": 7489,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121966621283500032",
+              "url": "https://pbs.twimg.com/media/HXK9Zj7WwAA78Va.png?name=orig",
+              "width": 2475,
+              "height": 1311
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121966621283500032",
+              "url": "https://pbs.twimg.com/media/HXK9Zj7WwAA78Va.png?name=orig",
+              "width": 2475,
+              "height": 1311
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "inmortalcrypto",
       "is_repost": false,
       "post_type": "original"
     }
