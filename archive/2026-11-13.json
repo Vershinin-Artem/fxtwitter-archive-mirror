@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "count": 57,
+  "count": 58,
   "tweets": [
     {
       "tweet_id": "2121082083452092697",
@@ -3468,6 +3468,178 @@
               "type": "photo",
               "id": "2121167165508276224",
               "url": "https://pbs.twimg.com/media/HW_mTHFX0AA7G6Z.jpg?name=orig",
+              "width": 1405,
+              "height": 918
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "DaanCrypto",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2121183993274020063",
+      "id": "2121183993274020063",
+      "author": {
+        "screen_name": "DaanCrypto",
+        "name": "Daan Crypto Trades"
+      },
+      "created_at": "2026-11-13T10:10:48.000Z",
+      "created_timestamp": 1794564648000,
+      "text": "$PUMP Very momentum driven obviously but swept the lows of the previous consolidation and now at the Daily 200EMA. Relatively strong the past few days.",
+      "url": "https://x.com/DaanCrypto/status/2121183993274020063",
+      "lang": "en",
+      "likes": 6,
+      "reposts": 1,
+      "quotes": 0,
+      "replies": 1,
+      "views": 1883,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2121167096570634240",
+            "url": "https://pbs.twimg.com/media/HW_mPGRW4AAC0Za.jpg?name=orig",
+            "width": 1405,
+            "height": 918
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2121167096570634240",
+            "url": "https://pbs.twimg.com/media/HW_mPGRW4AAC0Za.jpg?name=orig",
+            "width": 1405,
+            "height": 918
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-16T00:17:53.161Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/DaanCrypto/status/2121183993274020063",
+        "id": "2121183993274020063",
+        "text": "$PUMP Very momentum driven obviously but swept the lows of the previous consolidation and now at the Daily 200EMA. Relatively strong the past few days.",
+        "raw_text": {
+          "text": "$PUMP Very momentum driven obviously but swept the lows of the previous consolidation and now at the Daily 200EMA. Relatively strong the past few days. https://t.co/sblDPOSe5Y",
+          "display_text_range": [
+            0,
+            151
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                0,
+                5
+              ],
+              "original": "PUMP"
+            },
+            {
+              "type": "media",
+              "indices": [
+                152,
+                175
+              ],
+              "id": "2121167096570634240",
+              "display": "pic.x.com/sblDPOSe5Y",
+              "original": "https://t.co/sblDPOSe5Y",
+              "replacement": "https://x.com/DaanCrypto/status/2121183993274020063/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "DaanCrypto",
+          "url": "https://x.com/DaanCrypto",
+          "id": "918138253617790976",
+          "followers": 414515,
+          "following": 561,
+          "likes": 121135,
+          "media_count": 14151,
+          "statuses": 51763,
+          "name": "Daan Crypto Trades",
+          "description": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.me/DaanCryptoTG | YT: https://www.youtube.com/@daancrypto |",
+          "raw_description": {
+            "text": "Fulltime Crypto Trader & Investor 📈 | Tweets are not financial advice | TG: https://t.co/j7IcSHcJXs | YT: https://t.co/D1PbYpJroi |",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  76,
+                  99
+                ],
+                "original": "https://t.co/j7IcSHcJXs",
+                "replacement": "https://t.me/DaanCryptoTG",
+                "display": "t.me/DaanCryptoTG"
+              },
+              {
+                "type": "url",
+                "indices": [
+                  106,
+                  129
+                ],
+                "original": "https://t.co/D1PbYpJroi",
+                "replacement": "https://www.youtube.com/@daancrypto",
+                "display": "youtube.com/@daancrypto"
+              }
+            ]
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/918138253617790976/1767862068",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1593241078035279874/7ousc-BT_200x200.jpg",
+          "joined": "Wed Oct 11 15:36:32 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.eu/b/daancrypto",
+            "display_url": "partner.bybit.eu/b/daancrypto"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 1,
+        "likes": 6,
+        "bookmarks": 2,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Nov 13 10:10:48 +0000 2026",
+        "created_timestamp": 1794564648,
+        "possibly_sensitive": false,
+        "views": 1883,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "DaanCrypto",
+          "status": "2121183990296011193",
+          "url": "https://x.com/DaanCrypto/status/2121183990296011193",
+          "profile_url": "https://x.com/DaanCrypto"
+        },
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2121167096570634240",
+              "url": "https://pbs.twimg.com/media/HW_mPGRW4AAC0Za.jpg?name=orig",
+              "width": 1405,
+              "height": 918
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2121167096570634240",
+              "url": "https://pbs.twimg.com/media/HW_mPGRW4AAC0Za.jpg?name=orig",
               "width": 1405,
               "height": 918
             }
