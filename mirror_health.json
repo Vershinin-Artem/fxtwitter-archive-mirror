@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-16T00:17:53.161Z",
-  "status": "ok",
+  "checked_at": "2026-11-16T07:10:32.665Z",
+  "status": "partial",
   "source": "direct_fxtwitter",
-  "successful_accounts": 13,
+  "successful_accounts": 12,
   "required_accounts": 13,
   "accounts": {
     "Pentosh1": {
@@ -20,7 +20,7 @@
     "SalsaTekila": {
       "ok": true,
       "fetched": 40,
-      "new": 2,
+      "new": 4,
       "error": null
     },
     "HsakaTrades": {
@@ -30,10 +30,10 @@
       "error": null
     },
     "TedPillows": {
-      "ok": true,
-      "fetched": 34,
-      "new": 2,
-      "error": null
+      "ok": false,
+      "fetched": 0,
+      "new": 0,
+      "error": "HTTP 404: {\"code\":404,\"results\":[],\"cursor\":{\"top\":null,\"bottom\":null}}"
     },
     "inmortalcrypto": {
       "ok": true,
@@ -44,7 +44,7 @@
     "DaanCrypto": {
       "ok": true,
       "fetched": 38,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     "Sheldino_D": {
@@ -80,7 +80,7 @@
     "Alejandro_XBT": {
       "ok": true,
       "fetched": 37,
-      "new": 6,
+      "new": 0,
       "error": null
     }
   }
