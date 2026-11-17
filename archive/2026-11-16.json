@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "count": 55,
+  "count": 56,
   "tweets": [
     {
       "tweet_id": "2122119066643267608",
@@ -8643,6 +8643,102 @@
       "tracked_account": "CryptoKid",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2122446058370597070",
+      "id": "2122446058370597070",
+      "author": {
+        "screen_name": "NewsFromGoogle",
+        "name": "News from Google"
+      },
+      "created_at": "2026-11-16T21:45:48.000Z",
+      "created_timestamp": 1794865548000,
+      "text": "Hackers are now using LLMs to continuously scan software updates, spot newly fixed bugs, and build attacks before teams can apply the fix — all without human involvement. That’s according to the latest report from the Google Threat Intelligence Group.\n\nWe're helping defenders counter automated threats with Google AI Threat Defense, which combines Gemini and other frontier models to find and fix flaws before attackers can exploit them.",
+      "url": "https://x.com/NewsFromGoogle/status/2122446058370597070",
+      "lang": "en",
+      "likes": 13566,
+      "reposts": 2124,
+      "quotes": 471,
+      "replies": 300,
+      "views": 724069,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-17T09:01:23.309Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/NewsFromGoogle/status/2122446058370597070",
+        "id": "2122446058370597070",
+        "text": "Hackers are now using LLMs to continuously scan software updates, spot newly fixed bugs, and build attacks before teams can apply the fix — all without human involvement. That’s according to the latest report from the Google Threat Intelligence Group.\n\nWe're helping defenders counter automated threats with Google AI Threat Defense, which combines Gemini and other frontier models to find and fix flaws before attackers can exploit them.",
+        "raw_text": {
+          "text": "Hackers are now using LLMs to continuously scan software updates, spot newly fixed bugs, and build attacks before teams can apply the fix — all without human involvement. That’s according to the latest report from the Google Threat Intelligence Group.\n\nWe're helping defenders counter automated threats with Google AI Threat Defense, which combines Gemini and other frontier models to find and fix flaws before attackers can exploit them.",
+          "display_text_range": [
+            0,
+            438
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "NewsFromGoogle",
+          "url": "https://x.com/NewsFromGoogle",
+          "id": "913521757100769280",
+          "followers": 135442,
+          "following": 479,
+          "likes": 448,
+          "media_count": 296,
+          "statuses": 3215,
+          "name": "News from Google",
+          "description": "Official source for the latest news and updates from across Google and Alphabet.",
+          "raw_description": {
+            "text": "Official source for the latest news and updates from across Google and Alphabet.",
+            "facets": []
+          },
+          "location": "Mountain View, CA",
+          "banner_url": "https://pbs.twimg.com/profile_banners/913521757100769280/1779395314",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1972717909559353344/eMJ6AJ0W_200x200.jpg",
+          "joined": "Thu Sep 28 21:52:14 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "https://blog.google/",
+            "display_url": "blog.google"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "organization"
+          },
+          "type": "profile"
+        },
+        "replies": 300,
+        "reposts": 2124,
+        "likes": 13566,
+        "bookmarks": 2931,
+        "quotes": 471,
+        "embed_card": "tweet",
+        "created_at": "Mon Nov 16 21:45:48 +0000 2026",
+        "created_timestamp": 1794865548,
+        "views": 724069,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "NewsFromGoogle"
     },
     {
       "tweet_id": "2122468740948537531",
