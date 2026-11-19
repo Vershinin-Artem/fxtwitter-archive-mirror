@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "count": 57,
+  "count": 58,
   "tweets": [
     {
       "tweet_id": "2122119066643267608",
@@ -6603,6 +6603,151 @@
       "tracked_account": "inmortalcrypto",
       "is_repost": false,
       "post_type": "original"
+    },
+    {
+      "tweet_id": "2122381687900328041",
+      "id": "2122381687900328041",
+      "author": {
+        "screen_name": "crypto_birb",
+        "name": "₿IRB"
+      },
+      "created_at": "2026-11-16T17:30:00.000Z",
+      "created_timestamp": 1794850200000,
+      "text": "We’re getting outperformed by a banana",
+      "url": "https://x.com/crypto_birb/status/2122381687900328041",
+      "lang": "en",
+      "likes": 467,
+      "reposts": 46,
+      "quotes": 7,
+      "replies": 54,
+      "views": 42784,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2122328987888443393",
+            "url": "https://pbs.twimg.com/media/HXQG-Eua4AE7_hU.jpg?name=orig",
+            "width": 1320,
+            "height": 1273
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2122328987888443393",
+            "url": "https://pbs.twimg.com/media/HXQG-Eua4AE7_hU.jpg?name=orig",
+            "width": 1320,
+            "height": 1273
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-19T17:15:55.092Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/crypto_birb/status/2122381687900328041",
+        "id": "2122381687900328041",
+        "text": "We’re getting outperformed by a banana",
+        "raw_text": {
+          "text": "We’re getting outperformed by a banana https://t.co/dPtFLTWYso",
+          "display_text_range": [
+            0,
+            62
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                39,
+                62
+              ],
+              "id": "2122328987888443393",
+              "display": "pic.x.com/dPtFLTWYso",
+              "original": "https://t.co/dPtFLTWYso",
+              "replacement": "https://x.com/kyledoops/status/2122329209700007936/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "crypto_birb",
+          "url": "https://x.com/crypto_birb",
+          "id": "897446848004227072",
+          "followers": 707654,
+          "following": 1100,
+          "likes": 160541,
+          "media_count": 24046,
+          "statuses": 124102,
+          "name": "₿IRB",
+          "description": "Millionaire Speedrun",
+          "raw_description": {
+            "text": "Millionaire Speedrun",
+            "facets": []
+          },
+          "location": "💰 ⇨ ",
+          "banner_url": "https://pbs.twimg.com/profile_banners/897446848004227072/1770487220",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2020195935804919808/Nrz7VIKu_200x200.jpg",
+          "joined": "Tue Aug 15 13:16:17 +0000 2017",
+          "protected": false,
+          "website": {
+            "url": "http://bitbase.com/activity/futures-trading-competition/Millionaire-Speedrun?ref=SPEEDRUN",
+            "display_url": "bitbase.com/activity/futur…"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 54,
+        "reposts": 46,
+        "likes": 467,
+        "bookmarks": 19,
+        "quotes": 7,
+        "embed_card": "summary_large_image",
+        "created_at": "Mon Nov 16 17:30:00 +0000 2026",
+        "created_timestamp": 1794850200,
+        "possibly_sensitive": false,
+        "views": 42784,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2122328987888443393",
+              "url": "https://pbs.twimg.com/media/HXQG-Eua4AE7_hU.jpg?name=orig",
+              "width": 1320,
+              "height": 1273
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2122328987888443393",
+              "url": "https://pbs.twimg.com/media/HXQG-Eua4AE7_hU.jpg?name=orig",
+              "width": 1320,
+              "height": 1273
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "crypto_birb"
     },
     {
       "tweet_id": "2122385208028610975",
