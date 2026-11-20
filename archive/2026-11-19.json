@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "count": 41,
+  "count": 44,
   "tweets": [
     {
       "tweet_id": "2123255792975647222",
@@ -5490,6 +5490,152 @@
       "post_type": "original"
     },
     {
+      "tweet_id": "2123478112671555882",
+      "id": "2123478112671555882",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-19T18:06:49.000Z",
+      "created_timestamp": 1795111609000,
+      "text": "Someone opened a $46,375,000 $BTC short with 40x leverage.\n\nLiquidation Price: $67,897",
+      "url": "https://x.com/TedPillows/status/2123478112671555882",
+      "lang": "en",
+      "likes": 516,
+      "reposts": 30,
+      "quotes": 5,
+      "replies": 78,
+      "views": 42590,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123477875726684160",
+            "url": "https://pbs.twimg.com/media/HXgb4JcXEAAUtVh.jpg?name=orig",
+            "width": 1432,
+            "height": 591
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123477875726684160",
+            "url": "https://pbs.twimg.com/media/HXgb4JcXEAAUtVh.jpg?name=orig",
+            "width": 1432,
+            "height": 591
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-20T06:58:21.666Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2123478112671555882",
+        "id": "2123478112671555882",
+        "text": "Someone opened a $46,375,000 $BTC short with 40x leverage.\n\nLiquidation Price: $67,897",
+        "raw_text": {
+          "text": "Someone opened a $46,375,000 $BTC short with 40x leverage.\n\nLiquidation Price: $67,897 https://t.co/zUpsm8hGU1",
+          "display_text_range": [
+            0,
+            86
+          ],
+          "facets": [
+            {
+              "type": "symbol",
+              "indices": [
+                29,
+                33
+              ],
+              "original": "BTC"
+            },
+            {
+              "type": "media",
+              "indices": [
+                87,
+                110
+              ],
+              "id": "2123477875726684160",
+              "display": "pic.x.com/zUpsm8hGU1",
+              "original": "https://t.co/zUpsm8hGU1",
+              "replacement": "https://x.com/TedPillows/status/2123478112671555882/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 324497,
+          "following": 17034,
+          "likes": 374794,
+          "media_count": 11612,
+          "statuses": 249281,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 78,
+        "reposts": 30,
+        "likes": 516,
+        "bookmarks": 20,
+        "quotes": 5,
+        "embed_card": "summary_large_image",
+        "created_at": "Thu Nov 19 18:06:49 +0000 2026",
+        "created_timestamp": 1795111609,
+        "possibly_sensitive": false,
+        "views": 42590,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2123477875726684160",
+              "url": "https://pbs.twimg.com/media/HXgb4JcXEAAUtVh.jpg?name=orig",
+              "width": 1432,
+              "height": 591
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2123477875726684160",
+              "url": "https://pbs.twimg.com/media/HXgb4JcXEAAUtVh.jpg?name=orig",
+              "width": 1432,
+              "height": 591
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
       "tweet_id": "2123482903451701481",
       "id": "2123482903451701481",
       "author": {
@@ -6781,6 +6927,233 @@
         "reposted_by": null
       },
       "tracked_account": "CryptoKid",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2123564911918006767",
+      "id": "2123564911918006767",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-19T23:51:43.000Z",
+      "created_timestamp": 1795132303000,
+      "text": "Steady lads",
+      "url": "https://x.com/SalsaTekila/status/2123564911918006767",
+      "lang": "en",
+      "likes": 174,
+      "reposts": 3,
+      "quotes": 5,
+      "replies": 23,
+      "views": 11730,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123564903210586112",
+            "url": "https://pbs.twimg.com/media/HXhrB0FakAAI2-t.jpg?name=orig",
+            "width": 1206,
+            "height": 680
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123564903210586112",
+            "url": "https://pbs.twimg.com/media/HXhrB0FakAAI2-t.jpg?name=orig",
+            "width": 1206,
+            "height": 680
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-20T06:58:21.666Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2123564911918006767",
+        "id": "2123564911918006767",
+        "text": "Steady lads",
+        "raw_text": {
+          "text": "Steady lads https://t.co/vayMeT2u6Q",
+          "display_text_range": [
+            0,
+            11
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                12,
+                35
+              ],
+              "id": "2123564903210586112",
+              "display": "pic.x.com/vayMeT2u6Q",
+              "original": "https://t.co/vayMeT2u6Q",
+              "replacement": "https://x.com/SalsaTekila/status/2123564911918006767/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227898,
+          "following": 612,
+          "likes": 110450,
+          "media_count": 338,
+          "statuses": 2465,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 23,
+        "reposts": 3,
+        "likes": 174,
+        "bookmarks": 5,
+        "quotes": 5,
+        "embed_card": "summary_large_image",
+        "created_at": "Thu Nov 19 23:51:43 +0000 2026",
+        "created_timestamp": 1795132303,
+        "possibly_sensitive": false,
+        "views": 11730,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2123564903210586112",
+              "url": "https://pbs.twimg.com/media/HXhrB0FakAAI2-t.jpg?name=orig",
+              "width": 1206,
+              "height": 680
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2123564903210586112",
+              "url": "https://pbs.twimg.com/media/HXhrB0FakAAI2-t.jpg?name=orig",
+              "width": 1206,
+              "height": 680
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2123565943653650588",
+      "id": "2123565943653650588",
+      "author": {
+        "screen_name": "TedPillows",
+        "name": "Ted"
+      },
+      "created_at": "2026-11-19T23:55:49.000Z",
+      "created_timestamp": 1795132549000,
+      "text": "Did Binance farm its users again?\n\nBinance Wallet has decided to refund all USDC to participants in its Anthropic IPO campaign.\n\nUsers allocated $500M, and if they had gotten an allocation, each one would have made almost a 35% gain.\n\nInterestingly, this is the exact same thing Binance did with the SpaceX IPO, which pumped 50% after listing.\n\nImagine if Binance farmed the IPO itself and then returned the initial fund to users.\n\nAnything to fill the hole, I guess.",
+      "url": "https://x.com/TedPillows/status/2123565943653650588",
+      "lang": "en",
+      "likes": 672,
+      "reposts": 53,
+      "quotes": 11,
+      "replies": 87,
+      "views": 58404,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-20T06:58:21.666Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/TedPillows/status/2123565943653650588",
+        "id": "2123565943653650588",
+        "text": "Did Binance farm its users again?\n\nBinance Wallet has decided to refund all USDC to participants in its Anthropic IPO campaign.\n\nUsers allocated $500M, and if they had gotten an allocation, each one would have made almost a 35% gain.\n\nInterestingly, this is the exact same thing Binance did with the SpaceX IPO, which pumped 50% after listing.\n\nImagine if Binance farmed the IPO itself and then returned the initial fund to users.\n\nAnything to fill the hole, I guess.",
+        "raw_text": {
+          "text": "Did Binance farm its users again?\n\nBinance Wallet has decided to refund all USDC to participants in its Anthropic IPO campaign.\n\nUsers allocated $500M, and if they had gotten an allocation, each one would have made almost a 35% gain.\n\nInterestingly, this is the exact same thing Binance did with the SpaceX IPO, which pumped 50% after listing.\n\nImagine if Binance farmed the IPO itself and then returned the initial fund to users.\n\nAnything to fill the hole, I guess.",
+          "display_text_range": [
+            0,
+            467
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "TedPillows",
+          "url": "https://x.com/TedPillows",
+          "id": "3222562058",
+          "followers": 324497,
+          "following": 17034,
+          "likes": 374794,
+          "media_count": 11612,
+          "statuses": 249281,
+          "name": "Ted",
+          "description": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+          "raw_description": {
+            "text": "Survived 2 crypto cycles. Turning Bitcoin and Ethereum, on-chain data and macro signals into actionable trades. Research: ↓",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3222562058/1682430866",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1741174664573902849/luD7tU5P_200x200.jpg",
+          "joined": "Thu May 21 18:01:13 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://tedpillows.substack.com/",
+            "display_url": "tedpillows.substack.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 87,
+        "reposts": 53,
+        "likes": 672,
+        "bookmarks": 43,
+        "quotes": 11,
+        "embed_card": "tweet",
+        "created_at": "Thu Nov 19 23:55:49 +0000 2026",
+        "created_timestamp": 1795132549,
+        "views": 58404,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "TedPillows",
       "is_repost": false,
       "post_type": "original"
     }
