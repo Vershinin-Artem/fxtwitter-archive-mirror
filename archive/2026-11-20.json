@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "count": 83,
+  "count": 84,
   "tweets": [
     {
       "tweet_id": "2123570580498837505",
@@ -12776,6 +12776,181 @@
         "reposted_by": null
       },
       "tracked_account": "Alejandro_XBT",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2123922243474333930",
+      "id": "2123922243474333930",
+      "author": {
+        "screen_name": "CryptoKid",
+        "name": "Crypto Kid"
+      },
+      "created_at": "2026-11-20T23:31:38.000Z",
+      "created_timestamp": 1795217498000,
+      "text": "That’s a wrap for @ITCConf Day 1, can’t wait to watch @GrantCardone and @saylor’s talks tomorrow!",
+      "url": "https://x.com/CryptoKid/status/2123922243474333930",
+      "lang": "en",
+      "likes": 9,
+      "reposts": 1,
+      "quotes": 0,
+      "replies": 5,
+      "views": 2002,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2123922237656797184",
+            "url": "https://pbs.twimg.com/media/HXmwBaoWEAAcdkP.jpg?name=orig",
+            "width": 3484,
+            "height": 4096
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2123922237656797184",
+            "url": "https://pbs.twimg.com/media/HXmwBaoWEAAcdkP.jpg?name=orig",
+            "width": 3484,
+            "height": 4096
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-21T03:26:15.866Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/CryptoKid/status/2123922243474333930",
+        "id": "2123922243474333930",
+        "text": "That’s a wrap for @ITCConf Day 1, can’t wait to watch @GrantCardone and @saylor’s talks tomorrow!",
+        "raw_text": {
+          "text": "That’s a wrap for @ITCConf Day 1, can’t wait to watch @GrantCardone and @saylor’s talks tomorrow! https://t.co/huQBJMMyl6",
+          "display_text_range": [
+            0,
+            97
+          ],
+          "facets": [
+            {
+              "type": "mention",
+              "indices": [
+                18,
+                26
+              ],
+              "original": "ITCConf",
+              "id": "2069566695350415360"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                54,
+                67
+              ],
+              "original": "GrantCardone",
+              "id": "14788764"
+            },
+            {
+              "type": "mention",
+              "indices": [
+                72,
+                79
+              ],
+              "original": "saylor",
+              "id": "244647486"
+            },
+            {
+              "type": "media",
+              "indices": [
+                98,
+                121
+              ],
+              "id": "2123922237656797184",
+              "display": "pic.x.com/huQBJMMyl6",
+              "original": "https://t.co/huQBJMMyl6",
+              "replacement": "https://x.com/CryptoKid/status/2123922243474333930/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "CryptoKid",
+          "url": "https://x.com/CryptoKid",
+          "id": "1443582062963822599",
+          "followers": 47798,
+          "following": 1395,
+          "likes": 8149,
+          "media_count": 1696,
+          "statuses": 9043,
+          "name": "Crypto Kid",
+          "description": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+          "raw_description": {
+            "text": "Teen Analyst | Cypherpunk | Co-Host @TheMoonShow • Posts are only my opinion.",
+            "facets": [
+              {
+                "type": "mention",
+                "indices": [
+                  36,
+                  48
+                ],
+                "original": "TheMoonShow",
+                "id": ""
+              }
+            ]
+          },
+          "location": "The Moon",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1443582062963822599/1732539934",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998822702501838848/OUPVuvCJ_200x200.jpg",
+          "joined": "Thu Sep 30 14:22:51 +0000 2021",
+          "protected": false,
+          "website": {
+            "url": "https://www.CryptoKid.com",
+            "display_url": "CryptoKid.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 5,
+        "reposts": 1,
+        "likes": 9,
+        "bookmarks": 0,
+        "quotes": 0,
+        "embed_card": "summary_large_image",
+        "created_at": "Fri Nov 20 23:31:38 +0000 2026",
+        "created_timestamp": 1795217498,
+        "possibly_sensitive": false,
+        "views": 2002,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2123922237656797184",
+              "url": "https://pbs.twimg.com/media/HXmwBaoWEAAcdkP.jpg?name=orig",
+              "width": 3484,
+              "height": 4096
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2123922237656797184",
+              "url": "https://pbs.twimg.com/media/HXmwBaoWEAAcdkP.jpg?name=orig",
+              "width": 3484,
+              "height": 4096
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "CryptoKid",
       "is_repost": false,
       "post_type": "original"
     }
