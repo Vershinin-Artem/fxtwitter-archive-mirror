@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-23",
+  "count": 1,
+  "tweets": [
+    {
+      "tweet_id": "2124658298419044658",
+      "id": "2124658298419044658",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-23T00:16:27.000Z",
+      "created_timestamp": 1795392987000,
+      "text": "There's multiple variants of it, but on top of my head the setup had multiple layers:\n\n1) Buying or selling before large blocks (risk-defining front-run).\n\n2) Preferring trades against a recent position skew (they'll have to unwind front-run).\n\n3) preffering entries after forced sellers or buyers (market drives back to the mean front-run).\n\n4) Contextual relative strength. For example, when bad news gets absorbed (buyers are next, sellers lose their power).\n\nAnyway, you can argue it's all front-run. When you're born, it's because you won a race. Thanks.",
+      "url": "https://x.com/SalsaTekila/status/2124658298419044658",
+      "lang": "en",
+      "likes": 11,
+      "reposts": 0,
+      "quotes": 0,
+      "replies": 1,
+      "views": 1319,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-23T01:31:55.697Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2124658298419044658",
+        "id": "2124658298419044658",
+        "text": "There's multiple variants of it, but on top of my head the setup had multiple layers:\n\n1) Buying or selling before large blocks (risk-defining front-run).\n\n2) Preferring trades against a recent position skew (they'll have to unwind front-run).\n\n3) preffering entries after forced sellers or buyers (market drives back to the mean front-run).\n\n4) Contextual relative strength. For example, when bad news gets absorbed (buyers are next, sellers lose their power).\n\nAnyway, you can argue it's all front-run. When you're born, it's because you won a race. Thanks.",
+        "raw_text": {
+          "text": "There's multiple variants of it, but on top of my head the setup had multiple layers:\n\n1) Buying or selling before large blocks (risk-defining front-run).\n\n2) Preferring trades against a recent position skew (they'll have to unwind front-run).\n\n3) preffering entries after forced sellers or buyers (market drives back to the mean front-run).\n\n4) Contextual relative strength. For example, when bad news gets absorbed (buyers are next, sellers lose their power).\n\nAnyway, you can argue it's all front-run. When you're born, it's because you won a race. Thanks.",
+          "display_text_range": [
+            0,
+            559
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227805,
+          "following": 612,
+          "likes": 110472,
+          "media_count": 343,
+          "statuses": 2494,
+          "name": "SalsaTekila",
+          "description": "HODLer of BTC.",
+          "raw_description": {
+            "text": "HODLer of BTC.",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://partner.bybit.com/b/tekila",
+            "display_url": "partner.bybit.com/b/tekila"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11,
+        "bookmarks": 5,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Mon Nov 23 00:16:27 +0000 2026",
+        "created_timestamp": 1795392987,
+        "views": 1319,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": {
+          "screen_name": "SalsaTekila",
+          "status": "2124653302117974357",
+          "url": "https://x.com/SalsaTekila/status/2124653302117974357",
+          "profile_url": "https://x.com/SalsaTekila"
+        },
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    }
+  ]
+}
