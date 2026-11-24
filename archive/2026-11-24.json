@@ -1,0 +1,515 @@
+{
+  "date": "2026-11-24",
+  "count": 3,
+  "tweets": [
+    {
+      "tweet_id": "2125030292440191362",
+      "id": "2125030292440191362",
+      "author": {
+        "screen_name": "nvidia",
+        "name": "NVIDIA"
+      },
+      "created_at": "2026-11-24T00:54:37.000Z",
+      "created_timestamp": 1795481677000,
+      "text": "",
+      "url": "https://x.com/nvidia/status/2125030292440191362",
+      "lang": null,
+      "likes": 182443,
+      "reposts": 14826,
+      "quotes": 1667,
+      "replies": 2942,
+      "views": 2501139,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2125030287859965952",
+            "url": "https://pbs.twimg.com/media/HX2fybTW4AAPFNt.jpg?name=orig",
+            "width": 1536,
+            "height": 2048
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2125030287859965952",
+            "url": "https://pbs.twimg.com/media/HX2fybTW4AAPFNt.jpg?name=orig",
+            "width": 1536,
+            "height": 2048
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-24T05:53:20.840Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/nvidia/status/2125030292440191362",
+        "id": "2125030292440191362",
+        "text": "",
+        "raw_text": {
+          "text": "https://t.co/v926NNCrQw",
+          "display_text_range": [
+            0,
+            0
+          ],
+          "facets": [
+            {
+              "type": "media",
+              "indices": [
+                0,
+                23
+              ],
+              "id": "2125030287859965952",
+              "display": "pic.x.com/v926NNCrQw",
+              "original": "https://t.co/v926NNCrQw",
+              "replacement": "https://x.com/nvidia/status/2125030292440191362/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "nvidia",
+          "url": "https://x.com/nvidia",
+          "id": "61559439",
+          "followers": 2748709,
+          "following": 47,
+          "likes": 5361,
+          "media_count": 3535,
+          "statuses": 14666,
+          "name": "NVIDIA",
+          "description": "The official handle for NVIDIA. \n\nSupport: http://nvda.ws/2ei5pio",
+          "raw_description": {
+            "text": "The official handle for NVIDIA. \n\nSupport: https://t.co/6ln5FVn2cQ",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  43,
+                  66
+                ],
+                "original": "https://t.co/6ln5FVn2cQ",
+                "replacement": "http://nvda.ws/2ei5pio",
+                "display": "nvda.ws/2ei5pio"
+              }
+            ]
+          },
+          "location": "Santa Clara, CA",
+          "banner_url": "https://pbs.twimg.com/profile_banners/61559439/1749760220",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1828904711124078593/SRvCZSfQ_200x200.jpg",
+          "joined": "Thu Jul 30 18:25:14 +0000 2009",
+          "protected": false,
+          "website": {
+            "url": "https://www.nvidia.com",
+            "display_url": "nvidia.com"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "organization"
+          },
+          "type": "profile"
+        },
+        "replies": 2942,
+        "reposts": 14826,
+        "likes": 182443,
+        "bookmarks": 5342,
+        "quotes": 1667,
+        "embed_card": "summary_large_image",
+        "created_at": "Tue Nov 24 00:54:37 +0000 2026",
+        "created_timestamp": 1795481677,
+        "possibly_sensitive": false,
+        "views": 2501139,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": null,
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2125030287859965952",
+              "url": "https://pbs.twimg.com/media/HX2fybTW4AAPFNt.jpg?name=orig",
+              "width": 1536,
+              "height": 2048
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2125030287859965952",
+              "url": "https://pbs.twimg.com/media/HX2fybTW4AAPFNt.jpg?name=orig",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2124192690975948800/476i6i0F_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "nvidia"
+    },
+    {
+      "tweet_id": "2125031855011643616",
+      "id": "2125031855011643616",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-24T01:00:50.000Z",
+      "created_timestamp": 1795482050000,
+      "text": "This is a positive development for Bitcoin's future, and it got a lot of attention on socials.\n\nRecent price action looks like a leverage tap-out, and shows relative weakness vs. stocks again.\n\nPrice needs to drift up into the end of the week, with a persistent bid, or bulls die.",
+      "url": "https://x.com/SalsaTekila/status/2125031855011643616",
+      "lang": "en",
+      "likes": 84,
+      "reposts": 3,
+      "quotes": 0,
+      "replies": 7,
+      "views": 7854,
+      "quote": {
+        "type": "status",
+        "url": "https://x.com/BitcoinNewsCom/status/2124948835760066888",
+        "id": "2124948835760066888",
+        "text": "BREAKTHROUGH IN BITCOIN CRYPTOGRAPHY: RESEARCHERS UNVEIL FIRST PRACTICAL WITNESS ENCRYPTION FOR GENERAL NP\n\nResearchers at Byzantine Research and Stanford University have introduced Praxis, a new cryptographic scheme that could unlock major advances in Bitcoin scaling, trust-minimized bridges, and smart contracts.\n\nWitness encryption allows information to be encrypted so that only someone possessing a valid mathematical proof can decrypt it.\n\nAt 100-bit security, Praxis achieves:\n\nCiphertext size: Under 8 GB\nEncryption and decryption: Seconds\nSecurity: Formally verified in Lean 4 under specified cryptographic assumptions\n\nCompared with previous constructions, Praxis reduces ciphertext size and encryption costs by more than 10 orders of magnitude, and decryption costs by more than 6 orders of magnitude.\n\nWHY THIS MATTERS FOR BITCOIN:\n\nThe researchers’ primary motivation is enabling non-interactive proof verification on Bitcoin without requiring challengers or operators.\n\nThis could potentially enable:\n\nMore trust-minimized Bitcoin bridges: Reducing reliance on third-party operators and honest challengers to prevent fraudulent transactions.\n\nImproved Bitcoin scaling: Enabling more sophisticated off-chain computation with fewer interactive verification requirements.\n\nMore powerful Bitcoin smart contracts: Opening the door to new applications and conditional execution mechanisms without necessarily requiring changes to Bitcoin’s consensus rules.\n\nReduced trust assumptions: Allowing certain cryptographic proofs to be used without depending on an independent party to monitor and challenge invalid claims.\n\nThe breakthrough could address one of the major limitations of existing Bitcoin scaling proposals, including BitVM-style systems that rely on interactive fraud proofs and honest challengers.\n\nWhile Praxis remains an early-stage research result rather than a production-ready Bitcoin solution, it represents a significant advance toward making witness encryption practical.\n\nPaper: https://eprint.iacr.org/2026/2971",
+        "raw_text": {
+          "text": "BREAKTHROUGH IN BITCOIN CRYPTOGRAPHY: RESEARCHERS UNVEIL FIRST PRACTICAL WITNESS ENCRYPTION FOR GENERAL NP\n\nResearchers at Byzantine Research and Stanford University have introduced Praxis, a new cryptographic scheme that could unlock major advances in Bitcoin scaling, trust-minimized bridges, and smart contracts.\n\nWitness encryption allows information to be encrypted so that only someone possessing a valid mathematical proof can decrypt it.\n\nAt 100-bit security, Praxis achieves:\n\nCiphertext size: Under 8 GB\nEncryption and decryption: Seconds\nSecurity: Formally verified in Lean 4 under specified cryptographic assumptions\n\nCompared with previous constructions, Praxis reduces ciphertext size and encryption costs by more than 10 orders of magnitude, and decryption costs by more than 6 orders of magnitude.\n\nWHY THIS MATTERS FOR BITCOIN:\n\nThe researchers’ primary motivation is enabling non-interactive proof verification on Bitcoin without requiring challengers or operators.\n\nThis could potentially enable:\n\nMore trust-minimized Bitcoin bridges: Reducing reliance on third-party operators and honest challengers to prevent fraudulent transactions.\n\nImproved Bitcoin scaling: Enabling more sophisticated off-chain computation with fewer interactive verification requirements.\n\nMore powerful Bitcoin smart contracts: Opening the door to new applications and conditional execution mechanisms without necessarily requiring changes to Bitcoin’s consensus rules.\n\nReduced trust assumptions: Allowing certain cryptographic proofs to be used without depending on an independent party to monitor and challenge invalid claims.\n\nThe breakthrough could address one of the major limitations of existing Bitcoin scaling proposals, including BitVM-style systems that rely on interactive fraud proofs and honest challengers.\n\nWhile Praxis remains an early-stage research result rather than a production-ready Bitcoin solution, it represents a significant advance toward making witness encryption practical.\n\nPaper: https://t.co/fthmzB9Snl",
+          "display_text_range": [
+            0,
+            2031
+          ],
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                2008,
+                2031
+              ],
+              "original": "https://t.co/fthmzB9Snl",
+              "replacement": "https://eprint.iacr.org/2026/2971",
+              "display": "eprint.iacr.org/2026/2971"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "BitcoinNewsCom",
+          "url": "https://x.com/BitcoinNewsCom",
+          "id": "3005014565",
+          "followers": 266424,
+          "following": 767,
+          "likes": 43388,
+          "media_count": 52204,
+          "statuses": 91640,
+          "name": "Bitcoin News",
+          "description": "Daily News on Bitcoin \n• Read Our Latest Article 📖 https://bitcoinnews.com\n• Live on X and YouTube every Wednesday @ 11 EST",
+          "raw_description": {
+            "text": "Daily News on Bitcoin \n• Read Our Latest Article 📖 https://t.co/6qXRYNRbT9\n• Live on X and YouTube every Wednesday @ 11 EST",
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  51,
+                  74
+                ],
+                "original": "https://t.co/6qXRYNRbT9",
+                "replacement": "https://bitcoinnews.com",
+                "display": "bitcoinnews.com"
+              }
+            ]
+          },
+          "location": "NYC",
+          "banner_url": "https://pbs.twimg.com/profile_banners/3005014565/1738884779",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1885428805788995584/cC9uBOnc_200x200.jpg",
+          "joined": "Fri Jan 30 05:40:08 +0000 2015",
+          "protected": false,
+          "website": {
+            "url": "https://linktr.ee/bitcoinnewscom",
+            "display_url": "linktr.ee/bitcoinnewscom"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "organization"
+          },
+          "type": "profile"
+        },
+        "replies": 23,
+        "reposts": 77,
+        "likes": 646,
+        "bookmarks": 240,
+        "quotes": 11,
+        "embed_card": "tweet",
+        "created_at": "Mon Nov 23 19:30:56 +0000 2026",
+        "created_timestamp": 1795462256,
+        "views": 59419,
+        "is_note_tweet": true,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "tombstone",
+          "provider": "twitter",
+          "reason": "unavailable",
+          "message": "This post is unavailable",
+          "id": "2124858372386337089",
+          "url": "https://x.com/i/status/2124858372386337089"
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-24T05:53:20.840Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2125031855011643616",
+        "id": "2125031855011643616",
+        "text": "This is a positive development for Bitcoin's future, and it got a lot of attention on socials.\n\nRecent price action looks like a leverage tap-out, and shows relative weakness vs. stocks again.\n\nPrice needs to drift up into the end of the week, with a persistent bid, or bulls die.",
+        "raw_text": {
+          "text": "This is a positive development for Bitcoin's future, and it got a lot of attention on socials.\n\nRecent price action looks like a leverage tap-out, and shows relative weakness vs. stocks again.\n\nPrice needs to drift up into the end of the week, with a persistent bid, or bulls die.",
+          "display_text_range": [
+            0,
+            280
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227821,
+          "following": 614,
+          "likes": 110473,
+          "media_count": 343,
+          "statuses": 2501,
+          "name": "SalsaTekila",
+          "description": "washed bitcoin hodler",
+          "raw_description": {
+            "text": "washed bitcoin hodler",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 7,
+        "reposts": 3,
+        "likes": 84,
+        "bookmarks": 13,
+        "quotes": 0,
+        "embed_card": "tweet",
+        "created_at": "Tue Nov 24 01:00:50 +0000 2026",
+        "created_timestamp": 1795482050,
+        "views": 7854,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "quote": {
+          "type": "status",
+          "url": "https://x.com/BitcoinNewsCom/status/2124948835760066888",
+          "id": "2124948835760066888",
+          "text": "BREAKTHROUGH IN BITCOIN CRYPTOGRAPHY: RESEARCHERS UNVEIL FIRST PRACTICAL WITNESS ENCRYPTION FOR GENERAL NP\n\nResearchers at Byzantine Research and Stanford University have introduced Praxis, a new cryptographic scheme that could unlock major advances in Bitcoin scaling, trust-minimized bridges, and smart contracts.\n\nWitness encryption allows information to be encrypted so that only someone possessing a valid mathematical proof can decrypt it.\n\nAt 100-bit security, Praxis achieves:\n\nCiphertext size: Under 8 GB\nEncryption and decryption: Seconds\nSecurity: Formally verified in Lean 4 under specified cryptographic assumptions\n\nCompared with previous constructions, Praxis reduces ciphertext size and encryption costs by more than 10 orders of magnitude, and decryption costs by more than 6 orders of magnitude.\n\nWHY THIS MATTERS FOR BITCOIN:\n\nThe researchers’ primary motivation is enabling non-interactive proof verification on Bitcoin without requiring challengers or operators.\n\nThis could potentially enable:\n\nMore trust-minimized Bitcoin bridges: Reducing reliance on third-party operators and honest challengers to prevent fraudulent transactions.\n\nImproved Bitcoin scaling: Enabling more sophisticated off-chain computation with fewer interactive verification requirements.\n\nMore powerful Bitcoin smart contracts: Opening the door to new applications and conditional execution mechanisms without necessarily requiring changes to Bitcoin’s consensus rules.\n\nReduced trust assumptions: Allowing certain cryptographic proofs to be used without depending on an independent party to monitor and challenge invalid claims.\n\nThe breakthrough could address one of the major limitations of existing Bitcoin scaling proposals, including BitVM-style systems that rely on interactive fraud proofs and honest challengers.\n\nWhile Praxis remains an early-stage research result rather than a production-ready Bitcoin solution, it represents a significant advance toward making witness encryption practical.\n\nPaper: https://eprint.iacr.org/2026/2971",
+          "raw_text": {
+            "text": "BREAKTHROUGH IN BITCOIN CRYPTOGRAPHY: RESEARCHERS UNVEIL FIRST PRACTICAL WITNESS ENCRYPTION FOR GENERAL NP\n\nResearchers at Byzantine Research and Stanford University have introduced Praxis, a new cryptographic scheme that could unlock major advances in Bitcoin scaling, trust-minimized bridges, and smart contracts.\n\nWitness encryption allows information to be encrypted so that only someone possessing a valid mathematical proof can decrypt it.\n\nAt 100-bit security, Praxis achieves:\n\nCiphertext size: Under 8 GB\nEncryption and decryption: Seconds\nSecurity: Formally verified in Lean 4 under specified cryptographic assumptions\n\nCompared with previous constructions, Praxis reduces ciphertext size and encryption costs by more than 10 orders of magnitude, and decryption costs by more than 6 orders of magnitude.\n\nWHY THIS MATTERS FOR BITCOIN:\n\nThe researchers’ primary motivation is enabling non-interactive proof verification on Bitcoin without requiring challengers or operators.\n\nThis could potentially enable:\n\nMore trust-minimized Bitcoin bridges: Reducing reliance on third-party operators and honest challengers to prevent fraudulent transactions.\n\nImproved Bitcoin scaling: Enabling more sophisticated off-chain computation with fewer interactive verification requirements.\n\nMore powerful Bitcoin smart contracts: Opening the door to new applications and conditional execution mechanisms without necessarily requiring changes to Bitcoin’s consensus rules.\n\nReduced trust assumptions: Allowing certain cryptographic proofs to be used without depending on an independent party to monitor and challenge invalid claims.\n\nThe breakthrough could address one of the major limitations of existing Bitcoin scaling proposals, including BitVM-style systems that rely on interactive fraud proofs and honest challengers.\n\nWhile Praxis remains an early-stage research result rather than a production-ready Bitcoin solution, it represents a significant advance toward making witness encryption practical.\n\nPaper: https://t.co/fthmzB9Snl",
+            "display_text_range": [
+              0,
+              2031
+            ],
+            "facets": [
+              {
+                "type": "url",
+                "indices": [
+                  2008,
+                  2031
+                ],
+                "original": "https://t.co/fthmzB9Snl",
+                "replacement": "https://eprint.iacr.org/2026/2971",
+                "display": "eprint.iacr.org/2026/2971"
+              }
+            ]
+          },
+          "author": {
+            "screen_name": "BitcoinNewsCom",
+            "url": "https://x.com/BitcoinNewsCom",
+            "id": "3005014565",
+            "followers": 266424,
+            "following": 767,
+            "likes": 43388,
+            "media_count": 52204,
+            "statuses": 91640,
+            "name": "Bitcoin News",
+            "description": "Daily News on Bitcoin \n• Read Our Latest Article 📖 https://bitcoinnews.com\n• Live on X and YouTube every Wednesday @ 11 EST",
+            "raw_description": {
+              "text": "Daily News on Bitcoin \n• Read Our Latest Article 📖 https://t.co/6qXRYNRbT9\n• Live on X and YouTube every Wednesday @ 11 EST",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    51,
+                    74
+                  ],
+                  "original": "https://t.co/6qXRYNRbT9",
+                  "replacement": "https://bitcoinnews.com",
+                  "display": "bitcoinnews.com"
+                }
+              ]
+            },
+            "location": "NYC",
+            "banner_url": "https://pbs.twimg.com/profile_banners/3005014565/1738884779",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1885428805788995584/cC9uBOnc_200x200.jpg",
+            "joined": "Fri Jan 30 05:40:08 +0000 2015",
+            "protected": false,
+            "website": {
+              "url": "https://linktr.ee/bitcoinnewscom",
+              "display_url": "linktr.ee/bitcoinnewscom"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "organization"
+            },
+            "type": "profile"
+          },
+          "replies": 23,
+          "reposts": 77,
+          "likes": 646,
+          "bookmarks": 240,
+          "quotes": 11,
+          "embed_card": "tweet",
+          "created_at": "Mon Nov 23 19:30:56 +0000 2026",
+          "created_timestamp": 1795462256,
+          "views": 59419,
+          "is_note_tweet": true,
+          "community_note": null,
+          "lang": "en",
+          "replying_to": null,
+          "media": {},
+          "quote": {
+            "type": "tombstone",
+            "provider": "twitter",
+            "reason": "unavailable",
+            "message": "This post is unavailable",
+            "id": "2124858372386337089",
+            "url": "https://x.com/i/status/2124858372386337089"
+          },
+          "provider": "twitter",
+          "reposted_by": null
+        },
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    },
+    {
+      "tweet_id": "2125033544854716779",
+      "id": "2125033544854716779",
+      "author": {
+        "screen_name": "SalsaTekila",
+        "name": "SalsaTekila"
+      },
+      "created_at": "2026-11-24T01:07:32.000Z",
+      "created_timestamp": 1795482452000,
+      "text": "My intuition tells me BTC fully retracing the Jensen-instigated pump is good for holders.\n\nIf it grinds up from here, there's a stronger argument for the bulls.\n\nA trend catalyzed by an unrelated headline in an unrelated market would always leave me thinking it won't last.",
+      "url": "https://x.com/SalsaTekila/status/2125033544854716779",
+      "lang": "en",
+      "likes": 158,
+      "reposts": 3,
+      "quotes": 3,
+      "replies": 22,
+      "views": 13621,
+      "quote": null,
+      "media": {
+        "photos": [],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-24T05:53:20.840Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/SalsaTekila/status/2125033544854716779",
+        "id": "2125033544854716779",
+        "text": "My intuition tells me BTC fully retracing the Jensen-instigated pump is good for holders.\n\nIf it grinds up from here, there's a stronger argument for the bulls.\n\nA trend catalyzed by an unrelated headline in an unrelated market would always leave me thinking it won't last.",
+        "raw_text": {
+          "text": "My intuition tells me BTC fully retracing the Jensen-instigated pump is good for holders.\n\nIf it grinds up from here, there's a stronger argument for the bulls.\n\nA trend catalyzed by an unrelated headline in an unrelated market would always leave me thinking it won't last.",
+          "display_text_range": [
+            0,
+            273
+          ],
+          "facets": []
+        },
+        "author": {
+          "screen_name": "SalsaTekila",
+          "url": "https://x.com/SalsaTekila",
+          "id": "1566114613",
+          "followers": 227821,
+          "following": 614,
+          "likes": 110473,
+          "media_count": 343,
+          "statuses": 2501,
+          "name": "SalsaTekila",
+          "description": "washed bitcoin hodler",
+          "raw_description": {
+            "text": "washed bitcoin hodler",
+            "facets": []
+          },
+          "location": "Sombrero",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1566114613/1773805079",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1617707725781368832/0GNyR8U7_200x200.jpg",
+          "joined": "Wed Jul 03 15:53:22 +0000 2013",
+          "protected": false,
+          "website": null,
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "individual"
+          },
+          "type": "profile"
+        },
+        "replies": 22,
+        "reposts": 3,
+        "likes": 158,
+        "bookmarks": 10,
+        "quotes": 3,
+        "embed_card": "tweet",
+        "created_at": "Tue Nov 24 01:07:32 +0000 2026",
+        "created_timestamp": 1795482452,
+        "views": 13621,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {},
+        "provider": "twitter",
+        "reposted_by": null
+      },
+      "tracked_account": "SalsaTekila",
+      "is_repost": false,
+      "post_type": "original"
+    }
+  ]
+}
