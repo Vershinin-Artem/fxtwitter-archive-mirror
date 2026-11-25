@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "count": 60,
+  "count": 61,
   "tweets": [
     {
       "tweet_id": "2125030292440191362",
@@ -8709,6 +8709,161 @@
       "is_repost": true,
       "post_type": "repost",
       "repost_original_author": "AlgodTrading"
+    },
+    {
+      "tweet_id": "2125249002295701822",
+      "id": "2125249002295701822",
+      "author": {
+        "screen_name": "Trezor",
+        "name": "Trezor"
+      },
+      "created_at": "2026-11-24T15:23:42.000Z",
+      "created_timestamp": 1795533822000,
+      "text": "Passphrases can now be up to 128 characters long in Trezor Suite!\n\nWhat is a passphrase? An optional, advanced feature that lets you create additional wallets protected by a custom passphrase.\n\nBefore creating one, learn how to use passphrases safely:\nhttps://trezor.io/guides/trezor-suite/using-a-passphrase-wallet-in-trezor-suite",
+      "url": "https://x.com/Trezor/status/2125249002295701822",
+      "lang": "en",
+      "likes": 145,
+      "reposts": 13,
+      "quotes": 2,
+      "replies": 20,
+      "views": 12994,
+      "quote": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2125248743008018432",
+            "url": "https://pbs.twimg.com/media/HX5meMJWoAAeDNz.png?name=orig",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2125248743008018432",
+            "url": "https://pbs.twimg.com/media/HX5meMJWoAAeDNz.png?name=orig",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "videos": [],
+        "external": []
+      },
+      "collected_at": "2026-11-25T10:21:55.570Z",
+      "raw": {
+        "type": "status",
+        "url": "https://x.com/Trezor/status/2125249002295701822",
+        "id": "2125249002295701822",
+        "text": "Passphrases can now be up to 128 characters long in Trezor Suite!\n\nWhat is a passphrase? An optional, advanced feature that lets you create additional wallets protected by a custom passphrase.\n\nBefore creating one, learn how to use passphrases safely:\nhttps://trezor.io/guides/trezor-suite/using-a-passphrase-wallet-in-trezor-suite",
+        "raw_text": {
+          "text": "Passphrases can now be up to 128 characters long in Trezor Suite!\n\nWhat is a passphrase? An optional, advanced feature that lets you create additional wallets protected by a custom passphrase.\n\nBefore creating one, learn how to use passphrases safely:\nhttps://t.co/edeVFikARs https://t.co/HOtNoPykfc",
+          "display_text_range": [
+            0,
+            275
+          ],
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                252,
+                275
+              ],
+              "original": "https://t.co/edeVFikARs",
+              "replacement": "https://trezor.io/guides/trezor-suite/using-a-passphrase-wallet-in-trezor-suite",
+              "display": "trezor.io/guides/trezor-…"
+            },
+            {
+              "type": "media",
+              "indices": [
+                276,
+                299
+              ],
+              "id": "2125248743008018432",
+              "display": "pic.x.com/HOtNoPykfc",
+              "original": "https://t.co/HOtNoPykfc",
+              "replacement": "https://x.com/Trezor/status/2125249002295701822/photo/1"
+            }
+          ]
+        },
+        "author": {
+          "screen_name": "Trezor",
+          "url": "https://x.com/Trezor",
+          "id": "1431204614",
+          "followers": 249096,
+          "following": 1135,
+          "likes": 52290,
+          "media_count": 8989,
+          "statuses": 53209,
+          "name": "Trezor",
+          "description": "Creators of the first-ever hardware wallet (2014).\nSecuring crypto for 2M+ users worldwide. 100% open source. \nTake control. Tweets are not intended for the UK.",
+          "raw_description": {
+            "text": "Creators of the first-ever hardware wallet (2014).\nSecuring crypto for 2M+ users worldwide. 100% open source. \nTake control. Tweets are not intended for the UK.",
+            "facets": []
+          },
+          "location": "",
+          "banner_url": "https://pbs.twimg.com/profile_banners/1431204614/1795100620",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1876994745022529536/5FD_cxXO_200x200.jpg",
+          "joined": "Wed May 15 18:23:53 +0000 2013",
+          "protected": false,
+          "website": {
+            "url": "https://trezor.io/",
+            "display_url": "trezor.io"
+          },
+          "verification": {
+            "verified": true,
+            "verified_at": null,
+            "type": "organization"
+          },
+          "type": "profile"
+        },
+        "replies": 20,
+        "reposts": 13,
+        "likes": 145,
+        "bookmarks": 50,
+        "quotes": 2,
+        "embed_card": "summary_large_image",
+        "created_at": "Tue Nov 24 15:23:42 +0000 2026",
+        "created_timestamp": 1795533822,
+        "possibly_sensitive": false,
+        "views": 12994,
+        "is_note_tweet": false,
+        "community_note": null,
+        "lang": "en",
+        "replying_to": null,
+        "media": {
+          "all": [
+            {
+              "type": "photo",
+              "id": "2125248743008018432",
+              "url": "https://pbs.twimg.com/media/HX5meMJWoAAeDNz.png?name=orig",
+              "width": 1080,
+              "height": 1080
+            }
+          ],
+          "photos": [
+            {
+              "type": "photo",
+              "id": "2125248743008018432",
+              "url": "https://pbs.twimg.com/media/HX5meMJWoAAeDNz.png?name=orig",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "provider": "twitter",
+        "reposted_by": {
+          "id": "1443582062963822599",
+          "name": "Crypto Kid",
+          "screen_name": "CryptoKid",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2124192690975948800/476i6i0F_200x200.jpg",
+          "url": "https://x.com/CryptoKid"
+        }
+      },
+      "tracked_account": "CryptoKid",
+      "is_repost": true,
+      "post_type": "repost",
+      "repost_original_author": "Trezor"
     },
     {
       "tweet_id": "2125251604395802842",
