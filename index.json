@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-26T02:46:10.160Z",
-  "latest_tweet_collected_at": "2026-11-26T02:46:10.160Z",
-  "latest_tweet_created_at": "2026-11-25T23:59:04.000Z",
-  "total_tweets": 3196,
+  "updated_at": "2026-11-26T12:12:31.270Z",
+  "latest_tweet_collected_at": "2026-11-26T12:12:31.270Z",
+  "latest_tweet_created_at": "2026-11-26T12:00:01.000Z",
+  "total_tweets": 3210,
   "first_date": "2025-01-29",
-  "last_date": "2026-11-25",
+  "last_date": "2026-11-26",
   "tracked_accounts": [
     "Pentosh1",
     "DonAlt",
@@ -23,17 +23,17 @@
   "accounts": {
     "Pentosh1": 50,
     "DonAlt": 81,
-    "SalsaTekila": 431,
+    "SalsaTekila": 432,
     "HsakaTrades": 20,
-    "TedPillows": 1293,
+    "TedPillows": 1301,
     "inmortalcrypto": 134,
-    "DaanCrypto": 441,
+    "DaanCrypto": 444,
     "Sheldino_D": 71,
-    "CryptoKid": 371,
+    "CryptoKid": 372,
     "cryptolimbo": 33,
     "DeFi_Paanda": 82,
     "DrProfitCrypto": 53,
-    "Alejandro_XBT": 136
+    "Alejandro_XBT": 137
   },
   "account_stats": {
     "Pentosh1": {
@@ -47,8 +47,8 @@
       "reposts": 0
     },
     "SalsaTekila": {
-      "total": 431,
-      "original_posts": 383,
+      "total": 432,
+      "original_posts": 384,
       "reposts": 48
     },
     "HsakaTrades": {
@@ -57,8 +57,8 @@
       "reposts": 2
     },
     "TedPillows": {
-      "total": 1293,
-      "original_posts": 1290,
+      "total": 1301,
+      "original_posts": 1298,
       "reposts": 3
     },
     "inmortalcrypto": {
@@ -67,8 +67,8 @@
       "reposts": 1
     },
     "DaanCrypto": {
-      "total": 441,
-      "original_posts": 438,
+      "total": 444,
+      "original_posts": 441,
       "reposts": 3
     },
     "Sheldino_D": {
@@ -77,9 +77,9 @@
       "reposts": 19
     },
     "CryptoKid": {
-      "total": 371,
+      "total": 372,
       "original_posts": 227,
-      "reposts": 144
+      "reposts": 145
     },
     "cryptolimbo": {
       "total": 33,
@@ -97,13 +97,18 @@
       "reposts": 0
     },
     "Alejandro_XBT": {
-      "total": 136,
-      "original_posts": 128,
+      "total": 137,
+      "original_posts": 129,
       "reposts": 8
     }
   },
   "unattributed_tweets": 0,
   "dates": [
+    {
+      "date": "2026-11-26",
+      "count": 14,
+      "file": "archive/2026-11-26.json"
+    },
     {
       "date": "2026-11-25",
       "count": 69,
